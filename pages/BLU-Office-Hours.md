@@ -18,4 +18,4 @@ The structure of an office hours session will be
 - Hour 2 and 3 - Answer questions and talk with students
 
 ## How to answer questions 
-Remember to read the [how to give help](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help#how-to-give-help) section of the wiki :) 
+Remember to read the [how to give help](./pages/How-to-ask-for-and-give-help#how-to-give-help) section of the wiki :) 

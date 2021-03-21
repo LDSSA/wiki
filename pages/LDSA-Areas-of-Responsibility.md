@@ -1,19 +1,19 @@
 # Areas of Responsibility
 
 The comprehensive list is:
-- [Ops](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#ops)
-- [Marketing](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#marketing)
-- [Teaching](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#teaching)
-- [Student Success](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#student-success)
-- [Community](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#community)
-- [Communications](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#communications)
-- [Finance](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#finance)
-- [Dev-Ops](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#dev-ops)
-- [Organizational Admin](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#organization-admin)
-- [Curriculum Development](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#curriculum-development)
-- [Partnerships](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#partnerships)
-- [Quality Assurance](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#quality-assurance)
-- [Documentation](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#documentation)
+- [Ops](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#ops)
+- [Marketing](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#marketing)
+- [Teaching](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#teaching)
+- [Student Success](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#student-success)
+- [Community](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#community)
+- [Communications](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#communications)
+- [Finance](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#finance)
+- [Dev-Ops](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#dev-ops)
+- [Organizational Admin](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#organization-admin)
+- [Curriculum Development](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#curriculum-development)
+- [Partnerships](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#partnerships)
+- [Quality Assurance](./pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#quality-assurance)
+- [Documentation](./pages/LDSA-Areas-of-Responsibility#documentation)
 
 The purpose of defining Areas of Responsibility is so that when a task needs to get done
 
@@ -44,7 +44,7 @@ their area get done. NOT NECESSARILY PERFORMING THE TASKS THEMSELVES! Although t
 enabler will execute many tasks that are in their area, you can and should delegate tasks
 by assigning people and due dates to the tasks located in your area's trello board.
 
-You can see who the primary enabler is on the [Member directory](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)
+You can see who the primary enabler is on the [Member directory](./pages/Member-Directory#organizational-structure)
 
 ### Trello board
 
@@ -65,7 +65,7 @@ board should be hooked up with a Slack channel so that card movement also goes i
 Each of the following is an area of responsibility with a brief description of the kinds of tasks. 
 
 ### Ops 
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure). 
+[Primary enabler](./pages/Member-Directory#organizational-structure). 
 We hold 6 events per batch in which we need wifi, food, outlets, desks, chairs, and good ambiance coordinated
 for each one of the. The most intensive event is the 3-day bootcamp in which we hold 3 10-hour days that provide
 breakfast and lunch per day. The rest of the events are single-day 10 hour hackathons that have similar
@@ -84,18 +84,18 @@ effort is concentrated at the beginning of the batch with the bootcamp.
 - Communicating with hackathon and bootcamp hosts to ensure delivery of things like food and internet connection are present.
 
 ### Curriculum Development
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Define what concepts should be taught
 - Define the order in which these concepts should be taught
 
 ### Student Success
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Ensuring that students have a path to success
 - Gathering feedback from students
 - Making sure students have a voice and can be heard
 
 ### Community  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 Why do we need one?
 - Academy’s mission is about building and maintaining a community. We have the teaching and learning part on the right track, what needs to be done now is to work on the community part which is now the #1 priority of the academy.
 - As of yet, we have not developed our community the way that we would like so it is key to improve upon this.
@@ -119,41 +119,41 @@ Activities
 - The low-level details about what you will be doing we don’t know yet. We will need to and would very much like to work with you to define exactly what needs to be done on a day-to-day basis.
 
 ### Communications  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Answer or route questions that come in on open channels (info@, fb messenger, etc)
 - Work on communication strategies (need to be defined what this means)
 - Maintain the unbounce page
 
 ### Teaching  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Ensure that instructional material is owned and delivered. This includes assigning LUs to
   instructors and making sure that they get done on schedule.
 - Ensuring that guest instructors clearly understand what is
   expected of them and make realistic commitments.
 
 ### Dev-Ops  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Ensuring that students can set up their machines
 - Ensuring auto-grading infrastructure availability
 - Hosting and running the hackathons
 
 ### Finance  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - TODO
 
 ### Marketing  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Ensure that visibility and credibility of the academy is communicated
 - Identify target audiences
 - Set and execute communication strategies for audiences
 
 ### Organization Admin  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 - Ensure that big organization-critical tasks are done
 - This includes writing job descriptions, getting bank account, strategies are written
 
 ### Partnerships  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 The Partnerships team should ensure that any relationship that we have with other companies or organizations stay healthy and are in line with the charter. You must also ensure that expectations for both organizations are in line and that it is a worthwhile experience. 
 
 Some specific tasks in this are are:  
@@ -176,7 +176,7 @@ Main responsibilities are:
    * Review and update of stale/obsolete docs
 
 ### Quality Assurance  
-[Primary enabler](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure)  
+[Primary enabler](./pages/Member-Directory#organizational-structure)  
 The core product of the Starters Academy is the educational material. Unexpected issues such as bugs in the code
 or an exercise that is unclear and is likely to cause lots of confusion cause significant problems because of the number of people involved. In past academies, we have lost many man-hours fixing learning units after they have been released to the students.
 
@@ -188,5 +188,5 @@ Some specific tasks are:
 - Doing one final reading of any material before it is released to find obvious issues
 
 # Final Notes
-If you have issues deciding where a task should go, feel free to contact the [primary enabler of organization admin](https://github.com/LDSSA/wiki/wiki/Member-Directory#organizational-structure) directly! It is
+If you have issues deciding where a task should go, feel free to contact the [primary enabler of organization admin](./pages/Member-Directory#organizational-structure) directly! It is
 that person's responsibility to make sure that everyone is happily contributing :-)
