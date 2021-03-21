@@ -44,7 +44,7 @@ their area get done. NOT NECESSARILY PERFORMING THE TASKS THEMSELVES! Although t
 enabler will execute many tasks that are in their area, you can and should delegate tasks
 by assigning people and due dates to the tasks located in your area's trello board.
 
-You can see who the primary enabler is on the [Member directory](/Member-Directory)
+You can see who the primary enabler is on the [Member directory](./Member-Directory)
 
 ### Trello board
 
