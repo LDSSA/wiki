@@ -1,4 +1,6 @@
-# [Go to The Wiki](https://github.com/LDSSA/wiki/wiki)
+# [old wiki](https://github.com/LDSSA/wiki/wiki)
+
+# [new wiki (beta)](https://ldssa.github.io/wiki/)
 
 The official single source of truth for the Lisbon Data Science Starters Academy.
 
