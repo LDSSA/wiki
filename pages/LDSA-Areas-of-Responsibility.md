@@ -1,18 +1,18 @@
 # Areas of Responsibility
 
 The comprehensive list is:
-- [Ops](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#ops)
-- [Marketing](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#marketing)
-- [Teaching](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#teaching)
-- [Student Success](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#student-success)
-- [Community](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#community)
-- [Communications](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#communications)
-- [Finance](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#finance)
-- [Dev-Ops](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#dev-ops)
-- [Organizational Admin](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#organization-admin)
-- [Curriculum Development](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#curriculum-development)
-- [Partnerships](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#partnerships)
-- [Quality Assurance](pages/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#quality-assurance)
+- [Ops](pages/LDSA-Areas-of-Responsibility#ops)
+- [Marketing](pages/LDSA-Areas-of-Responsibility#marketing)
+- [Teaching](pages/LDSA-Areas-of-Responsibility#teaching)
+- [Student Success](pages/LDSA-Areas-of-Responsibility#student-success)
+- [Community](pages/LDSA-Areas-of-Responsibility#community)
+- [Communications](pages/LDSA-Areas-of-Responsibility#communications)
+- [Finance](pages/LDSA-Areas-of-Responsibility#finance)
+- [Dev-Ops](pages/LDSA-Areas-of-Responsibility#dev-ops)
+- [Organizational Admin](pages/LDSA-Areas-of-Responsibility#organization-admin)
+- [Curriculum Development](pages/LDSA-Areas-of-Responsibility#curriculum-development)
+- [Partnerships](pages/LDSA-Areas-of-Responsibility#partnerships)
+- [Quality Assurance](pages/LDSA-Areas-of-Responsibility#quality-assurance)
 - [Documentation](pages/LDSA-Areas-of-Responsibility#documentation)
 
 The purpose of defining Areas of Responsibility is so that when a task needs to get done
