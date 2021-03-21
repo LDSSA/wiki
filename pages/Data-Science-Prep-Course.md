@@ -1,5 +1,3 @@
-[back to main page](./README.md)
-
 What's in this page:
 
 - [Course overview](#course-overview)

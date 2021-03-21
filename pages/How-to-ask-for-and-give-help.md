@@ -1,4 +1,3 @@
-[back to main page](./README.md)
 
 
 - [How to ask for help](pages/How-to-ask-for-and-give-help#how-to-ask-for-help)

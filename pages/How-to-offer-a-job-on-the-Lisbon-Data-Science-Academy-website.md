@@ -1,5 +1,3 @@
-[back to main page](./README.md)
-
 
 # Job offer instructions 
 
