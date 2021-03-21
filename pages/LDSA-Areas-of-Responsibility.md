@@ -95,7 +95,7 @@ effort is concentrated at the beginning of the batch with the bootcamp.
 - Making sure students have a voice and can be heard
 
 ### Community  
-[Primary enabler](pages/Member-Directory)  
+[Primary enabler](./pages/Member-Directory)  
 Why do we need one?
 - Academy’s mission is about building and maintaining a community. We have the teaching and learning part on the right track, what needs to be done now is to work on the community part which is now the #1 priority of the academy.
 - As of yet, we have not developed our community the way that we would like so it is key to improve upon this.
