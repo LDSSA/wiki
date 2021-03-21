@@ -11,8 +11,8 @@ This agreement serves to set expectations from the side of the Academy as well a
 ## Communication Commitment
 **I commit to communicating with the rest of the team.** If you’re struggling, that’s okay. These are not simple positions and the organization has a lot of members. It’s okay to struggle for a bit with something but if it goes on too long, it is your duty to seek help. Finally, if you become unable to hold the position you should communicate this, without shame, to a [member of the Executive Team](pages/Member-Directory#executive-team).
 
-## OKR Commitment
-**I commit to defining and then doing my best to reach my OKRs.** The OKR document will be stand-alone and may change independently of this one but since you are responsible for defining them there will never be anything on them that is out of your control.
+## Objectives and Key Results Commitment
+**I commit to define and write down my Objectives and Key Results (OKRs), and then doing my best to reach them.** The OKRs document will be stand-alone and may change independently of this one but since you are responsible for defining them there will never be anything on them that is out of your control.
 
 ## Workload Sharing Encouraged
 **I commit to recruiting help when I need it.** As the name Primary Enabler suggests, the work doesn’t always need to be done by you. In fact, you **should** recruit other people to help you. Examples of reasons you would want to recruit someone to help are as follows:
