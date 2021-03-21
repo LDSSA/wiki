@@ -23,7 +23,7 @@ Job offers must be for data science or data engineering related positions. Pleas
 
 
 ## What are the rules for submitting? 
-1. Organizations requesting to submit a job offer must be compatible with the [LDSA values](./pages/Code-of-Conduct#discrimination-and-harassment). 
+1. Organizations requesting to submit a job offer must be compatible with the [LDSA values](pages/Code-of-Conduct#discrimination-and-harassment). 
 1. Organizations can have a maximum of 3 offers available at a given time. 
 1. Organizations must complete all sections of the template without missing information, nor excessive information. Each section will have a character limit that must be respected.  
 1. Organizations must use factual and verifiable information in their descriptions. Vague, hyperbolic or non-falsifiable statements will be rejected. Examples (non comprehensive): 

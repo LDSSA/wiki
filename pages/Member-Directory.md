@@ -22,22 +22,22 @@ The executive team consists of three people, which have generally behaved the sa
 
 
 ### Organizational structure
-(first person listed in each AOR is the [primary enabler](./pages/LDSA-Areas-of-Responsibility#primary-enabler)) 
+(first person listed in each AOR is the [primary enabler](pages/LDSA-Areas-of-Responsibility#primary-enabler)) 
 
 | Area of Responsibility | People |
 |-|-|
-|[Organization Admin](./pages/LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
-|[Curriculum Development](./pages/LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
-|[Teaching](./pages/LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
-|[Operations](./pages/LDSA-Areas-of-Responsibility#ops)| - |
-|[Communications](./pages/LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
-|[Marketing](./pages/LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
-|[Partnerships](./pages/LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
-|[Student Success](./pages/LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Juliana Rodrigues|
-|[Community](./pages/LDSA-Areas-of-Responsibility#community)| - |
-|[Dev-Ops](./pages/LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
-|[Quality Assurance](./pages/LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
-|[Finance](./pages/LDSA-Areas-of-Responsibility#finance)|-|
+|[Organization Admin](pages/LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
+|[Curriculum Development](pages/LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
+|[Teaching](pages/LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
+|[Operations](pages/LDSA-Areas-of-Responsibility#ops)| - |
+|[Communications](pages/LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
+|[Marketing](pages/LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
+|[Partnerships](pages/LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
+|[Student Success](pages/LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Juliana Rodrigues|
+|[Community](pages/LDSA-Areas-of-Responsibility#community)| - |
+|[Dev-Ops](pages/LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
+|[Quality Assurance](pages/LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
+|[Finance](pages/LDSA-Areas-of-Responsibility#finance)|-|
 |Prep Course| [Minh](#minh-hoang)|
 |Jobs| [Pedro Fonseca](#pedro-fonseca)<br> [Miguel Dias](#miguel-dias)|
 |Admissions| - |

@@ -2,9 +2,9 @@
 
 The Data Science Starters Academy is a series of events dedicated to helping people become entry-level data scientists, by teaching introductory material. 
 
-As of its fourth edition (2020) it consists of approximately 30 Learning Units, 6 Hackathons and 1 capstone project. It contains 3 units to be done during the admission process, see more about it in the [admission process](./pages/Application-process). This edition is also the first to be held remotely, following the guidelines recommended by the portuguese government and the world health organization.
+As of its fourth edition (2020) it consists of approximately 30 Learning Units, 6 Hackathons and 1 capstone project. It contains 3 units to be done during the admission process, see more about it in the [admission process](pages/Application-process). This edition is also the first to be held remotely, following the guidelines recommended by the portuguese government and the world health organization.
 
-_It should not be mistaken for the [Lisbon Data Science Academy](./pages/Lisbon-Data-Science-Academy-(Organization)), which is the organization responsible for running the course._
+_It should not be mistaken for the [Lisbon Data Science Academy](pages/Lisbon-Data-Science-Academy-(Organization)), which is the organization responsible for running the course._
 
 ## Schedule
 
@@ -99,7 +99,7 @@ There are 6 hackathons in total.
 Specializations are sets of _Learning Units_ and _Hackathons_, focusing on specific themes.
 
 The first specialization consists of:
-- 3 SLUs that are covered during the admissions process (see [here](./pages/Application-process#admission-tests))
+- 3 SLUs that are covered during the admissions process (see [here](pages/Application-process#admission-tests))
 - 16 SLUs that are covered during the Bootcamp
 - Hackathon #1 about Binary Classification
 
@@ -121,4 +121,4 @@ We think that the most important thing you'll take our of the Academy will be th
 
 This resume will list all the Starters Academy's specializations, explain what it means to pass each specialization, and show the grades that you've achieved in each of them. If you miss a specialization, you'll score 0 (zero) on that specialization, and this will be shown in your resume. You'll only be issued a Data Science Resume in case you miss one or zero specializations. 
 
-The capstone, [Bootcamp days](./pages/Starters-Academy-(Course)#bootcamp-days) and Hackathon #1 cannot be missed or delivered late. If you can't attend one of the remaining specializations you're allowed to deliver all the evaluation elements for that specialization (BLUs + hackathon) until the end of the following month, and it won't count as a missed specialization for the resume. For example, if a specialization ends with the hackathon on the 20th of August, this means all materials need to be delivered until September 30th, 23h59.
+The capstone, [Bootcamp days](pages/Starters-Academy-(Course)#bootcamp-days) and Hackathon #1 cannot be missed or delivered late. If you can't attend one of the remaining specializations you're allowed to deliver all the evaluation elements for that specialization (BLUs + hackathon) until the end of the following month, and it won't count as a missed specialization for the resume. For example, if a specialization ends with the hackathon on the 20th of August, this means all materials need to be delivered until September 30th, 23h59.

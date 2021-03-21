@@ -9,7 +9,7 @@ We believe that for a community centered on education to thrive, there must be a
 
 This code of conduct aims to clarify the expectation. It is both binding and enforced, meaning that anyone can be expelled for breaches of the code of conduct. It explains what the expected behavior is, rather than attempting to list all unacceptable behaviors. Students and all Staff are expected to follow the LDSA Code of Conduct, in letter and in spirit. 
 
-Enforcement is done by a [disciplinary commission](./pages/Disciplinary-action#disciplinary-commission), which has the power to issue warnings, or expulsion orders. Multiple warnings may result in expulsion, even if none of the warnings themselves would have been sufficient. In situations where there is ambiguity, this commission has final word. Students who are expelled from any activity of the Academy will be denied access to future activities, and will not (where relevant) be issued any refunds. 
+Enforcement is done by a [disciplinary commission](pages/Disciplinary-action#disciplinary-commission), which has the power to issue warnings, or expulsion orders. Multiple warnings may result in expulsion, even if none of the warnings themselves would have been sufficient. In situations where there is ambiguity, this commission has final word. Students who are expelled from any activity of the Academy will be denied access to future activities, and will not (where relevant) be issued any refunds. 
 
 ### 1. Academic integrity is expected of everyone 
 Your answers to assignments must be your own work (except for assignments that explicitly permit collaboration).
@@ -54,4 +54,4 @@ That means, among other things, that you are expected not to bring discardable p
 ### Epilogue 
 The code of conduct is strict, and goes way beyond what many organizations expect. Please understand that by accepting it, you are agreeing that you will be bound by it. 
 
-If you are found to have violated this code of conduct, you may receive a [warnings or an expulsion order](./pages/Disciplinary-action#types-of-disciplinary-action), depending on the severity, and the interpretation of the disciplinary commission is final. 
+If you are found to have violated this code of conduct, you may receive a [warnings or an expulsion order](pages/Disciplinary-action#types-of-disciplinary-action), depending on the severity, and the interpretation of the disciplinary commission is final. 

@@ -7,13 +7,13 @@ Yes, you can! All contact details are [here](http://www.lisbondatascience.org/#l
 All the main dates can be found [here](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_th6fpmimvqvso12t70cd1gkvq8@group.calendar.google.com&ctz=Europe/Lisbon&pli=1). If applications aren't open and you want be notified when they open, please [leave us your email](http://www.lisbondatascience.org/) 
 
 ### What is the Starters Academy?
-Please read the [Academy Guide](./pages/Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
+Please read the [Academy Guide](pages/Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
 
 ### How do I apply? What are the prerequisites? 
-Here is the [Application process](./pages/Application-process) and the [Prerequisites section](./pages/Target-audience-and-Pre-requisites-for-the-Starters-Academy).
+Here is the [Application process](pages/Application-process) and the [Prerequisites section](pages/Target-audience-and-Pre-requisites-for-the-Starters-Academy).
 
 ### Is there any financial support if I can't afford the student fees?
-Yes, we are currently trialing a [scholarships program](./pages/Application-process#scholarships)
+Yes, we are currently trialing a [scholarships program](pages/Application-process#scholarships)
 
 ### What will be the size of the students group?
 In 2020 the class will be around 100 students. The idea is to have a high teacher-student ratio, and to ensure everyone gets enough support, while still being able to teach a reasonable number of students. 
@@ -30,7 +30,7 @@ We are currently working on a jobs page, if you want to learn more contact us at
 English. _(...and Python)_
 
 ### Will you teach python? 
-The starters Academy requires Python, but we do have a [prep course](./pages/Data-Science-Prep-Course) that teaches it!  
+The starters Academy requires Python, but we do have a [prep course](pages/Data-Science-Prep-Course) that teaches it!  
 
 ### I don’t know any data science, will I be able to make the classes? 
 Yes! The classes are directed at people who are giving their first steps in the data science world. 
@@ -43,6 +43,6 @@ Setup must be done before arrival, we will provide step by step instructions and
 [Here is the setup](https://github.com/LDSSA/setup) that we've required in the past.
 
 #### How do I know if my python is good enough?
-A good option would be doing our test. However, for an idea of what will be tested, please read the [pre-requisites](./pages/Starters-Academy-(Course)#pre-requisites).
+A good option would be doing our test. However, for an idea of what will be tested, please read the [pre-requisites](pages/Starters-Academy-(Course)#pre-requisites).
 
-If you have no prior experience with Python, we recommend doing our [1-month Prep Course](./pages/Data-Science-Prep-Course).
+If you have no prior experience with Python, we recommend doing our [1-month Prep Course](pages/Data-Science-Prep-Course).

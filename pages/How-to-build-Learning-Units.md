@@ -15,7 +15,7 @@ The Learning Notebook will explain the materials in high detail. This notebook s
 This will be extremely short, and look a bit like a cheatsheet of "common usage patterns". This notebook should be written by the reviewer. 
 
 #### 3. Exercise Notebook
-The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](./pages/Using-nbgrader-for-Exercise-Notebooks)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
+The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](pages/Using-nbgrader-for-Exercise-Notebooks)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
 > (1) interact with the concepts (often by simply copy-pasting some code from the Learning Notebook)  
 > (2) understand how to use the common code patterns (which they will should have in the Examples Notebook). 
 

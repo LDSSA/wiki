@@ -8,7 +8,7 @@ So, instead of growing, we are actively encouraging being cloned. With this appr
 
 ## Recruit Essential Positions
 
-We have several [Areas of Responsibility](./pages/LDSA-Areas-of-Responsibility) that have Primary Enablers. Some of them are more defined than others but there's a few Primary Enabler positions that need to be filled in the following order:
+We have several [Areas of Responsibility](pages/LDSA-Areas-of-Responsibility) that have Primary Enablers. Some of them are more defined than others but there's a few Primary Enabler positions that need to be filled in the following order:
 
 1. Organizational Admin - This includes a president who is ultimately responsible for everything that happens in the academy and is responsible for recruiting all other AOR positions and ensuring that they do their job. Also, if any tasks show up that were not planned for, this person must either do them or recruit new or existing members to get them done. This position is a LOT of work and requires good communication and leadership skills as coordinating a bunch of super smart and hyper critical data scientists is... rewarding...
 1. Finance - This is a legal requirement and should be taken *very seriously*. This person is in charge of keeping tabs on the financial health of the organization as well as ensuring that the organization is legally compliant in all senses.
@@ -30,7 +30,7 @@ Now that you've got the core team together, you should set a calendar for the co
 1. The dates of each of the hackathons
 1. The dates of the capstone and thus graduation
 
-You can see [here an example of the schedule](./pages/Starters-Academy-(Course)#schedule) that was made before the start of batch3.
+You can see [here an example of the schedule](pages/Starters-Academy-(Course)#schedule) that was made before the start of batch3.
 
 ## Recruit Teachers
 
@@ -40,5 +40,5 @@ One important note is that you don't need to recruit all of the teachers for the
 
 ## Run the course!
 
-1. Run [applications](./pages/Application-process)
-1. Run the [course](./pages/Starters-Academy-(Course))
+1. Run [applications](pages/Application-process)
+1. Run the [course](pages/Starters-Academy-(Course))
