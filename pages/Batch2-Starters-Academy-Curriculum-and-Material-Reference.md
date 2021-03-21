@@ -4,7 +4,7 @@ This is now officially outdated as it refers to batch2. It is still a useful pag
 
 ## Curriculum and Material Reference
 
-This page serves as a quick reference to all of the material that is taught throughout the 6 month starters academy. If a student graduates the academy, then they are certified as having completed to a satisfactory level all of the material found here. Keep in mind that information about the course is found in detail on [this wiki page](pages/Starters-Academy-(Course))
+This page serves as a quick reference to all of the material that is taught throughout the 6 month starters academy. If a student graduates the academy, then they are certified as having completed to a satisfactory level all of the material found here. Keep in mind that information about the course is found in detail on [this wiki page](pages/Starters-Academy-(Course).md)
 
 ### Bootcamp
 
