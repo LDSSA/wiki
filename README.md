@@ -8,7 +8,7 @@ If you are thinking of applying, please read the [**Application Process**](pages
 Should you not find the information you are looking for on this Wiki (not even in [**the great and powerful FAQ**](pages/FAQ.md)), please [**raise an issue**](https://github.com/LDSSA/wiki/issues), so that we can answer while completing the info for everyone else, too.
 
 ---
-## Index
+# Index
 ### General
 - [Lisbon Data Science Academy (organization)](pages/Lisbon-Data-Science-Academy-(Organization).md)
 - [Organization - Areas of Responsibility (AORs)](pages/LDSA-Areas-of-Responsibility.md)
