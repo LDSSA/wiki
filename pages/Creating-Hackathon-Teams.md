@@ -1,3 +1,4 @@
+[back to main page](./README.md)
 ## Announce on slack
 
 Announce on slack who the teams are and ask one member from each team to send you their team name and team gif.

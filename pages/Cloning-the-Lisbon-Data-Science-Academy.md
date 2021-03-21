@@ -1,3 +1,4 @@
+[back to main page](./README.md)
 # Cloning the academy
 
 The Lisbon Data Science Academy is, as a matter of strategy, not looking to grown its own organization. We like the quality of education that we provide to our students and our community and feel that growing may sacrifice that. However, we get many more applications than we can possibly serve with our 50-students-per-year course.

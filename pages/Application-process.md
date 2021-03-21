@@ -1,5 +1,7 @@
 ## Application Process
 
+[back to main page](./README.md)
+
 Applications to the [**Lisbon Data Science Starters Academy**](./pages/Starters-Academy-(Course).md) are designed to be fair and equal to anyone who wants to join.
 
 Candidates are required to show that they have sufficient skills to participate. During the application process, they'll have to complete a **coding test** that covers the Academy's [pre-requisites](pages/Target-audience-and-Pre-requisites-for-the-Starters-Academy#pre-requisites), and **3 Learning Units** about [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) where we'll teach new concepts and evaluate them. Candidates need to pass both the coding test and the 3 SLUs.

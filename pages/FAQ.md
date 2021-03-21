@@ -1,3 +1,6 @@
+[back to main page](./README.md)
+
+
 # Frequently Asked Questions (and some rarely asked ones too)
 
 ### This is all very confusing, can I talk to a human? 

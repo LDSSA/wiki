@@ -1,3 +1,4 @@
+[back to main page](./README.md)
 # What and why
  
 In order to provide help to students while they are working on their BLUs, we should make instructors available during set times. The reason for this is so that everyone can schedule times where they know they will be able to get help in order to avoid a million questions trickling in over a long period of time which will put a huge burden on the instructors.
