@@ -6,7 +6,7 @@ Having high quality materials is not just a product of creation, but also of mai
 
 That's why it is so crucial that everyone chip in, and look for potential issues, both in the exercise and learning units, and either suggest issues, solve them, or both. 
 
-Before you jump in, please take the time to read this guide (if you haven't read the [How to Build Learning Units guide](pages/How-to-build-Learning-Units), please read that one first.md).
+Before you jump in, please take the time to read this guide (if you haven't read the [How to Build Learning Units guide](pages/How-to-build-Learning-Units), please read that one first).
 
 ## How to help improve learning units 
 There are 3 ways to improve learning units: 

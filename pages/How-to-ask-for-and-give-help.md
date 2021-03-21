@@ -31,7 +31,7 @@ Remember to check the closed issues, as the default screen will only show the "s
 ![the closed ones](https://i.ibb.co/Nmz1Hn8/issues.png)
  
 #### Step 4: Uuuh, a new issue! Exciting! 
-Still nothing? Ok, cool, time to [open a new issue](pages/How-to-ask-for-and-give-help#how-to-open-an-issue). Remember: do **NOT** post your answer and ask "what's wrong?", as this is a breach of the [Code of Conduct](pages/Code-of-Conduct.md). Except for that, there are *no wrong questions!* You are smart and yet you are confused, so we want to help!  
+Still nothing? Ok, cool, time to [open a new issue](pages/How-to-ask-for-and-give-help#how-to-open-an-issue). Remember: do **NOT** post your answer and ask "what's wrong?", as this is a breach of the [Code of Conduct](pages/Code-of-Conduct). Except for that, there are *no wrong questions!* You are smart and yet you are confused, so we want to help!  
 
 #### Step 5: If you need to, you can ignore all of this and talk to us. 
 If you are shy and would rather talk to an instructor, we can of course talk on slack. We'd always rather you get your questions solved than optimize on the process. However if you follow this process you'll be helping others and making the Academy better for the next generation too!

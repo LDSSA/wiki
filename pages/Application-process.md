@@ -1,7 +1,7 @@
 
 ## Application Process
 
-Applications to the [**Lisbon Data Science Starters Academy**](./pages/Starters-Academy-(Course).md) are designed to be fair and equal to anyone who wants to join.
+Applications to the [**Lisbon Data Science Starters Academy**](./pages/Starters-Academy-(Course)) are designed to be fair and equal to anyone who wants to join.
 
 Candidates are required to show that they have sufficient skills to participate. During the application process, they'll have to complete a **coding test** that covers the Academy's [pre-requisites](pages/Target-audience-and-Pre-requisites-for-the-Starters-Academy#pre-requisites), and **3 Learning Units** about [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) where we'll teach new concepts and evaluate them. Candidates need to pass both the coding test and the 3 SLUs.
 
@@ -63,9 +63,9 @@ These are the main topics that will be evaluated on the coding test:
 You can see them in more detail [here](https://docs.google.com/spreadsheets/d/165U7Y9ll0v5oKykIileYOTb7GcMPyQkkl18E-5-h_8k/edit?usp=sharing).
 
 This is the content that will be taught and evaluated on the Learning Units:
-- [Pandas 101](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification.md#slu01)
-- [Subsetting Data in Pandas](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification.md#slu02)
-- [Visualization with Pandas & Matplotlib](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification.md#slu03)
+- [Pandas 101](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification#slu01)
+- [Subsetting Data in Pandas](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification#slu02)
+- [Visualization with Pandas & Matplotlib](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification#slu03)
 
 
 ### Candidates selection

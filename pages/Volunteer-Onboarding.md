@@ -13,9 +13,9 @@ What's in this page:
 
 ## Onboarding checklist
 
-Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](pages/Member-Directory).md).
+Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](pages/Member-Directory)).
 
-   1. ⬜️ Read and agree to our [code of conduct](pages/Code-of-Conduct.md)
+   1. ⬜️ Read and agree to our [code of conduct](pages/Code-of-Conduct)
 
    2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Batch 5)
     
@@ -32,7 +32,7 @@ Make sure you check all items on the checklist below before anything else. If yo
 
    6. ⬜️ Introduce yourself on Slack! 😀
 
-**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](pages/LDSA-Primary-Enabler-Agreement.md).
+**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](pages/LDSA-Primary-Enabler-Agreement).
 
 You're now official part of the team!
 
@@ -61,7 +61,7 @@ There are three main ways to find things on this wiki:
 Members that have more administrative duties will have an @lisbondatascience.org
 Google Workplace account. In that account is a folder that is shared with everyone
 called "Index". This is not the most organized drive folder but there is an
-ongoing attempt to keep things organized by their [AOR](pages/LDSA-Areas-of-Responsibility.md).
+ongoing attempt to keep things organized by their [AOR](pages/LDSA-Areas-of-Responsibility).
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
@@ -99,7 +99,7 @@ For any other thing however, do use the Wiki issues section.
 1. Ask publicly if possible. More people will see the question and you have a
    better chance of getting a good answer.
 1. When choosing how and where to ask, try to guess what AOR is most likely
-   to have an answer (hint: check the [Member Directory](pages/Member-Directory).md) and ask in that slack channel or forum.
+   to have an answer (hint: check the [Member Directory](pages/Member-Directory)) and ask in that slack channel or forum.
 
 
 ## Important documents and links
@@ -107,13 +107,13 @@ For any other thing however, do use the Wiki issues section.
 Here is a list of important things that you should definitely read and be familiar with regardless of your role in the organization.
 
 1. [Our mission and values](https://docs.google.com/document/d/1EDQF8lFZA0DYKhru57rxLI4d7s3ReiN90BFdjTHtP-Q/edit?usp=sharing);
-1. [Our code of conduct](pages/Code-of-Conduct.md) - If you've been accepted and gone through the checklist you already read and agreed to it;
-1. [The Academy](pages/Lisbon-Data-Science-Academy-(Organization).md) - Learn about the difference between the LDSA and LDSSA;
-1. [The Starters Academy](pages/Starters-Academy-(Course).md) - Main reference for the format and what will
+1. [Our code of conduct](pages/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
+1. [The Academy](pages/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
+1. [The Starters Academy](pages/Starters-Academy-(Course)) - Main reference for the format and what will
    be covered in the Starters Academy;
-1. [The academy AORs](pages/LDSA-Areas-of-Responsibility.md)- We divide responsibilities via things called
+1. [The academy AORs](pages/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
    Areas of Responsibility (AORs);
-1. [Member Directory](pages/Member-Directory.md) - Who is responsible for what.
+1. [Member Directory](pages/Member-Directory) - Who is responsible for what.
 
 ## Start guide for instructors [WIP]
 
@@ -125,7 +125,7 @@ documentation that you'll need to be aware of as well.
 1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the
    curriculum that is being taught during the current batch. When you accept
    development of an LU, this dictates the topics that you must cover.
-1. [The past curriculum](pages/Batch2-Starters-Academy-Curriculum-and-Material-Reference.md) - A reference of the material that was taught
+1. [The past curriculum](pages/Batch2-Starters-Academy-Curriculum-and-Material-Reference) - A reference of the material that was taught
    in the past. Please note that the curriculum for the current batch may have
    changed.
 1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) - This is the single source of truth for the

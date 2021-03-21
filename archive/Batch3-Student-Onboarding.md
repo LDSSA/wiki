@@ -16,9 +16,9 @@ Though we have a volunteer staff of about 20, there are a few of us that will be
 
 There are some things that you need to do / be aware before the start of the first day of the Bootcamp and they are as follows:
 
-1. Review critical information such as schedules, format, and graduation requirements for the Starters Academy [here](pages/Starters-Academy-(Course).md)
-1. Familiarize yourself with the difference between parent [LDSA organization](pages/Lisbon-Data-Science-Academy-(Organization).md) and the Starters Academy that you are a part of now.
-1. Read about how to ask for and give help [here](pages/How-to-ask-for-and-give-help.md)
+1. Review critical information such as schedules, format, and graduation requirements for the Starters Academy [here](pages/Starters-Academy-(Course))
+1. Familiarize yourself with the difference between parent [LDSA organization](pages/Lisbon-Data-Science-Academy-(Organization)) and the Starters Academy that you are a part of now.
+1. Read about how to ask for and give help [here](pages/How-to-ask-for-and-give-help)
 
 ### Important stuff to do
 
