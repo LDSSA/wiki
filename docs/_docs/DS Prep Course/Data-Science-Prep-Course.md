@@ -1,4 +1,10 @@
-What's in this page:
+---
+title: Data Science Prep Course
+category: DS Prep Course
+order: 1
+---
+
+Read this page to find all about the **DS Prep Course** (DS for Data Science), how it works and what you'll learn.
 
 - [Course overview](#course-overview)
     - [What will be covered](#what-will-be-covered)

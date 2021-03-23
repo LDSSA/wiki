@@ -1,6 +1,6 @@
 ---
 title: Lisbon Data Science Academy
-category: Organization
+category: About LDSA
 order: 1
 ---
 

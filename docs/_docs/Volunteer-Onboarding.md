@@ -1,6 +1,6 @@
 ---
 title: Volunteer Onboarding
-category: Contact Syncing
+category: Volunteers
 order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct 
-category: Organization
+category: About LDSA
 order: 2
 ---
 
