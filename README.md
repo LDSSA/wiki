@@ -4,3 +4,4 @@ To search the wiki, use the advanced search options that GitHub provides. For ex
 
 
 ---
+### [Preview the new wiki (beta)](https://ldssa.github.io/wiki/)
