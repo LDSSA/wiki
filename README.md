@@ -8,44 +8,30 @@
 
 ### **1. Install necessary packages**
 
-1. Update your system:
+1. Update and install all prerequisites:
 
     ```bash
     sudo apt-get update
-    ```
-
- 2. Install all prerequisites:
-
-    ```bash
     sudo apt-get install ruby-full build-essential zlib1g-dev
     ```
 
-3. Add the environment variables to `~/.bashrc` by running:
+1. Add the environment variables to `~/.bashrc` by running:
 
     ```bash
     echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-    ```
-    ```bash
     echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-    ```
-    ```bash
-    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.
-    bashrc
-    ```
-    ```bash
+    echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
     source ~/.bashrc
     ```
 
-4. Install `jekyll` and `bundler`
+1. Install `jekyll` and `bundler`
 
     ```bash
     sudo gem install jekyll
-    ```
-
-    ```bash
     sudo gem install bundler -v '< 2.0'
     ```
 
+**That's it!**
 
 ### **2. Run the site locally**
 
