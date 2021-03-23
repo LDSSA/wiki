@@ -1,4 +1,9 @@
-# Lisbon Data Science Academy Code of Conduct 
+---
+title: Code of Conduct 
+category: Organization
+order: 2
+---
+
 _(partially based on the [Coursera honour code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and the [Pydata code of conduct](https://pydata.org/code-of-conduct.html))_
 
 ### Preamble to the code of conduct

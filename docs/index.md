@@ -2,12 +2,18 @@
 title: Start here
 ---
 
-Welcome to the Wiki of the Lisbon Data Science Academy (LDSA)! Here you'll find all about:
-- The organization: [Lisbon Data Science Academy](Organizationfacebook)
-- Our Starters Academy: [Lisbon Data Science **Starters** Academy]()
-- Our beginners course: [Data Science Prep Course]()
+Welcome to the Wiki of the Lisbon Data Science Academy (LDSA)!
 
-If you are thinking of applying, please read the [**Application Process**](pages/Application-process) and the [**Code of Conduct**](pages/Code-of-Conduct) carefully. To be notified when the applications open, [**leave your email here**](http://www.lisbondatascience.org/).
+Use this Wiki as your guide and reference to get around the LDSA. If you are a volunteer/instructor, applicant/student, want to contribute or are just curious about the LDSA, this is the place to start.
+
+This Wiki is about:
+- Our organization, [Lisbon Data Science Academy](), and how it works
+- Our main course, the [Lisbon Data Science **Starters** Academy]()
+- Our Data Science Prep Course -- [Data Science Prep Course]()
+
+To be notified when new applications open for students, [**leave your email here**](http://www.lisbondatascience.org/).
+
+If you want to contribute as a volunteer, and agree to our [Code of Conduct](General/Code-of-Conduct) 🙋
 
 
 ---
