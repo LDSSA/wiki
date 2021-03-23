@@ -1,4 +1,10 @@
-# Lisbon Data Science Starters Academy 
+---
+title: Lisbon Data Science Starters Academy 
+category: Starters Academy (LDSSA)
+order: 2
+---
+
+
 
 The Data Science Starters Academy is a series of events dedicated to helping people become entry-level data scientists, by teaching introductory material. 
 

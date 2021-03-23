@@ -1,4 +1,8 @@
-
+---
+title: How to build a Learning Unit
+category: Instructors
+order: 1
+---
 
 This is a short guide to building Learning Units. It is not prescriptive, but more of a set of recommendations. 
 

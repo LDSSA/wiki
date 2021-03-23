@@ -1,3 +1,9 @@
+---
+title: LDSA Primary Enabler Agreements
+category: Volunteers
+order: 3
+---
+
 _Updated from the original document: [LDSA Primary Enabler Agreement](https://docs.google.com/document/d/15ZZuyUNCoM8VFLDApuHutENFSSZgxKdYo2k-FDx3BOQ/)._
 
 This agreement serves to set expectations from the side of the Academy as well as for anyone who accepts a role as a Primary Enabler for an [Area of Responsibility](pages/LDSA-Areas-of-Responsibility). It **is** meant to represent what we believe is the minimum required for someone to do the job in a way that is fair and best for the organization. It is **not** meant to pressure anyone into a volunteer job.

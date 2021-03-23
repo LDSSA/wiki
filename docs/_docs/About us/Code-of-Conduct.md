@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct 
-category: About LDSA
-order: 2
+category: About us
+order: 3
 ---
 
 _(partially based on the [Coursera honour code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and the [Pydata code of conduct](https://pydata.org/code-of-conduct.html))_

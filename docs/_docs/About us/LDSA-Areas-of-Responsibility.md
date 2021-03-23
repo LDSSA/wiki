@@ -1,4 +1,8 @@
-# Areas of Responsibility
+---
+title: Areas of Responsibility
+category: About us
+order: 2
+---
 
 The comprehensive list is:
 - [Ops](#ops)

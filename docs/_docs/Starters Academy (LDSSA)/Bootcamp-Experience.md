@@ -1,3 +1,8 @@
+---
+title: Bootcamp Experience
+category: Starters Academy (LDSSA)
+---
+
 ## Remote, safe, and still a community
 
 As everyone is aware, we are living through the biggest public health crisis in living memory. In the interest of safeguarding the instructors and students physical health, we are doing this batch 100% remote.
