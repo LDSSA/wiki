@@ -1,3 +1,9 @@
+---
+title: Volunteer Onboarding
+category: Contact Syncing
+order: 1
+---
+
 Welcome to the official Volunteer Onboarding page which is meant to be your **main** **reference point** at the LDSA.
 
 What's in this page:
