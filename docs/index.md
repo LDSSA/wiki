@@ -1,9 +1,9 @@
 ---
-title: Welcome
+title: Start here
 ---
 
 Welcome to the Wiki of the Lisbon Data Science Academy (LDSA)! Here you'll find all about:
-- The organization: [Lisbon Data Science Academy](facebook)
+- The organization: [Lisbon Data Science Academy](Organizationfacebook)
 - Our Starters Academy: [Lisbon Data Science **Starters** Academy]()
 - Our beginners course: [Data Science Prep Course]()
 

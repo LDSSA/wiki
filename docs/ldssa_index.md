@@ -9,7 +9,7 @@ Should you not find the information you are looking for on this Wiki (not even i
 
 ---
 # Index
-### General
+### About us
 - [Lisbon Data Science Academy (organization)](pages/Lisbon-Data-Science-Academy-(Organization))
 - [Organization - Areas of Responsibility (AORs)](pages/LDSA-Areas-of-Responsibility)
 - [Member Directory](pages/Member-Directory)
