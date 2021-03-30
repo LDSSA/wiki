@@ -14,6 +14,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 ![](docs/images/edit_page.png)
 1. When you'r ready, insert a commit message at the end of the page, select the option `Create a new branch ...` and click `Propose changes`.
 ![](docs/images/propose_changes.png)
+
 1. Someone from the Documentation AOR will review and approve your changes
 
 You can edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
