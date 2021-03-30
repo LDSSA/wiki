@@ -1,8 +1,9 @@
+# LDSA Wiki
 
-The Wiki is hosted on https://ldssa.github.io/wiki/.
+This Wiki is hosted on https://ldssa.github.io/wiki/. The Wiki pages are stored inside `/docs/_docs` as `.md` files.
 
+![](_docs/images/wiki_vs_githubpage.png)
 
-## How to create/edit a page
 
 Each page is stored as a markdown on a subfolder of the `/docs/_docs/` directory.
 
@@ -18,7 +19,7 @@ order: 1
 ---
 ```
 
-### Edit an existing page
+## How to edit an existing page
 
 If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
 
@@ -27,8 +28,20 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
 1. The Documentation Team will review and approve your changes.
 
+Please store any images in `/docs/_docs/images`.
+
 **Alternatively**, you can clone this repo, do your changes locally, commit and PR.
 
+## How to create a new page
+
+If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
+
+1. Locate the file (page) you want to edit and click on it;
+1. Click the edit button (pencil symbol) on the top-right corner to edit the page;
+1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
+1. The Documentation Team will review and approve your changes.
+
+Please store any images in `/docs/_docs/images`.
 
 
 ## How to test the site locally (Ubuntu)
