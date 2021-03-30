@@ -1,3 +1,9 @@
+---
+title: Recruiting and onboarding new instructors
+category: Volunteers
+order: 3
+---
+
 As we are a volunteer organisation, we need all the help we can get. However, in order to keep the quality of the learning material high as well as provide a smooth on-boarding experience that is thorough and yet respects everyone's time, we should split the process into two phases
 
 1. Recruiting

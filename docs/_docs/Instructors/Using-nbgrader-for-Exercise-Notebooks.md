@@ -1,3 +1,12 @@
+---
+title: Using nbgrader for Exercise Notebooks
+category: Instructors
+order: 3
+---
+
+> ⚠️ The information in this page might be outdated.
+
+
 # The 1,000,000 foot view
 
 The steps for creating your first BLU exercise notebook is the following:

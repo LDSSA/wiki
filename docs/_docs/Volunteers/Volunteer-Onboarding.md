@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Volunteer Onboarding
 category: Volunteers
 order: 1
 ---
@@ -11,7 +11,7 @@ What's in this page:
 - [Documentation](#finding-stuff)
    - [This wiki](#this-wiki)
    - [Our Google Drive](#our-google-drive)
-   - [GitHub](#github) - learn about **repositories** and **issues**
+   - [GitHub](#github)
 - [Communication](#communication)
 - [Important documents and links](#important-documents-and-links)
 
@@ -19,9 +19,9 @@ What's in this page:
 
 ## Onboarding checklist
 
-Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](pages/Member-Directory)).
+Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)).
 
-   1. ⬜️ Read and agree to our [code of conduct](pages/Code-of-Conduct)
+   1. ⬜️ Read and agree to our [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct)
 
    2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Batch 5)
     
@@ -32,13 +32,13 @@ Make sure you check all items on the checklist below before anything else. If yo
       - [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon) _(you need to be logged in with your LDSA account!)_
       - LDSSA Batch #5 (to be created) -- general deadlines visible to students
 
-         > **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="../../images/add_calendar_icon.png" width="15%"/> at the right-bottom of each calendar's webpage.
+      **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="assets/add_calendar_icon.png" width=15%> at the right-bottom of each calendar's webpage.
 
    5. ⬜️ Ask a member of the dev-ops team to add your GitHub handle (username) to the organization's GitHub
 
    6. ⬜️ Introduce yourself on Slack! 😀
 
-**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](pages/LDSA-Primary-Enabler-Agreement).
+**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](https://github.com/LDSSA/wiki/wiki/LDSA-Primary-Enabler-Agreement).
 
 You're now official part of the team!
 
@@ -67,7 +67,7 @@ There are three main ways to find things on this wiki:
 Members that have more administrative duties will have an @lisbondatascience.org
 Google Workplace account. In that account is a folder that is shared with everyone
 called "Index". This is not the most organized drive folder but there is an
-ongoing attempt to keep things organized by their [AOR](pages/LDSA-Areas-of-Responsibility).
+ongoing attempt to keep things organized by their [AOR](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility).
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
@@ -105,7 +105,7 @@ For any other thing however, do use the Wiki issues section.
 1. Ask publicly if possible. More people will see the question and you have a
    better chance of getting a good answer.
 1. When choosing how and where to ask, try to guess what AOR is most likely
-   to have an answer (hint: check the [Member Directory](pages/Member-Directory)) and ask in that slack channel or forum.
+   to have an answer (hint: check the [Member Directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)) and ask in that slack channel or forum.
 
 
 ## Important documents and links
@@ -113,13 +113,13 @@ For any other thing however, do use the Wiki issues section.
 Here is a list of important things that you should definitely read and be familiar with regardless of your role in the organization.
 
 1. [Our mission and values](https://docs.google.com/document/d/1EDQF8lFZA0DYKhru57rxLI4d7s3ReiN90BFdjTHtP-Q/edit?usp=sharing);
-1. [Our code of conduct](pages/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
-1. [The Academy](pages/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
-1. [The Starters Academy](pages/Starters-Academy-(Course)) - Main reference for the format and what will
+1. [Our code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
+1. [The Academy](https://github.com/LDSSA/wiki/wiki/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
+1. [The Starters Academy](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)) - Main reference for the format and what will
    be covered in the Starters Academy;
-1. [The academy AORs](pages/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
+1. [The academy AORs](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
    Areas of Responsibility (AORs);
-1. [Member Directory](pages/Member-Directory) - Who is responsible for what.
+1. [Member Directory](https://github.com/LDSSA/wiki/wiki/Member-Directory) - Who is responsible for what.
 
 ## Start guide for instructors [WIP]
 
@@ -131,7 +131,7 @@ documentation that you'll need to be aware of as well.
 1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the
    curriculum that is being taught during the current batch. When you accept
    development of an LU, this dictates the topics that you must cover.
-1. [The past curriculum](pages/Batch2-Starters-Academy-Curriculum-and-Material-Reference) - A reference of the material that was taught
+1. [The past curriculum](https://github.com/LDSSA/wiki/wiki/Batch2-Starters-Academy-Curriculum-and-Material-Reference) - A reference of the material that was taught
    in the past. Please note that the curriculum for the current batch may have
    changed.
 1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) - This is the single source of truth for the

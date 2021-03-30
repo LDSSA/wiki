@@ -1,6 +1,7 @@
 ---
 title: Bootcamp Experience
 category: Starters Academy (LDSSA)
+order: 2
 ---
 
 ## Remote, safe, and still a community
@@ -21,7 +22,7 @@ Both experiences will use the same technology. The difference is how you use the
 
 ## The google calendar 
 
-The source of truth for the schedule is [the batch4 google calendar](https://calendar.google.com/calendar/b/1?cid=bGlzYm9uZGF0YXNjaWVuY2Uub3JnX3RoNmZwbWltdnF2c28xMnQ3MGNkMWdrdnE4QGdyb3VwLmNhbGVuZGFyvb2dsZS5jb20). You can use the link itself directly or you can add it to your favorite calendar app. 
+The source of truth for the schedule is [the batch4 google calendar](https://calendar.google.com/calendar/b/1?cid=bGlzYm9uZGF0YXNjaWVuY2Uub3JnX3RoNmZwbWltdnF2c28xMnQ3MGNkMWdrdnE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). You can use the link itself directly or you can add it to your favorite calendar app. 
 
 ## Google meet (or google hangouts, same thing)
 

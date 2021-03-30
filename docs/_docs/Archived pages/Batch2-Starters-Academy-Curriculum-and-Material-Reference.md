@@ -1,3 +1,4 @@
+
 # DANGER
 
 This is now officially outdated as it refers to batch2. It is still a useful page because it contains links to everything that was taught in batch2 but the most current curriculum is in the [curriculum-development](https://github.com/LDSSA/curriculum-development) repo.

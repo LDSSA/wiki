@@ -1,3 +1,9 @@
+---
+title: Curriculum Overview and Main Concepts
+category: Starters Academy (LDSSA)
+order: 5
+---
+
 ## Structure
 
 A Starters Academy is made of one Bootcamp, 6 to 7 specialisations, and 1 capstone. 

@@ -1,4 +1,8 @@
-# Teaching Philosophy
+---
+title: Teaching Philosophy
+category: About us
+order: 6
+---
 
 The Lisbon Data Science Academy has developed its own teaching philosophy, which is evolving over time. It has allowed us to develop a unique form of teaching, which (we hope) is serving students well. 
 

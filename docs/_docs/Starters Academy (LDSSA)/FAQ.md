@@ -1,3 +1,9 @@
+---
+title: FAQ
+category: Starters Academy (LDSSA)
+order: 4
+---
+
 # Frequently Asked Questions (and some rarely asked ones too)
 
 ### This is all very confusing, can I talk to a human? 

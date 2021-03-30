@@ -1,4 +1,9 @@
-# Notes for Academy Python requirements going forward
+---
+title: Notes for Academy Python requirements
+category: Instructors
+order: 4
+---
+
 
 ## Notes
 * [Meaning of major and minor version](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/specification.html#sequence-based-scheme)
