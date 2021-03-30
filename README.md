@@ -1,23 +1,52 @@
-## How to create/edit a page
+# LDSA Wiki
+
+This Wiki is hosted on https://ldssa.github.io/wiki/. The Wiki pages are stored inside `/docs/_docs` folders as markdown files.
+
+<img src="docs/images/wiki_vs_githubpage.png" width="90%"/>
+
+<br>
+
+## How to edit an existing page
+
+If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
+
+1. Locate the file (page) you want to edit and click on it;
+1. Click the edit button (pencil symbol) on the top-right corner to edit the page;
+1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
+1. The Documentation Team will review and approve your changes.
+
+**Note**: Please store any images in `/docs/_docs/images`.
+
+**Alternatively**, you can clone this repo, do your changes locally, commit and PR.
+
+## How to create a new page
+
+If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
+
+1. Navigate to the folder (menu category) where you want to store your page;
+1. Click the button "Add file" on the top-right corner to start editing the new page;
+1. Insert the header first. This is where you specify to what sidebar category the page belongs to, its title and the order in which it appears on that sidebar category.
+
+    **Example:**
+    ```markdown
+    ---
+    title: Application Process
+    category: Applicants
+    order: 1
+    ---
+    ```
+
+1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
+1. The Documentation Team will review and approve your changes.
+
+**Note**: Please store any images in `/docs/_docs/images`.
+
+**Alternatively**, you can clone this repo, do your changes locally, commit and PR.
 
 
-Each page is stored as a markdown in a folder inside `/docs/_docs/`. For example, the page `Application Process` will be located in `https://ldssa.github.io/wiki/`**`Applicants`**`/Application-process/`, and stored in folder `/docs/_docs/`**`Applicants`**. All pages follow this logic.
+## Develop
 
-You can either:
-
-(a) edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
-
-**or**
-
-(b) edit the page on the browser by navigating to its location on the Wiki, for example https://github.com/LDSSA/wiki/blob/main/docs/_docs/Applicants/Application-process.md, and click the edit button (pencil icon) on the top-right corner of the file preview. After you're done just create a name for your `commit` (at the end of the same browswer page), and hit "Commit changes". A PR will be generated that should be reviewed and approved by the [Documentation Team](https://github.com/orgs/LDSSA/teams/documentation).
-
----
-
-#TODO - Insert Documentation
-
-#TODO - Insert picture depicting the edit button
-
-## How to test the site locally (Ubuntu)
+This section describes the necessary packages to be installed if you want to copy and run the website on your local machine.
 
 ### **1. Install necessary packages**
 
@@ -44,7 +73,7 @@ You can either:
     sudo gem install bundler -v '< 2.0'
     ```
 
-**That's it!**
+That's it!
 
 ### **2. Run the site locally**
 
@@ -59,3 +88,5 @@ bundle exec jekyll serve
 ## References
 
 - [Template source](https://github.com/CloudCannon/edition-jekyll-template)
+
+- [Installing Jekyll on Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
