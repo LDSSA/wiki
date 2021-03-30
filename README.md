@@ -8,9 +8,7 @@ This Wiki is hosted on https://ldssa.github.io/wiki/. The Wiki pages are stored 
 
 ## How to edit an existing page
 
-If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
-
-1. Locate the file (page) you want to edit and click on it;
+1. Locate the file (page) you want to edit inside the `docs/_docs/` subfolders and click on it;
 1. Click the edit button (pencil symbol) on the top-right corner to edit the page;
 1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
 1. The Documentation Team will review and approve your changes.
@@ -21,9 +19,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 
 ## How to create a new page
 
-If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
-
-1. Navigate to the folder (menu category) where you want to store your page;
+1. Navigate to the folder (menu category) where you want to store your page, inside `docs/_docs/`;
 1. Click the button "Add file" on the top-right corner to start editing the new page;
 1. Insert the header first. This is where you specify to what sidebar category the page belongs to, its title and the order in which it appears on that sidebar category.
 

@@ -30,17 +30,17 @@ This interview can happen either in person or in a call, and should cover the fo
 In order to help you with this, you should share with them the following information (this information needs an update! TBD):
 
 1. The [website](http://lisbondatascience.org/)
-1. The [starters academy course wiki page](pages/Starters-Academy-(Course))
-1. The [code of conduct](pages/Code-of-Conduct)
+1. The [starters academy course wiki page](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course))
+1. The [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct)
 1. The [in-depth](https://docs.google.com/drawings/d/1j2idMZfxTU0hQ3cKvfU48l_KeYkbS4wdvFTbKBjjbLY/edit) curriculum for the learning units they will cover.
 1. The [bootcamp repo](https://github.com/LDSSA/bootcamp)
 1. The [example BLU01](https://github.com/LDSSA/batch2-BLU01)
-1. The [learning unit guide](pages/How-to-build-Learning-Units)
+1. The [learning unit guide](https://github.com/LDSSA/wiki/wiki/How-to-build-Learning-Units)
 1. The [time commitments](https://docs.google.com/spreadsheets/d/1Al6YPtryBpdQWcc3Ou_IjNG3cTcmaLpy0ZmKVFpIpqU/edit?zx=8wbzxn5chhnn&pli=1#gid=1608717628) and timetables for delivering a specialisation. 
     - In case you're recruiting them to help with a specialisation, they'll probably build a single BLU and offer some student support. This will correspond to one of the `Building BLU<number>` rows in the spreadsheet, picking one of the slots to offer student support, and showing up to the hackathon.
     - Preparation starts 4 weeks before the beginning of the specialization's month.
 1. The instructor [calendar](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_iki3lg6g8ssllc1hjjckjh9tos%40group.calendar.google.com&ctz=Europe%2FLisbon)
-1. The [curriculum and material reference page](pages/Starters-Academy-Curriculum-and-Material-Reference)
+1. The [curriculum and material reference page](https://github.com/LDSSA/wiki/wiki/Starters-Academy-Curriculum-and-Material-Reference)
 
 It is very important to communicate in this interview what is the nature of the volunteering work that we need at the academy: **stick to what you've committed to**!
 We're going to trust in what the candidate tells us about the level of commitment that they want to have in the academy. The important part is that they understand that everything one says they're doing and then end up not doing, is going to be done by another person in a tighter time frame. Thus, they should never be dishonest or overpromise in the interviewing, because that will be bad for everybody.

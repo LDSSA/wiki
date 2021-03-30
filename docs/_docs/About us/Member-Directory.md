@@ -27,22 +27,22 @@ The executive team consists of three people, which have generally behaved the sa
 
 
 ### Organizational structure
-(first person listed in each AOR is the [primary enabler](pages/LDSA-Areas-of-Responsibility#primary-enabler)) 
+(first person listed in each AOR is the [primary enabler](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#primary-enabler)) 
 
 | Area of Responsibility | People |
 |-|-|
-|[Organization Admin](LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
-|[Curriculum Development](LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
-|[Teaching](LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
-|[Operations](LDSA-Areas-of-Responsibility#ops)| - |
-|[Communications](LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
-|[Marketing](LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
-|[Partnerships](LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
-|[Student Success](LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Daniel Sousa <br> Juliana Rodrigues |
-|[Community](LDSA-Areas-of-Responsibility#community)| [Sam Hopkins](#sam-hopkins) |
-|[Dev-Ops](LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
-|[Quality Assurance](LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
-|[Finance](LDSA-Areas-of-Responsibility#finance)|-|
+|[Organization Admin](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
+|[Curriculum Development](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
+|[Teaching](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
+|[Operations](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#ops)| - |
+|[Communications](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
+|[Marketing](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
+|[Partnerships](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
+|[Student Success](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Juliana Rodrigues|
+|[Community](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#community)| - |
+|[Dev-Ops](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
+|[Quality Assurance](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
+|[Finance](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility#finance)|-|
 |Prep Course| [Minh](#minh-hoang)|
 |Jobs| [Pedro Fonseca](#pedro-fonseca)<br> [Miguel Dias](#miguel-dias)|
 |Admissions| - |
@@ -89,7 +89,7 @@ Primary Enabler of Dev-Ops.
 ***
 #### Miguel Dias
 _Data Scientist @ Bond Touch_   
-Primary Enabler of **DS Prep Course Dev-Ops**. Member of **Dev-Ops**.  
+Dev-Ops.  
 [LinkedIn](https://www.linkedin.com/in/migueldias1212/)
 ***
 #### Hugo Ferreira
@@ -106,12 +106,12 @@ Alumni from 2018.
 ***
 #### Maria Dominguez (Chi)
 _Research Engineer @ Spotify_  
-Vice-President of the Academy. Admissions AOR.  
-LDSSA Instructor.
+Admissions AOR.  
+Data Science Instructor.  
 [LinkedIn](https://www.linkedin.com/in/maria-cristina-dominguez-3a09ab106/)
 ***
 #### Minh Hoang
-President of the Academy. President of the DS Prep Course. LDSA Instructor. DS Prep Course Instructor.
+President of Data Science Prep Course.   
 [LinkedIn](https://www.linkedin.com/in/minhhoang95/)
 ***
 #### Nuno Brás
@@ -120,13 +120,14 @@ Full Stack developer
 ***
 #### Pedro Fonseca
 _Staff Software Engineer @ Google_   
-Jobs AOR. LDSSA Instructor. DS Prep Course Instructor.   
+Jobs AOR.  
+Data Science Instructor.  
+Prep Course Instructor.   
 [LinkedIn](https://www.linkedin.com/in/pedrogfonseca/)
 ***
 #### Sam Hopkins
 _Co-founder & Senior Data Scientist @ DareData Engineering_   
-Co-Founder of the Academy.
-Primary Enabler of Organization Administration.  
+Co-Founder and president of the Academy. Head of Organization Administration.  
 [LinkedIn](https://www.linkedin.com/in/sam-hopkins-01914364/) 
 ***
 #### Manuel Garrido
