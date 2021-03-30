@@ -1,3 +1,9 @@
+---
+title: Member Directory
+category: About us
+order: 2
+---
+
 # Member Directory
 
 1. [Staff](#staff)
@@ -26,18 +32,18 @@ The executive team consists of three people, which have generally behaved the sa
 
 | Area of Responsibility | People |
 |-|-|
-|[Organization Admin](pages/LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
-|[Curriculum Development](pages/LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
-|[Teaching](pages/LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
-|[Operations](pages/LDSA-Areas-of-Responsibility#ops)| - |
-|[Communications](pages/LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
-|[Marketing](pages/LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
-|[Partnerships](pages/LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
-|[Student Success](pages/LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Juliana Rodrigues|
-|[Community](pages/LDSA-Areas-of-Responsibility#community)| - |
-|[Dev-Ops](pages/LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
-|[Quality Assurance](pages/LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
-|[Finance](pages/LDSA-Areas-of-Responsibility#finance)|-|
+|[Organization Admin](LDSA-Areas-of-Responsibility#organization-admin)|[Sam Hopkins](#sam-hopkins)|
+|[Curriculum Development](LDSA-Areas-of-Responsibility#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
+|[Teaching](LDSA-Areas-of-Responsibility#teaching)| [Catarina Cruz Silva](#catarina-cruz-silva) |
+|[Operations](LDSA-Areas-of-Responsibility#ops)| - |
+|[Communications](LDSA-Areas-of-Responsibility#communications)|[Sam Hopkins](#sam-hopkins)|
+|[Marketing](LDSA-Areas-of-Responsibility#marketing)| [Carol Martins](#carol-martins) <br> [José Medeiros](#jos%C3%A9-medeiros)|
+|[Partnerships](LDSA-Areas-of-Responsibility#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
+|[Student Success](LDSA-Areas-of-Responsibility#student-success)| Ricardo Alberto <br> Daniel Sousa <br> Juliana Rodrigues |
+|[Community](LDSA-Areas-of-Responsibility#community)| [Sam Hopkins](#sam-hopkins) |
+|[Dev-Ops](LDSA-Areas-of-Responsibility#dev-ops)|[Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias)|
+|[Quality Assurance](LDSA-Areas-of-Responsibility#quality-assurance)|Filipa Rodrigues <br> Inês Pessoa <br> Rita Sousa <br> Juliana Rodrigues|
+|[Finance](LDSA-Areas-of-Responsibility#finance)|-|
 |Prep Course| [Minh](#minh-hoang)|
 |Jobs| [Pedro Fonseca](#pedro-fonseca)<br> [Miguel Dias](#miguel-dias)|
 |Admissions| - |
@@ -84,7 +90,7 @@ Primary Enabler of Dev-Ops.
 ***
 #### Miguel Dias
 _Data Scientist @ Bond Touch_   
-Dev-Ops.  
+Primary Enabler of **DS Prep Course Dev-Ops**. Member of **Dev-Ops**.  
 [LinkedIn](https://www.linkedin.com/in/migueldias1212/)
 ***
 #### Hugo Ferreira
@@ -101,12 +107,12 @@ Alumni from 2018.
 ***
 #### Maria Dominguez (Chi)
 _Research Engineer @ Spotify_  
-Admissions AOR.  
-Data Science Instructor.  
+Vice-President of the Academy. Admissions AOR.  
+LDSSA Instructor.
 [LinkedIn](https://www.linkedin.com/in/maria-cristina-dominguez-3a09ab106/)
 ***
 #### Minh Hoang
-President of Data Science Prep Course.   
+President of the Academy. President of the DS Prep Course. LDSA Instructor. DS Prep Course Instructor.
 [LinkedIn](https://www.linkedin.com/in/minhhoang95/)
 ***
 #### Nuno Brás
@@ -115,14 +121,13 @@ Full Stack developer
 ***
 #### Pedro Fonseca
 _Staff Software Engineer @ Google_   
-Jobs AOR.  
-Data Science Instructor.  
-Prep Course Instructor.   
+Jobs AOR. LDSSA Instructor. DS Prep Course Instructor.   
 [LinkedIn](https://www.linkedin.com/in/pedrogfonseca/)
 ***
 #### Sam Hopkins
 _Co-founder & Senior Data Scientist @ DareData Engineering_   
-Co-Founder and president of the Academy. Head of Organization Administration.  
+Co-Founder of the Academy.
+Primary Enabler of Organization Administration.  
 [LinkedIn](https://www.linkedin.com/in/sam-hopkins-01914364/) 
 ***
 #### Manuel Garrido

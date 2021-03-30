@@ -1,7 +1,7 @@
 ---
 title: Areas of Responsibility
 category: About us
-order: 2
+order: 3
 ---
 
 The comprehensive list is:
