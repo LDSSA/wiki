@@ -1,27 +1,33 @@
 
-The Wiki is hosted on github.ldssa
+The Wiki is hosted on https://ldssa.github.io/wiki/.
+
 
 ## How to create/edit a page
 
-Each page is stored as a markdown in a folder inside `/docs/_docs/`. For example, the page `Application Process` will be located in `https://ldssa.github.io/wiki/`**`Applicants`**`/Application-process/`, and stored in folder `/docs/_docs/`**`Applicants`**. All pages follow this logic.
+Each page is stored as a markdown on a subfolder of the `/docs/_docs/` directory.
+
+**Example:** The page "Application Process" will be located in https://ldssa.github.io/wiki/Applicants/Application-process/, so it should be stored in the repo's folder `/docs/_docs/`**`Applicants`**. All pages follow this logic.
+
+At the top of each `.md` page you have a heading that specifies to what sidebar category the page belongs to, its title and the order in which it appears on that sidebar category.
+
+```markdown
+---
+title: Application Process
+category: Applicants
+order: 1
+---
+```
 
 ### Edit an existing page
 
 If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
 
-1. Click on the page (`.md` file) you want to edit;
-1. Click the edit button
-![](docs/images/edit_page.png)
-1. When you'r ready, insert a commit message at the end of the page, select the option `Create a new branch ...` and click `Propose changes`.
-![](docs/images/propose_changes.png)
+1. Locate the file (page) you want to edit and click on it;
+1. Click the edit button (pencil symbol) on the top-right corner to edit the page;
+1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
+1. The Documentation Team will review and approve your changes.
 
-1. Someone from the Documentation AOR will review and approve your changes
-
-You can edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
-
----
-
-Alternatively, you can clone this repo, do your changes locally, commit and PR.
+**Alternatively**, you can clone this repo, do your changes locally, commit and PR.
 
 
 
