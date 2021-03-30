@@ -1,5 +1,3 @@
-
-
 ## How to create/edit a page
 
 
@@ -18,8 +16,6 @@ You can either:
 #TODO - Insert Documentation
 
 #TODO - Insert picture depicting the edit button
-
----
 
 ## How to test the site locally (Ubuntu)
 
@@ -63,5 +59,3 @@ bundle exec jekyll serve
 ## References
 
 - [Template source](https://github.com/CloudCannon/edition-jekyll-template)
-
-- [Installing Jekyll on Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
