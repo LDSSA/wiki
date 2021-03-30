@@ -162,29 +162,6 @@ $nav-image: $baseurl + "/images/menu.svg";
 	background-color: $content-background-color;
 	color: $content-color;
 
-	/*INSERTED*/
-	h1 {
-		font-size: 3.2rem;
-		margin-left: -1px;
-		letter-spacing: 0;
-	}
-	h2 {
-		font-size: 2.65rem;
-		margin-left: -1px;
-		letter-spacing: 0;
-	}
-	h3 {
-		font-size: 2rem;
-		margin-left: -1px;
-		letter-spacing: 0;
-	}
-	h4 {
-		font-size: 1.65rem;
-		margin-left: -1px;
-		letter-spacing: 0;
-	}
-	/*END INSERTED*/
-
 	h3::before {
 		content: "";
 		@extend hr;
@@ -196,7 +173,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 .page-header {
 	max-width: $content-max-width;
 	padding: 0 ($space + 5) $space;
-	margin: $space auto 0 auto; /*margin: $space auto 0 auto;*/
+	margin: $space auto 0 auto;
 }
 
 .page-header {
@@ -208,7 +185,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 	}
 
 	h2 {
-		font-size: 1.8rem;
+		font-size: 2rem;
 		margin-left: -1px;
 		color: #888;
 		letter-spacing: 0;
@@ -221,11 +198,11 @@ $nav-image: $baseurl + "/images/menu.svg";
 
 	@media (min-width: $mobile-break) {
 		h2 {
-			font-size: 2rem; /*2.65rem;*/
+			font-size: 2.65rem;
 		}
 
 		h3 {
-			font-size: 5rem; /*5.4rem;*/
+			font-size: 5.4rem;
 		}
 	}
 
@@ -268,8 +245,8 @@ nav > ul {
 	> a {
 		color: #666;
 		text-decoration: none;
-		font-size: 1.25rem;
-		padding: $space / 5 0 $space / 2 $space * 2;
+		font-size: 1.4rem;
+		padding: $space / 2 0 $space / 2 $space * 2;
 		display: block;
 	}
 
@@ -281,8 +258,7 @@ nav > ul {
 
 	&.top-level > a {
 		line-height: 1.5;
-		font-size: 1.5rem;
-		font-weight: 800;
+		font-weight: 600;
 		padding-left: $space;
 	}
 }
