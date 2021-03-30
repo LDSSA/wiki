@@ -2,7 +2,24 @@
 
 ## How to create/edit a page
 
-#TODO
+
+Each page is stored as a markdown in a folder inside `/docs/_docs/`. For example, the page `Application Process` will be located in `https://ldssa.github.io/wiki/`**`Applicants`**`/Application-process/`, and stored in folder `/docs/_docs/`**`Applicants`**. All pages follow this logic.
+
+You can either:
+
+(a) edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
+
+**or**
+
+(b) edit the page on the browser by navigating to its location on the Wiki, for example https://github.com/LDSSA/wiki/blob/main/docs/_docs/Applicants/Application-process.md, and click the edit button (pencil icon) on the top-right corner of the file preview. After you're done just create a name for your `commit` (at the end of the same browswer page), and hit "Commit changes". A PR will be generated that should be reviewed and approved by the [Documentation Team](https://github.com/orgs/LDSSA/teams/documentation).
+
+---
+
+#TODO - Insert Documentation
+
+#TODO - Insert picture depicting the edit button
+
+---
 
 ## How to test the site locally (Ubuntu)
 
