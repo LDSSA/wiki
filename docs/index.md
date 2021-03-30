@@ -9,18 +9,17 @@ Use this Wiki as your guide and reference to get around the LDSA. Whether you ar
 - Our main course, the [Lisbon Data Science **Starters** Academy]();
 - Our Data Science Prep Course -- [Data Science Prep Course]().
 
-If you're looking to apply as a student, [**leave your email here**](https://www.lisbondatascience.org/).
+🧑‍🎓 If you're looking to apply as a student, [leave your email here](https://www.lisbondatascience.org/).
 
-If you wish to contribute as a volunteer, and agree to our [Code of Conduct](General/Code-of-Conduct), reach out. 🙋
+🤝🙋 If you wish to contribute as a volunteer, and agree to our [Code of Conduct](General/Code-of-Conduct), reach out.
 
 If you see any bugs, typos, or have any feedback to give us, please let us know by opening [a GitHub issue here](https://github.com/LDSSA/wiki/issues/new).
 
-How to contribute: https://github.com/LDSSA/wiki/README.md
+Contribute to this Wiki [here](https://github.com/LDSSA/wiki/).
+
+
 
 ---
 **Get in touch!**
 
-[<img alt="linkedin" src="images/github.png"/>](https://github.com/LDSSA)
-[<img alt="facebook" src="images/facebook.png"/>](https://www.facebook.com/LisbonDataScience/)
-[<img alt="linkedin" src="images/linkedin.png"/>](https://www.linkedin.com/company/lisbondatascience/)
-[<img alt="linkedin" src="images/website.png"/>](https://www.lisbondatascience.org/)
+[<img alt="gmail" src="images/gmail.png"/>](mailto:info@lisbondatascience.org) &nbsp; &nbsp; [<img alt="website" src="images/globe.png"/>](https://www.lisbondatascience.org/) &nbsp; &nbsp; [<img alt="linkedin" src="images/github.png"/>](https://github.com/LDSSA) &nbsp; &nbsp; [<img alt="facebook" src="images/facebook.png"/>](https://www.facebook.com/LisbonDataScience/) &nbsp; &nbsp; [<img alt="linkedin" src="images/linkedin.png"/>](https://www.linkedin.com/company/lisbondatascience/)
