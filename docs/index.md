@@ -4,18 +4,21 @@ title: Start here
 
 Welcome to the Wiki of the Lisbon Data Science Academy (LDSA)!
 
-Use this Wiki as your guide and reference to get around the LDSA. Whether you are a volunteer, a student, want to join us or are just curious to learn about what we do... this is the place to start. Find out about:
-- Our organization, [Lisbon Data Science Academy](), and how it works;
-- Our main course, the [Lisbon Data Science **Starters** Academy]();
-- Our Data Science Prep Course -- [Data Science Prep Course]().
+Use this Wiki as your guide and doc reference to the LDSA. Whether you are a volunteer, a student, want to join us or are just curious to learn about what we do... this is where you'll find the info you need about:
+- The organization, Lisbon Data Science Academy;
+- Our **two** courses, the *Data Science Starters Academy* and the *Data Science Prep Course*.
 
-🧑‍🎓 If you're looking to apply as a student, [leave your email here](https://www.lisbondatascience.org/).
+#### **Want to apply to our courses?**
+If you're looking to apply as a student, [leave your email here](https://www.lisbondatascience.org/) or reach out on any of the social platforms below.
 
-🤝🙋 If you wish to contribute as a volunteer, and agree to our [Code of Conduct](General/Code-of-Conduct), reach out.
+#### **Want to volunteer?**
+If you wish to contribute as a volunteer, and agree to our [Code of Conduct](General/Code-of-Conduct), reach out to us [by email](mailto:info@lisbondatascience.org) or on any of our social platforms.
 
-If you see any bugs, typos, or have any feedback to give us, please let us know by opening [a GitHub issue here](https://github.com/LDSSA/wiki/issues/new).
+#### **Want to contribute to the Wiki?**
+- Feel free to contribute to this Wiki [on our GitHub repo](https://github.com/LDSSA/wiki/).
+- If you see any bugs, typos, or have any feedback to give us, please let us know by opening [a GitHub issue here](https://github.com/LDSSA/wiki/issues/new).
 
-Contribute to this Wiki [here](https://github.com/LDSSA/wiki/).
+
 
 
 
