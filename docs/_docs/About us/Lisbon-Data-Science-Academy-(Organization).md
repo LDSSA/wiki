@@ -1,4 +1,10 @@
-# Lisbon Data Science Academy
+---
+title: Lisbon Data Science Academy (Organization)
+category: About us
+order: 1
+---
+
+
 The Lisbon Data Science Academy (_"The Academy"_ or _"LDSA"_) is a not-for-profit organization. 
 
 It was started in June 2017 by a group of [volunteers](#organizing-body) who love data science. The organization runs the [Lisbon Data Science Starters Academy](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)), a course for python programmers who wish to enter Data Science. 

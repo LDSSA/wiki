@@ -1,3 +1,9 @@
+---
+title: Data Science Prep Course
+category: DS Prep Course
+order: 1
+---
+
 What's in this page:
 
 - [Course overview](#course-overview)

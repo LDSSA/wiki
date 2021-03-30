@@ -1,4 +1,9 @@
-# Areas of Responsibility
+---
+title: LDSA - Areas of Responsibility
+category: About us
+order: 3
+---
+
 
 The comprehensive list is:
 - [Ops](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility/4a36c9f84da195e7a5f076e4fb59d99b1bb18ae7#ops)

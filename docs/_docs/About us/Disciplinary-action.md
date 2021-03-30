@@ -1,3 +1,10 @@
+---
+title: Disciplinary Action
+category: About us
+order: 1
+---
+
+
 ## Premise 
 It is an unfortunate fact that for there to be rules there must be a process for disciplinary action when those rules are broken. Such a process must ensure due process and consistency of results. 
 

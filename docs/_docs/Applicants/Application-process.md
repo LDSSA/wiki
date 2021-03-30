@@ -1,3 +1,10 @@
+---
+title: Application Process
+category: Applicants
+order: 1
+---
+
+
 ## About
 
 Applications to the [**Lisbon Data Science Starters Academy**](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)) are designed to be fair and equal to anyone who wants to join.

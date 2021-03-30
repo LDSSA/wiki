@@ -1,4 +1,9 @@
-# Member Directory
+---
+title: Member Directory
+category: About us
+order: 2
+---
+
 
 1. [Staff](#staff)
    1. [Executive Team](#executive-team)
