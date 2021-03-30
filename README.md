@@ -1,11 +1,22 @@
-## How to create/edit a page
 
+The Wiki is hosted on github.ldssa
+
+## How to create/edit a page
 
 Each page is stored as a markdown in a folder inside `/docs/_docs/`. For example, the page `Application Process` will be located in `https://ldssa.github.io/wiki/`**`Applicants`**`/Application-process/`, and stored in folder `/docs/_docs/`**`Applicants`**. All pages follow this logic.
 
-You can either:
+### Edit an existing page
 
-(a) edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
+If you want to edit an existing page, browse it in the pages directory [`/docs/_docs/`](https://github.com/LDSSA/wiki/tree/main/docs/_docs).
+
+1. Click on the page (`.md` file) you want to edit;
+1. Click the edit button
+![](docs/images/edit_page.png)
+1. When you'r ready, insert a commit message at the end of the page, select the option `Create a new branch ...` and click `Propose changes`.
+![](docs/images/propose_changes.png)
+1. Someone from the Documentation AOR will review and approve your changes
+
+You can edit the page locally by cloning the repo, editing, commiting and do a Pull Request to `main`.
 
 **or**
 
@@ -16,6 +27,8 @@ You can either:
 #TODO - Insert Documentation
 
 #TODO - Insert picture depicting the edit button
+
+---
 
 ## How to test the site locally (Ubuntu)
 
@@ -59,3 +72,5 @@ bundle exec jekyll serve
 ## References
 
 - [Template source](https://github.com/CloudCannon/edition-jekyll-template)
+
+- [Installing Jekyll on Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
