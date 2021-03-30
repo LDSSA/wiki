@@ -4,7 +4,6 @@ category: About us
 order: 2
 ---
 
-# Member Directory
 
 1. [Staff](#staff)
    1. [Executive Team](#executive-team)
