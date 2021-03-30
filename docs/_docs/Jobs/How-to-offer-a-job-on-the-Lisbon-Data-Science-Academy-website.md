@@ -1,4 +1,8 @@
-# Job offer instructions 
+---
+title: Job offer instructions 
+category: Jobs
+order: 1
+---
 
 ## Context  
 The Lisbon Data Science Academy is a non-profit in Lisbon, Portugal. We help students learn data science, and promote a community around this field. As part of this, we are letting companies reach data scientists of every level. It is 100% free, both for the students and for the organizations hiring. 

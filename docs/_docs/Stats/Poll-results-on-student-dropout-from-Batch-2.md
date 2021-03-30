@@ -1,3 +1,9 @@
+---
+title: Poll results on student dropout from Batch 2
+category: Stats
+order: 1
+---
+
 ## Poll context
 
 The second batch (2018) of the Academy started with 49 accepted students. About 60% of these students completed all the requirements and graduated. But what happened with the remainder 40%? This corresponds to 20 students that dropped out or failed to graduate. 

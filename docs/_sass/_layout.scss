@@ -198,11 +198,11 @@ $nav-image: $baseurl + "/images/menu.svg";
 
 	@media (min-width: $mobile-break) {
 		h2 {
-			font-size: 2.65rem;
+			font-size: 2rem;
 		}
 
 		h3 {
-			font-size: 5.4rem;
+			font-size: 4.5rem;
 		}
 	}
 
@@ -245,7 +245,7 @@ nav > ul {
 	> a {
 		color: #666;
 		text-decoration: none;
-		font-size: 1.4rem;
+		font-size: 1.25rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
 		display: block;
 	}
@@ -257,7 +257,7 @@ nav > ul {
 	}
 
 	&.top-level > a {
-		line-height: 1.5;
+		line-height: 1;
 		font-weight: 600;
 		padding-left: $space;
 	}

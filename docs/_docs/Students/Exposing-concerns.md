@@ -1,3 +1,9 @@
+---
+title: Exposing Concerns
+category: Students
+order: 1
+---
+
 As clearly explained in the [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct), we designed the Academy to be a safe space, where there is physical and psychological safety. Bullying or unprofessional conduct will not be tolerated by any student or staff. 
 
 With that in mind, what should you do it you believe that someone is not respecting that principle? First, let's establish a few principles:

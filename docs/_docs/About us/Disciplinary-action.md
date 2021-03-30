@@ -1,14 +1,13 @@
 ---
-title: Disciplinary action
+title: Disciplinary Action
 category: About us
-order: 10
+order: 5
 ---
-
 ## Premise 
 It is an unfortunate fact that for there to be rules there must be a process for disciplinary action when those rules are broken. Such a process must ensure due process and consistency of results. 
 
 ## Reasons for disciplinary action 
-The reasons for disciplinary action are expressed in the [code of conduct](pages/Code-of-Conduct). The code of conduct is  considered to describe the acceptable behaviors, therefore anything outside such behaviors is not acceptable. There is no expectation that every unacceptable behavior is described explicitly in the code of conduct, and breaches, be it in letter or spirit, are eligible for disciplinary action. 
+The reasons for disciplinary action are expressed in the [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct). The code of conduct is  considered to describe the acceptable behaviors, therefore anything outside such behaviors is not acceptable. There is no expectation that every unacceptable behavior is described explicitly in the code of conduct, and breaches, be it in letter or spirit, are eligible for disciplinary action. 
 
 ## Types of disciplinary action 
 There are two types of action. 

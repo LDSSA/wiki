@@ -1,4 +1,11 @@
-# LDSA Job Advertisement
+---
+title: LDSA Job Advertisement
+category: Jobs
+order: 2
+---
+
+> 🚧 This page is under construction.
+
 
 As the mission is to create and maintain a community of excellence, any promotional material that is shared with the community must be held to the same standards. Of particular importance are job postings. This document aims to clearly lay out the standards by which these should be held and the process that should be followed before posting a job opening.
 
