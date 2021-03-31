@@ -30,6 +30,19 @@ The Data Science Prep Course (Prep Course) is a preparation course designed to e
 It is important to keep in mind that we cannot guarantee that by taking the Prep Course, you will (1) enter Lisbon Data Science Starters Academy or/and (2) secure a job in Tech. 
 
 ## What will be covered
+
+# Test h1
+some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
+## Test h2
+some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
+### Test h3
+some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
+#### Test h4
+some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
+##### Test h5
+some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
+###### Test h6
+
 Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](#TODO - update link).
 
 All learning units are publicly available on the [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021) repository and you can go through it on your own.
