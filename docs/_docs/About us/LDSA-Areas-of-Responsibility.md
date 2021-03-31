@@ -1,5 +1,5 @@
 ---
-title: Areas of Reponsibility
+title: Areas of Responsibility
 category: About us
 order: 3
 ---
@@ -65,7 +65,7 @@ Any updates to tasks should be done in the form of a comment on the task.
 This is where you have any discussions that are short-lived or quick questions. The Area's Trello
 board should be hooked up with a Slack channel so that card movement also goes into it.
 
---------
+---
 ## Areas of Responsibility in detail
 Each of the following is an area of responsibility with a brief description of the kinds of tasks. 
 

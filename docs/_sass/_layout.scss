@@ -162,6 +162,11 @@ $nav-image: $baseurl + "/images/menu.svg";
 	background-color: $content-background-color;
 	color: $content-color;
 
+	h1::after {
+		content: "";
+		margin: 0px 0;
+	}
+
 	/* this adds an horizontal line before a contents' h3 header */
 	/*
 	h3::before {
@@ -246,7 +251,7 @@ nav > ul {
 	}
 
 	> a {
-		color: rgb(102, 102, 102);  /* Sidebar menu font color */
+		color: rgb(75, 75, 75);  /* Sidebar menu font color */
 		text-decoration: none;
 		font-size: 1.25rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
@@ -254,7 +259,10 @@ nav > ul {
 	}
 
 	&.current > a,
-	> a:active,
+	> a:active {
+		color: #006C93;
+	}
+
 	> a:hover {
 		color: rgb(41, 151, 193);  /* Sidebar menu font color - hover */
 	}

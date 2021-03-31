@@ -31,18 +31,6 @@ It is important to keep in mind that we cannot guarantee that by taking the Prep
 
 ## What will be covered
 
-# Test h1
-some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
-## Test h2
-some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
-### Test h3
-some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
-#### Test h4
-some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
-##### Test h5
-some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala some text lying around so we can test this lorem ipsum lalaala
-###### Test h6
-
 Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](#TODO - update link).
 
 All learning units are publicly available on the [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021) repository and you can go through it on your own.
@@ -156,16 +144,17 @@ On top of that, for your questions to be answered in the shortest possible time,
 
 
 # Frequently Asked Questions
-### **I just want to check that the whole course is 100% remote right?**
+
+##### 1. I just want to check that the whole course is 100% remote right?
 Everything is 100% remote and online!
 
-### **Do I need to belong to a specific company?**
+##### 2. Do I need to belong to a specific company?
 No need to belong to any specific company or university
 
-### **Can you please also confirm if the prep course classes will take place after work hours (18h)?**
+##### 3. Can you please also confirm if the prep course classes will take place after work hours (18h)?
 The Prep course does not occur at any specific time. We only care about you completing all the materials scheduled for that week. Apart from that, you can learn at anywhere and anytime at your own pace.
 
-### **The course's schedule is too intensive for me, can I follow the materials at my own pace instead?**
+##### 4. The course's schedule is too intensive for me, can I follow the materials at my own pace instead?
 The Prep course's materials are 100% available on Github, and you can always go through it by yourself at any time. However, when the course is already finished, our instructor team will not be available to assist you with every question you might have. So, try your best to follow the Prep course' schedule and make the most out of it even though we know it might be hard sometimes! 
 
 ### **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
