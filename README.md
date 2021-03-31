@@ -81,6 +81,8 @@ That's it!
 bundle install
 ```
 
+Run the following **inside** the `docs/` directory:
+
 ```bash
 bundle exec jekyll serve
 ```

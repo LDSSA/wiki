@@ -6,9 +6,9 @@ sitemap: false
 $baseurl: "{{ site.baseurl }}";
 $body-background-color: #2B2E31;
 
-$content-max-width: 800px;
-$content-color: #222;
-$content-background-color: #fff;
+$content-max-width: 960px;
+$content-color: rgb(34, 34, 34);
+$content-background-color: #e4e4e4;
 
 $brand-colour: #006C93;
 $brand-colour-light: mix($brand-colour, $content-background-color, 10%);

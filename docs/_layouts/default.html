@@ -45,6 +45,8 @@
 					</li>
 				</ul>
 
+
+
 				<ul>
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
@@ -77,6 +79,11 @@
 				<h3>{{ page.title }}</h3>
 			</div>
 			<article class="content">
+				<style> /* Inserted styling for href in body */
+					a:hover {
+					  color: #006C93;
+					}
+				</style>
 				{{ content }}
 			</article>
 		</section>
