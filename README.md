@@ -15,7 +15,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
 1. The Documentation Team will review and approve your changes.
 
-**Note**: Please store any images in `/docs/_docs/images`.
+**Note**: Please store any images in `/docs/images`.
 
 **Alternatively**, you can clone this repo, do your changes locally, commit and PR.
 
@@ -39,7 +39,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 1. When you're ready, insert a commit message at the end of the page and select the option `Create a new branch`. Click `Propose changes`;
 1. The Documentation Team will review and approve your changes.
 
-**Note**: Please store any images in `/docs/_docs/images`.
+**Note**: Please store any images in `/docs/images`.
 
 **Alternatively**, you can clone this repo, do your changes locally, commit and PR.
 
