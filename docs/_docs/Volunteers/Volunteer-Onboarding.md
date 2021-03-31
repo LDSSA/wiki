@@ -19,10 +19,6 @@ What's in this page:
 
 ## Onboarding checklist
 
-```Python
-if True:
-   print("Hello")
-```
 
 Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)).
 
