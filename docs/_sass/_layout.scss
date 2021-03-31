@@ -187,7 +187,7 @@ $nav-image: $baseurl + "/images/menu.svg";
 	h2 {
 		font-size: 2rem;
 		margin-left: -1px;
-		color: #888;
+		color: #006C93;
 		letter-spacing: 0;
 	}
 
@@ -231,7 +231,7 @@ nav > ul {
 .nav-item {
 	display: block;
 	font-family: "Open Sans", sans-serif;
-	line-height: 1;
+	line-height: 0.5;
 	margin: 0;
 
 	nav:not(.full-navigation) & > ul {
@@ -243,7 +243,7 @@ nav > ul {
 	}
 
 	> a {
-		color: #666;
+		color: rgb(102, 102, 102);  /* Sidebar menu font color */
 		text-decoration: none;
 		font-size: 1.25rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
@@ -253,7 +253,7 @@ nav > ul {
 	&.current > a,
 	> a:active,
 	> a:hover {
-		color: #111;
+		color: rgb(41, 151, 193);  /* Sidebar menu font color - hover */
 	}
 
 	&.top-level > a {

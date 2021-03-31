@@ -19,6 +19,11 @@ What's in this page:
 
 ## Onboarding checklist
 
+```Python
+if True:
+   print("Hello")
+```
+
 Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)).
 
    1. ⬜️ Read and agree to our [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct)
@@ -32,7 +37,7 @@ Make sure you check all items on the checklist below before anything else. If yo
       - [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon) _(you need to be logged in with your LDSA account!)_
       - LDSSA Batch #5 (to be created) -- general deadlines visible to students
 
-      **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="assets/add_calendar_icon.png" width=15%> at the right-bottom of each calendar's webpage.
+      **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="../../images/add_calendar_icon.png" width="12%"/> at the right-bottom of each calendar's webpage.
 
    5. ⬜️ Ask a member of the dev-ops team to add your GitHub handle (username) to the organization's GitHub
 
