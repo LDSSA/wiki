@@ -31,7 +31,7 @@ It is important to keep in mind that we cannot guarantee that by taking the Prep
 
 ## What will be covered
 
-Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](#TODO - update link).
+Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](https://docs.google.com/spreadsheets/d/1JzRfuacM5Q_XsnSMgEqOZH_cCBnT0J6K-e-687fFa6s/edit#gid=2018895387).
 
 All learning units are publicly available on the [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021) repository and you can go through it on your own.
 
