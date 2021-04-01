@@ -27,7 +27,7 @@ Job offers must be for data science or data engineering related positions. Pleas
 
 
 ## What are the rules for submitting? 
-1. Organizations requesting to submit a job offer must be compatible with the [LDSA values](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct#discrimination-and-harassment). 
+1. Organizations requesting to submit a job offer must be compatible with the [LDSA values](/../About us/Code-of-Conduct#discrimination-and-harassment). 
 1. Organizations can have a maximum of 3 offers available at a given time. 
 1. Organizations must complete all sections of the template without missing information, nor excessive information. Each section will have a character limit that must be respected.  
 1. Organizations must use factual and verifiable information in their descriptions. Vague, hyperbolic or non-falsifiable statements will be rejected. Examples (non comprehensive): 
@@ -56,5 +56,5 @@ It doesn't. We're fine financially, and just want to do this to give back to the
 If any staff from the Academy actively recommends your company, we will allow them to express that on the page. That will help with student's trust. 
 
 #### Boy oh boy, do I have questions! 
-If you have questions please feel free to contact us at jobs[at]lisbondatascience.org.  
+If you have questions please feel free to contact us at [jobs@lisbondatascience.org](mailto:jobs@lisbondatascience.org).  
 We ask that you read these instructions fully first, as emails asking "how does it work" will get saved as pdf, printed, cut into small pieces, stewed with some sweet potatoes and eaten by the staff. 

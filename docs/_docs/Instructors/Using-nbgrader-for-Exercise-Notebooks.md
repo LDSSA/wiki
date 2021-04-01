@@ -144,7 +144,7 @@ Another good example of this might an exercise where the student must create a m
 
 ### Releasing the tests to other teachers and then to students 
 
-There will be two repositories one for instructors and another for the students. If these don't exist ask devops on the [#dev-ops](https://ldsacademy.slack.com/messages/C9YRC295X) channel.
+There will be two repositories one for instructors and another for the students. If these don't exist ask devops on the `#dev-ops` Slack channel.
 
 Once you are happy with your notebook you will need to
 1. Push all changes to the instructors Github repository.

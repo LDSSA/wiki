@@ -4,7 +4,10 @@ category: Instructors
 order: 1
 ---
 
-This is a short guide to building Learning Units. It is not prescriptive, but more of a set of recommendations. 
+> ⚠️ Some information in this page might be outdated.
+
+
+This is a short guide to building Learning Units for the Starters Academy (LDSSA). It is not prescriptive, but more of a set of recommendations.
 
 Let's jump in! 
 
@@ -21,7 +24,7 @@ The Learning Notebook will explain the materials in high detail. This notebook s
 This will be extremely short, and look a bit like a cheatsheet of "common usage patterns". This notebook should be written by the reviewer. 
 
 #### 3. Exercise Notebook
-The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](https://github.com/LDSSA/wiki/wiki/Using-nbgrader-for-Exercise-Notebooks)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
+The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](../Using-nbgrader-for-Exercise-Notebooks)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
 > (1) interact with the concepts (often by simply copy-pasting some code from the Learning Notebook)  
 > (2) understand how to use the common code patterns (which they will should have in the Examples Notebook). 
 
@@ -54,7 +57,7 @@ Before getting started, look up the [scope of your learning unit](https://docs.g
 
 Throughout your work, you will inevitably be tempted to add "interesting by-the-ways". You must resist the temptation. Adding stuff is easy, it's curating and ensuring that everything we teach is critical that is hard.
 
-Having said that, if you find that you **really** need to add a concept in order to do your learning unit, reach out on [#Curriculum](https://ldsacademy.slack.com/messages/C6ABR27EJ) on slack to discuss it. 
+Having said that, if you find that you **really** need to add a concept in order to do your learning unit, reach out on the `#Curriculum` channel on slack to discuss it. 
 
 Always remember the following: 
 > **As instructors, our main responsibility isn't to list, but to curate.**
@@ -126,7 +129,7 @@ Naturally this will depend on the instructor, but one good order to do this is
 ## Practicalities 
 
 #### Where should I push the work in progress? 
-- The Learning Units are pushed to the [Academy GitHub](https://github.com/LDSSA/bootcamp), the folder depending on the edition of the Academy. 
+- The Learning Units are pushed to the [Academy GitHub](https://github.com/LDSSA/), the repository depending on the edition of the Academy. 
 - Be particularly careful with the Exercise Notebook, as you don't want to push the answers. If in doubt, push things to your personal repo when working on them with your reviewer / team, and then push the right versions at the end.
 
 #### How should I name my files? 
@@ -145,6 +148,6 @@ It would be best if you didn't, so that it's easy for:
 
 ## Mind your timeline 
 
-Building Learning Units **takes time!** You will probably take at least 8 hours to build every 1 hour of high quality learning material, so budget for it, and ensure you have a lot of time for revisions and corrections. 
+Building Learning Units **takes time!** You will probably take at least 8 hours to build every 1 hour of high quality learning material, so budget for it, and ensure you have a lot of time for revisions and corrections and that you send the materials to the QA Team by the agreed deadline.
 
-If you have any questions about Learning Units please [add them as issues](https://github.com/LDSSA/wiki/issues),  or bring them up in the [#Teaching](https://ldsacademy.slack.com/messages/C9VFC0RB6) slack channel! 
+If you have any questions about Learning Units please [add them as issues](https://github.com/LDSSA/wiki/issues),  or bring them up in the `#Teaching` Slack channel! 

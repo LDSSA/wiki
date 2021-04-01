@@ -4,6 +4,9 @@ category: Starters Academy (LDSSA)
 order: 3
 ---
 
+> ⚠️ Some information in this page might be outdated.
+
+
 ## Target audience
 
 - Python programmers 
