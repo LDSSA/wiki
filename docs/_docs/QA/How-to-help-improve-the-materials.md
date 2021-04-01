@@ -4,7 +4,7 @@ category: QA
 order: 1
 ---
 
-> ⚠️ The information in this page might be outdated.
+> ⚠️ The information in this page might be outdated. Please contact [Quality Assurance](/../About us/Member-Directory) if you need updated info.
 
 # Context 
 
@@ -12,15 +12,15 @@ Having high quality materials is not just a product of creation, but also of mai
 
 That's why it is so crucial that everyone chip in, and look for potential issues, both in the exercise and learning units, and either suggest issues, solve them, or both. 
 
-Before you jump in, please take the time to read this guide (if you haven't read the [How to Build Learning Units guide](https://github.com/LDSSA/wiki/wiki/How-to-build-Learning-Units), please read that one first).
+Before you jump in, please take the time to read this guide (if you haven't read the [How to Build Learning Units guide](/../Instructors/How-to-build-Learning-Units), please read that one first).
 
 ## How to help improve learning units 
 There are 3 ways to improve learning units: 
-1. [Doing the exercises and/or reading the Learning Notebooks](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#how-to-find-issues) and [creating issues](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#how-to-open-issues)
-2. [Fixing known issues](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#how-to-fix-issues) 
+1. Doing the exercises and/or reading the Learning Notebooks and [creating issues](#how-to-open-issues)
+2. [Fixing known issues](#how-to-fix-issues) 
 3. Both
 
-All the above are valuable and extremely welcome. All development of new material is done on the intructors' versions, which are private repos ([why?](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#why-not-fix-things-directly-in-the-students-repo)). If you need access to contribute, go [here](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#how-to-request-access-to-the-instructors-repos). 
+All the above are valuable and extremely welcome. All development of new material is done on the intructors' versions, which are private repos ([why?](#why-not-fix-things-directly-in-the-students-repo)). If you need access to contribute, go [here](#how-to-request-access-to-the-instructors-repos). 
 
 ## Where to start 
 Go [here](https://docs.google.com/spreadsheets/d/1E_r65ZLUwbtDwbdoSyuU4S2fC17kvRpezRUl-XyU4c4/edit#gid=0), and see which Learning Units you'd like to help QA. Please don't select any that you created yourselves (even though you can and should fix bugs on yours), so that someone other than the author also QAs it. Once you've found a few you like, add your name to it 🥇   
@@ -54,7 +54,7 @@ Issues are extremely useful to keep track of what needs fixing, as long as we fo
 
 ## How to fix issues 
 
-1. Before fixing the issue, please [open one](https://github.com/LDSSA/wiki/wiki/How-to-help-improve-the-materials#how-to-fix-issues), so that we can keep track of what issues are being worked on. Also, it allows us to know what issues are closed by each PR. 
+1. Before fixing an issue, please open one, so that we can keep track of what issues are being worked on. Also, it allows us to know what issues are closed by each PR. 
 
 2. Check if the issue is already being fixed by a pull request (it should be mentioned in the PR, if that is the case) 
 
@@ -96,4 +96,4 @@ If you want to propose one of these improvements, it's best to open an issue fir
 Yes, please! Most of us are not native English speakers, so we're likely to make some ~~ortografic~~ ~~ortographic~~ orthographic mistakes here and there. 
 
 #### I got in trouble with git / repo stuff
-The [#devops](https://ldsacademy.slack.com/messages/C9YRC295X) channel has people who actually understand how Git works, in a different way from [the way data scientists understand it]( https://xkcd.com/1597/). 
+The `#devops` channel has people who actually understand how Git works, in a different way from [the way data scientists understand it](https://xkcd.com/1597/). 
