@@ -4,6 +4,9 @@ category: Instructors
 order: 2
 ---
 
+> ⚠️ Some information in this page might be outdated.
+
+
 # What and why
  
 In order to provide help to students while they are working on their BLUs, we should make instructors available during set times. The reason for this is so that everyone can schedule times where they know they will be able to get help in order to avoid a million questions trickling in over a long period of time which will put a huge burden on the instructors.
@@ -24,4 +27,4 @@ The structure of an office hours session will be
 - Hour 2 and 3 - Answer questions and talk with students
 
 ## How to answer questions 
-Remember to read the [how to give help](https://github.com/LDSSA/wiki/wiki/How-to-ask-for-and-give-help#how-to-give-help) section of the wiki :) 
+Remember to read the [how to give help](/../Students/How-to-ask-for-and-give-help#how-to-give-help) section of the wiki :) 
