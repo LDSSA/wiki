@@ -4,9 +4,12 @@ category: Applicants
 order: 1
 ---
 
-Applications to the [**Lisbon Data Science Starters Academy**](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)) are designed to be fair and equal to anyone who wants to join.
+> 🚧 This page will be updated soon with info and dates for Batch 5.
 
-Candidates are required to show that they have sufficient skills to participate. During the application process, they'll have to complete a **coding test** that covers the Academy's [pre-requisites](https://github.com/LDSSA/wiki/wiki/Target-audience-and-Pre-requisites-for-the-Starters-Academy#pre-requisites), and **3 Learning Units** about [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) where we'll teach new concepts and evaluate them. Candidates need to pass both the coding test and the 3 SLUs.
+
+Applications to the [**Lisbon Data Science Starters Academy**](/Starters Academy (LDSSA)/Starters-Academy-(Course)) are designed to be fair and equal to anyone who wants to join.
+
+Candidates are required to show that they have sufficient skills to participate. During the application process, they'll have to complete a **coding test** that covers the Academy's [pre-requisites](/Starters Academy (LDSSA)/Target-audience-and-Pre-requisites-for-the-Starters-Academy), and **3 Learning Units** about [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) where we'll teach new concepts and evaluate them. Candidates need to pass both the coding test and the 3 SLUs.
 
 These tests aim to assert that students will be able to take full advantage of the Academy, without being stuck in technical implementation problems. It is a test for _sufficiency_, meaning we're not aiming to take "the best", just to confirm that the students' skills are sufficient.
 
@@ -24,7 +27,7 @@ In order to be consistent with our values of diversity, inclusion, and openness,
 
 ## Time commitment and behaviour expectations
 
-All the candidates of the Starters Academy are expected to read, acknowledge and follow our [**Code of Conduct**](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct#application-to-the-academy). This is one of the first steps in the application process.
+All the candidates of the Starters Academy are expected to read, acknowledge and follow our [**Code of Conduct**](/../About us/Code-of-Conduct#application-to-the-academy). This is one of the first steps in the application process.
 
 In terms of time commitment, the weekly workload of the Academy is about 10h/week. In case you're not able to put in this much time for the majority of the duration of the Academy, you should think twice before applying: if you join the Academy and drop before the end, you'll be wasting a seat that could be better used by someone else!
 
@@ -42,7 +45,7 @@ We assume integrity in all of our students so we won't expend any resources atte
 
 ## Application steps and important dates
 
-You can check the official calendar for batch4 [here](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_th6fpmimvqvso12t70cd1gkvq8%40group.calendar.google.com&ctz=Europe%2FLisbon).
+You can check the official calendar for Batch 4 [here](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_th6fpmimvqvso12t70cd1gkvq8%40group.calendar.google.com&ctz=Europe%2FLisbon).
 
 1. 2020-05-28 to 2020-05-31: Sign-up on the Admission Portal
 1. 2020-06-01 to 2020-06-14: Admission test submissions are open
@@ -63,7 +66,7 @@ These are the main topics that will be evaluated on the coding test:
 - Basics of working with the command line terminal
 - Git
 
-You can see them in more detail [here](https://docs.google.com/spreadsheets/d/165U7Y9ll0v5oKykIileYOTb7GcMPyQkkl18E-5-h_8k/edit?usp=sharing).
+You can see them in more detail [here](https://docs.google.com/spreadsheets/d/1JzRfuacM5Q_XsnSMgEqOZH_cCBnT0J6K-e-687fFa6s/edit#gid=2018895387).
 
 This is the content that will be taught and evaluated on the Learning Units:
 - [Pandas 101](https://github.com/LDSSA/curriculum-development/blob/master/curriculum/01-bootcamp-and-binary-classification.md#slu01)
