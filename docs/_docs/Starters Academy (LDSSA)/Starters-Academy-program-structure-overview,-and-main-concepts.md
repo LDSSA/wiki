@@ -4,6 +4,8 @@ category: Starters Academy (LDSSA)
 order: 5
 ---
 
+> ⚠️ Some information in this page might be outdated.
+
 ## Structure
 
 A Starters Academy is made of one Bootcamp, 6 to 7 specialisations, and 1 capstone. 
