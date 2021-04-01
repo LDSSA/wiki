@@ -20,7 +20,7 @@ We know. This is uncomfortable. Let's separate two types of issues:
 ### How should you express a concern? 
 You have two mechanisms. 
 
-First, you can approach a staff member, and explain the situation. The staff member will take this to the Academy Executive (starting with Sam), and from that point the process is described [here](/../About us/Disciplinary-action). In this mode, the disciplinary committee will know who reported the situation, but no one else needs to know. This is the preferred method, as we get to ask more details. 
+First, you can approach a staff member, and explain the situation. The staff member will take this to the Academy Executive, and from that point the process is described [here](/../About us/Disciplinary-action). In this mode, the disciplinary committee will know who reported the situation, but no one else needs to know. This is the preferred method, as we get to ask more details. 
 
 Alternatively, if you really don't feel comfortable expression a concern but think we should know about it, you can use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqSl_jatUTfXrVPBVaZuaKK0ygxQ065nnAZdPG4mG7ht_-Zw/viewform?usp=sf_link). This will be read by a member of the Disciplinary Committee, who will have no way of knowing who you are. This method is available, but if you feel comfortable talking to a staff member that makes it easier for us to establish what happened.  
 
