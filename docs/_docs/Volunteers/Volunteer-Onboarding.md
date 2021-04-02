@@ -20,9 +20,9 @@ What's in this page:
 ## Onboarding checklist
 
 
-Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)).
+Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](/../About us/Member-Directory)).
 
-   1. ⬜️ Read and agree to our [code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct)
+   1. ⬜️ Read and agree to our [code of conduct](/../About us/Code-of-Conduct)
 
    2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Batch 5)
     
@@ -39,7 +39,7 @@ Make sure you check all items on the checklist below before anything else. If yo
 
    6. ⬜️ Introduce yourself on Slack! 😀
 
-**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](https://github.com/LDSSA/wiki/wiki/LDSA-Primary-Enabler-Agreement).
+**If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](../LDSA-Primary-Enabler-Agreement).
 
 You're now official part of the team!
 
@@ -68,7 +68,7 @@ There are three main ways to find things on this wiki:
 Members that have more administrative duties will have an @lisbondatascience.org
 Google Workplace account. In that account is a folder that is shared with everyone
 called "Index". This is not the most organized drive folder but there is an
-ongoing attempt to keep things organized by their [AOR](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility).
+ongoing attempt to keep things organized by their [AOR](/../About us/LDSA-Areas-of-Responsibility).
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
@@ -83,7 +83,7 @@ There are two main ways that you can find stuff in the google drive Index folder
 
 For any general question, feedback, etc.,  **open an issue** on the LDSSA/wiki, for anything related with notebook solutions and any other sensitive information that cannot be revealed to the students, please use the LDSSA/batch-5-instructors repo.
 1. [Wiki](https://github.com/LDSSA/wiki)
-2. [batch-5-instructors](https://github.com/LDSSA/batch-5-instructors)
+2. [batch5-instructors](https://github.com/LDSSA/batch5-instructors)
 
 There are also repos specific to certain AORs, such as the [Curriculum Development](https://github.com/LDSSA/curriculum-development). If you're working in QA, for example, you'll be given access to specific repos where you should open work-related issues.
 
@@ -98,15 +98,13 @@ For any other thing however, do use the Wiki issues section.
    to be recorded somewhere else.
 1. Use **GitHub issues** for traceable discussions. If you need to make a big decision
    that everyone needs to be aware of and will span multiple days or weeks,
-   it needs to exist as a [GitHub issue](#github-issues).
+   it needs to exist as a GitHub issue. In genera it should go to the Wiki repo but, if the issue is specific to the current Batch or DS Prep Course editions, or to an AOR that has their own repo (e.g. Curriculum Development), you can use those repos issue section too. Notice that some repos are public and other private, so careful when opening an issue that might reveal exercise solutions or sensitive information. When QAing before the release of an SLU, for example, all issues should be opened in a private repo (usually something like `<course-name>-instructors`).
 
 > _**If it's not a GitHub issue, it doesn't exist.**_ 🌳
 
 ### How?
-1. Ask publicly if possible. More people will see the question and you have a
-   better chance of getting a good answer.
-1. When choosing how and where to ask, try to guess what AOR is most likely
-   to have an answer (hint: check the [Member Directory](https://github.com/LDSSA/wiki/wiki/Member-Directory)) and ask in that slack channel or forum.
+1. Ask publicly if possible. More people will see the question and you have a better chance of getting a good answer.
+1. When choosing how and where to ask, try to guess what AOR is most likely to have an answer (hint: check the [Member Directory](/../About us/Member-Directory)) and ask in that slack channel or forum.
 
 
 ## Important documents and links
@@ -114,13 +112,13 @@ For any other thing however, do use the Wiki issues section.
 Here is a list of important things that you should definitely read and be familiar with regardless of your role in the organization.
 
 1. [Our mission and values](https://docs.google.com/document/d/1EDQF8lFZA0DYKhru57rxLI4d7s3ReiN90BFdjTHtP-Q/edit?usp=sharing);
-1. [Our code of conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
-1. [The Academy](https://github.com/LDSSA/wiki/wiki/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
-1. [The Starters Academy](https://github.com/LDSSA/wiki/wiki/Starters-Academy-(Course)) - Main reference for the format and what will
+1. [Our code of conduct](/../About us/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
+1. [The Academy](/../About us/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
+1. [The Starters Academy](/../Starters Academy (LDSSA)/Starters-Academy-(Course)) - Main reference for the format and what will
    be covered in the Starters Academy;
-1. [The academy AORs](https://github.com/LDSSA/wiki/wiki/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
+1. [The academy AORs](/../About us/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
    Areas of Responsibility (AORs);
-1. [Member Directory](https://github.com/LDSSA/wiki/wiki/Member-Directory) - Who is responsible for what.
+1. [Member Directory](/../About us/Member-Directory) - Who is responsible for what.
 
 ## Start guide for instructors [WIP]
 
@@ -135,11 +133,11 @@ documentation that you'll need to be aware of as well.
 1. [The past curriculum](https://github.com/LDSSA/wiki/wiki/Batch2-Starters-Academy-Curriculum-and-Material-Reference) - A reference of the material that was taught
    in the past. Please note that the curriculum for the current batch may have
    changed.
-1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) - This is the single source of truth for the
+1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) (only accessible to LDSA staff - you need to be logged in!) - This is the single source of truth for the
    learning material that will be deployed to students. You push to this repo,
    open PRs to start the QA process, and then via some CD will be sent to the
    students.
-1. [batch5-students](https://github.com/LDSSA/batch5-students) - This is is the single source of truth for the
+1. [batch5-students](https://github.com/LDSSA/batch5-students) (public) - This is is the single source of truth for the
    learning material from the perspective of the students. They are not
    aware of the existence of the instructors repo.
 1. Who is Responsible for What - < _To be done._ >
