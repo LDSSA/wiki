@@ -53,7 +53,7 @@ If you are blocked on a Python or devops question, do the following:
 Please use the ... channel on Slack.
 
 ## How to open an issue 
-To open an issue, click on the [Issues tab on the Github repo](https://github.com/LDSSA/batch3-students/issues?utf8=%E2%9C%93&q=is%3Aissue+) where you are working. Remember to check first if the issue already exists!  
+To open an issue, click on the Issues tab of the Github repo where you are working. If you're a student, this would the be the `LDSSA/batch-...` repo. Remember to check first if the issue already exists!  
 
 If it doesn't exist, click _New Issue_, and write it in a clear and comprehensive way. Remember to make the title make sense for those who are searching for it (for instance, don't use _"Question in LU2"_ as a title).
   

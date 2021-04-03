@@ -19,7 +19,7 @@ All the main dates can be found [here](https://calendar.google.com/calendar/embe
 Please read the [Academy Guide](../Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
 
 ### How do I apply? What are the prerequisites? 
-Here is the [Application process](../../Applicants/Application-process) and the [Prerequisites section](../../Starters-Academy-(LDSSA)/Target-audience-and-Pre-requisites-for-the-Starters-Academy).
+Here is the [Application process](../../Applicants/Application-process) and the [Prerequisites section](../Target-audience-and-Pre-requisites-for-the-Starters-Academy).
 
 ### Is there any financial support if I can't afford the student fees?
 Yes, we are currently trialing a [scholarships program](../../Applicants/Application-process#scholarships)
@@ -39,7 +39,7 @@ We are currently working on a jobs page, if you want to learn more contact us at
 English. _(...and Python)_
 
 ### Will you teach python? 
-The starters Academy requires Python, but we do have a [prep course](../../DS-Prep-Course/Data-Science-Prep-Course) that teaches it!  
+The starters Academy requires Python, but we do have a [prep course](../../DS Prep Course/Data-Science-Prep-Course) that teaches it!  
 
 ### I don’t know any data science, will I be able to make the classes? 
 Yes! The classes are directed at people who are giving their first steps in the data science world. 
@@ -52,6 +52,6 @@ Setup must be done before arrival, we will provide step by step instructions and
 [Here is the setup](https://github.com/LDSSA/setup) that we've required in the past.
 
 #### How do I know if my python is good enough?
-A good option would be doing our test. However, for an idea of what will be tested, please read the [pre-requisites](../../Starters-Academy-(LDSSA)/Starters-Academy-(Course)#pre-requisites).
+A good option would be doing our test. However, for an idea of what will be tested, please read the [pre-requisites](../Starters-Academy-(Course)#pre-requisites).
 
-If you have no prior experience with Python, we recommend doing our [1-month Prep Course](../../DS-Prep-Course/Data-Science-Prep-Course).
+If you have no prior experience with Python, we recommend doing our [1-month Prep Course](../../DS Prep Course/Data-Science-Prep-Course).
