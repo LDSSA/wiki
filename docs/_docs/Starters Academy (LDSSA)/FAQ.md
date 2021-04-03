@@ -16,7 +16,7 @@ Yes, you can! All contact details are [here](http://www.lisbondatascience.org/#l
 All the main dates can be found [here](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_th6fpmimvqvso12t70cd1gkvq8@group.calendar.google.com&ctz=Europe/Lisbon&pli=1). If applications aren't open and you want be notified when they open, please [leave us your email](http://www.lisbondatascience.org/) 
 
 ### What is the Starters Academy?
-Please read the [Academy Guide](../../Starters-Academy-(LDSSA)/Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
+Please read the [Academy Guide](../Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
 
 ### How do I apply? What are the prerequisites? 
 Here is the [Application process](../../Applicants/Application-process) and the [Prerequisites section](../../Starters-Academy-(LDSSA)/Target-audience-and-Pre-requisites-for-the-Starters-Academy).
