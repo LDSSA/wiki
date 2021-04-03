@@ -118,7 +118,7 @@ Primary Enabler of **Curriculum Development**. Instructor.
 
 ##### Minh Hoang
 _Data Scientist @ StudentFinance_  
-President of the **Lisbon Data Science Academy**. President of the **Data Science Prep Course**.  
+President of the **Lisbon Data Science Academy**. Teaching Lead of **Data Science Prep Course**.  
 [LinkedIn](https://www.linkedin.com/in/minhhoang95/)
 
 ##### Nuno Brás
