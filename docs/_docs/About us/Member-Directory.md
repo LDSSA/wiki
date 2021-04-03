@@ -132,7 +132,7 @@ Primary Enabler of **Jobs**. Instructor.
 
 ##### Sam Hopkins
 _Co-founder & Senior Data Scientist @ DareData Engineering_   
-Co-Founder of the Academy. Primary Enabler of **Organization Administration**. Primary Enabler of **Community**.
+Co-Founder of the Academy. Primary Enabler of **Organization Administration**. Primary Enabler of **Community**.  
 [LinkedIn](https://www.linkedin.com/in/sam-hopkins-01914364/) 
 
 ##### Manuel Garrido
