@@ -13,5 +13,16 @@ Welcome to the Wiki of the Lisbon Data Science Academy (LDSA), built for applica
 
 ---
 
+🙋‍♂️🙋‍♀️ **We're recruiting!!** We are currently recruiting volunteers for the following Areas of Responsibility:
+- **Operations** (lead needed!)
+- **Admissions** (lead needed!)
+- **Quality Assurance** (lead by Filipa Rodrigues)
+- **Student Success** (lead by Ricardo José Neves Alberto)
+- **Documentation** (lead by Juliana Rodrigues)
+- **Dev-Ops** (lead by Hugo Castilho)
+- **Teaching** - several BLUs and SLUs (lead by Catarina Silva)
+
+---
+
 **Contribute** to this Wiki on [github.com/LDSSA/wiki/](https://github.com/LDSSA/wiki/).
 Please report any bugs, typos, or feedback [here](https://github.com/LDSSA/wiki/issues/new).
