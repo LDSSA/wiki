@@ -20,9 +20,9 @@ What's in this page:
 ## Onboarding checklist
 
 
-Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](/../About us/Member-Directory)).
+Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](../../About us/Member-Directory)).
 
-   1. ⬜️ Read and agree to our [code of conduct](/../About us/Code-of-Conduct)
+   1. ⬜️ Read and agree to our [code of conduct](../../About us/Code-of-Conduct)
 
    2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Batch 5)
     
@@ -68,7 +68,7 @@ There are three main ways to find things on this wiki:
 Members that have more administrative duties will have an @lisbondatascience.org
 Google Workplace account. In that account is a folder that is shared with everyone
 called "Index". This is not the most organized drive folder but there is an
-ongoing attempt to keep things organized by their [AOR](/../About us/LDSA-Areas-of-Responsibility).
+ongoing attempt to keep things organized by their [AOR](../../About us/LDSA-Areas-of-Responsibility).
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
@@ -104,7 +104,7 @@ For any other thing however, do use the Wiki issues section.
 
 ### How?
 1. Ask publicly if possible. More people will see the question and you have a better chance of getting a good answer.
-1. When choosing how and where to ask, try to guess what AOR is most likely to have an answer (hint: check the [Member Directory](/../About us/Member-Directory)) and ask in that slack channel or forum.
+1. When choosing how and where to ask, try to guess what AOR is most likely to have an answer (hint: check the [Member Directory](../../About us/Member-Directory)) and ask in that slack channel or forum.
 
 
 ## Important documents and links
@@ -112,13 +112,13 @@ For any other thing however, do use the Wiki issues section.
 Here is a list of important things that you should definitely read and be familiar with regardless of your role in the organization.
 
 1. [Our mission and values](https://docs.google.com/document/d/1EDQF8lFZA0DYKhru57rxLI4d7s3ReiN90BFdjTHtP-Q/edit?usp=sharing);
-1. [Our code of conduct](/../About us/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
-1. [The Academy](/../About us/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
-1. [The Starters Academy](/../Starters Academy (LDSSA)/Starters-Academy-(Course)) - Main reference for the format and what will
+1. [Our code of conduct](../../About us/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
+1. [The Academy](../../About us/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
+1. [The Starters Academy](../../Starters Academy (LDSSA)/Starters-Academy-(Course)) - Main reference for the format and what will
    be covered in the Starters Academy;
-1. [The academy AORs](/../About us/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
+1. [The academy AORs](../../About us/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
    Areas of Responsibility (AORs);
-1. [Member Directory](/../About us/Member-Directory) - Who is responsible for what.
+1. [Member Directory](../../About us/Member-Directory) - Who is responsible for what.
 
 ## Start guide for instructors [WIP]
 

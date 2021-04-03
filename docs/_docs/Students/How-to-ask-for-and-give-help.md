@@ -38,7 +38,7 @@ Remember to check the closed issues, as the default screen will only show the "s
 ![the closed ones](https://i.ibb.co/Nmz1Hn8/issues.png)
  
 #### Step 4: Uuuh, a new issue! Exciting! 
-Still nothing? Ok, cool, time to [open a new issue](#how-to-open-an-issue). Remember: do **NOT** post your answer and ask "what's wrong?", as this is a breach of the [Code of Conduct](/../About us/Code-of-Conduct). Except for that, there are *no wrong questions!* You are smart and yet you are confused, so we want to help!  
+Still nothing? Ok, cool, time to [open a new issue](#how-to-open-an-issue). Remember: do **NOT** post your answer and ask "what's wrong?", as this is a breach of the [Code of Conduct](../../About us/Code-of-Conduct). Except for that, there are *no wrong questions!* You are smart and yet you are confused, so we want to help!  
 
 #### Step 5: If you need to, you can ignore all of this and talk to us. 
 If you are shy and would rather talk to an instructor, we can of course talk on slack. We'd always rather you get your questions solved than optimize on the process. However if you follow this process you'll be helping others and making the Academy better for the next generation too!
@@ -75,11 +75,11 @@ Remember, it is easier to ask you on slack than to do raise an issue. However th
 Let's not be naïve: now that you've answered, the student isn't raising it anymore ;) 
 
 ### Do not give the answer to exercises!
-Remember the [hints not answers](/../About us/Code-of-Conduct#hints-not-answers) policy in the code of conduct. Explain the general case, point them towards the place where something is explained, but don't tell them the answer to a Exercise Notebook question.
+Remember the [hints not answers](../../About us/Code-of-Conduct#hints-not-answers) policy in the code of conduct. Explain the general case, point them towards the place where something is explained, but don't tell them the answer to a Exercise Notebook question.
 
 ### Check issues regularly 
 While the Learning Units are going on, issues will pop-up. If we all contribute by checking them regularly and answering as we can, the response time will be excellent, and the effort shared by all. 
 
 ### Police the issues and slack channels for answers
-This is not the most fun part of our work, but be on the alert for answers to Exercises (sometimes with the best of intentions). If you find [code that is an answer to a graded Exercise](/../About us/Code-of-Conduct#academic-integrity-on-all-assignments-and-exercises), feel free to delete it. Warn the student not to repeat it, and if it is a repeated offender inform the head teacher to take action. 
+This is not the most fun part of our work, but be on the alert for answers to Exercises (sometimes with the best of intentions). If you find [code that is an answer to a graded Exercise](../../About us/Code-of-Conduct#academic-integrity-on-all-assignments-and-exercises), feel free to delete it. Warn the student not to repeat it, and if it is a repeated offender inform the head teacher to take action. 
 

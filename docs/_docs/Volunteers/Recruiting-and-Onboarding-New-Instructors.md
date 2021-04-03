@@ -39,12 +39,12 @@ This interview can happen either in person or in a call, and should cover the fo
 In order to help you with this, you should share with them the following information (this information needs an update! TBD):
 
 1. The [website](http://lisbondatascience.org/)
-1. The [starters academy course wiki page](/../Starters Academy (LDSSA)/Starters-Academy-(Course))
-1. The [code of conduct](/../About us/Code-of-Conduct)
+1. The [starters academy course wiki page](../../Starters Academy (LDSSA)/Starters-Academy-(Course))
+1. The [code of conduct](../../About us/Code-of-Conduct)
 1. The [in-depth](https://docs.google.com/drawings/d/1j2idMZfxTU0hQ3cKvfU48l_KeYkbS4wdvFTbKBjjbLY/edit) curriculum for the learning units they will cover.
 1. The [bootcamp repo](https://github.com/LDSSA/bootcamp)
 1. The [example BLU01](https://github.com/LDSSA/batch2-BLU01)
-1. The [learning unit guide](/../Instructors/How-to-build-Learning-Units)
+1. The [learning unit guide](../../Instructors/How-to-build-Learning-Units)
 1. The [time commitments](https://docs.google.com/spreadsheets/d/1Al6YPtryBpdQWcc3Ou_IjNG3cTcmaLpy0ZmKVFpIpqU/edit?zx=8wbzxn5chhnn&pli=1#gid=1608717628) and timetables for delivering a specialisation. 
     - In case you're recruiting them to help with a specialisation, they'll probably build a single BLU and offer some student support. This will correspond to one of the `Building BLU<number>` rows in the spreadsheet, picking one of the slots to offer student support, and showing up to the hackathon.
     - Preparation starts 4 weeks before the beginning of the specialization's month.

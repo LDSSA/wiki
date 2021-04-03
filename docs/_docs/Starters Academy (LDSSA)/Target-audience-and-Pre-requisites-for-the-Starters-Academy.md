@@ -68,7 +68,7 @@ While not a profit-making organization, the Academy is not free, to ensure that 
 
 ### Code of Conduct  
 
-The Academy operates under a strict [Code of Conduct](https://github.com/LDSSA/wiki/wiki/Code-of-Conduct), based on documents by Coursera and Pydata. Please read the Code of Conduct in full before applying. 
+The Academy operates under a strict [Code of Conduct](../../About us/Code-of-Conduct), based on documents by Coursera and Pydata. Please read the Code of Conduct in full before applying. 
 
 ## Volunteering
 
