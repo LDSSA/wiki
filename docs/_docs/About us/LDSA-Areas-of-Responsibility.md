@@ -62,7 +62,7 @@ Each of the following is an area of responsibility with a brief description of t
 
 
 ### Organization Administration  
-[Primary enabler](../LDSA-Areas-of-Responsibility/#organizational-structure)  
+[Primary enabler](../Member-Directory/#organizational-structure)  
 - Ensure that big organization-critical tasks are done
 - This includes writing job descriptions, getting bank account, strategies are written
 
