@@ -14,6 +14,7 @@ What's in this page:
    - [GitHub](#github)
 - [Communication](#communication)
 - [Important documents and links](#important-documents-and-links)
+- [Start guide for Instructors](#start-guide-for-instructors)
 
 <br>
 
@@ -120,22 +121,15 @@ Here is a list of important things that you should definitely read and be famili
    Areas of Responsibility (AORs);
 1. [Member Directory](../../About us/Member-Directory) - Who is responsible for what.
 
-## Start guide for instructors [WIP]
+## Start guide for instructors
 
-_Disclaimer: this section is currently a work in progress, some of the info might be outdated._
-
-If you are coming on as an instructor, there's some additional technical
-documentation that you'll need to be aware of as well.
+If you are coming on as an instructor, there's some additional technical documentation that you'll need to be aware of.
 
 1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the curriculum that is being taught during the current batch. When you accept development of an LU, this dictates the topics that you must cover.
-1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) (only accessible to LDSA staff - you need to be logged in!) - This is the single source of truth for the
-   learning material that will be deployed to students. You push to this repo,
-   open PRs to start the QA process, and then via some CD will be sent to the
-   students.
-1. [batch5-students](https://github.com/LDSSA/batch5-students) (public) - This is is the single source of truth for the
-   learning material from the perspective of the students. They are not
-   aware of the existence of the instructors repo.
-1. Who is Responsible for What - < _To be done._ >
+1. `batch<edition-number>-instructors` (only accessible to LDSA staff - you need to be logged in!) - This is the single source of truth for the learning material that will be deployed to students. You push to this repo, open PRs to start the QA process, and then via some CD will be sent to the students. Example: the repo for Batch 5 is [`batch5-instructors`](https://github.com/LDSSA/batch5-instructors).
+1. `batch<edition-number>-students` (**public**) - This is is the single source of truth for the learning material from the perspective of the students. They are not aware of the existence of the instructors repo. Example: the repo for Batch 5, for students, is [`batch5-students`](https://github.com/LDSSA/batch5-students).
+1. For the Prep Course, you have a similar structure of repos. One will be the `ds-prep-course-instructors-<edition-year>`, the student's will be the `ds-prep-course-<edition-year>`.
+1. Refer to the [Member Directory page](../../About us/Member-Directory) to know who to contact for **Curriculum**, **Teaching** and **QA** AORs for the LDSA, as well as the specific AORs for the Prep Course.
 1. Learning Materials Development - < _To be done._ >
 * How does it work?
 * Setting Up
