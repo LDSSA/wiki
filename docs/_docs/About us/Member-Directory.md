@@ -24,7 +24,7 @@ What's in this page:
 The executive team consists of three people, which have generally behaved the same. The exception would be the president. For issues in which there is no clear consensus amongst the executive, the president has the final decision. These cases are generally difficult and contentious and whatever decision the president makes must be supported even if the rest of the executive does not agree. Historically this has been very rare.
 
 * President: [Minh Hoang](#minh-hoang)
-* Vice-president: [Catarina Silva](#catarina-cruz-silva)
+* Vice-president: [Catarina Silva](#catarina-silva)
 * Vice-president: [Maria Dominguez (Chi)](#maria-dominguez-chi)
 
 
@@ -56,7 +56,7 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 
 | Area of Responsibility | People |
 |-|-|
-|Teaching (Prep Course)|[Minh](#minh-hoang)|
+|Teaching (Prep Course)|[Minh Hoang](#minh-hoang)|
 |Quality Assurance (Prep Course)| Inês Pessoa <br> Rodrigo Silva |
 |Student Success (Prep Course)| Ricardo Alberto <br> Daniel Sousa <br> Juliana Rodrigues|
 |Dev-Ops (Prep Course)|[Miguel Dias](#miguel-dias) <br> Inês Mendes|
