@@ -45,7 +45,7 @@ An Area of Responsibility corresponds to a type of job that needs to be done in 
 ## Primary Enabler
 Each AOR needs to have a face associated with it and this is the Primary Enabler!  
 This is a single person who is responsible for making sure that tasks that fall into their area get done. **Not necessarily performing the tasks themselves!** Although the Primary Enabler will execute many tasks that are in their area, you can and should delegate tasks by assigning people and due dates to the tasks.  
-You can see who the primary enabler is on the [Member directory](../LDSA-Areas-of-Responsibility/#organizational-structure)
+You can see who the primary enabler is on the [Member directory](../Member-Directory)
 
 ## Slack channel
 This is where you have any discussions that are short-lived or quick questions.

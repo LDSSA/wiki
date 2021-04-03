@@ -36,7 +36,7 @@ As instructors, It is our job to create a “sparse graph” of knowledge in the
 We must always bare in mind that students can’t tell crucial materials from nice-to-know, as making that distinction requires domain knowledge. It is therefore our job to curate fiercely, and offer a highly integrated curriculum, so that the students know that as long as they stay on the path we set, they will never get stuck. 
 
 ## 6. Communication matters 
-The ability to teach requires two main skills: knowledge of the domain, and ability to communicate effectively. If either of these is lacking, the person cannot be a successful teacher. Having [instructors with strong communication skills](http://www.lisbondatascience.org/about-us/) and [clear guidelines as to how to teach](/Instructors/How-to-build-Learning-Units#before-writing-anything-start-by-seeing-how-other-people-explain-it) is critical to this goal. 
+The ability to teach requires two main skills: knowledge of the domain, and ability to communicate effectively. If either of these is lacking, the person cannot be a successful teacher. Having [instructors with strong communication skills](http://www.lisbondatascience.org/about-us/) and [clear guidelines as to how to teach](../../Instructors/How-to-build-Learning-Units#before-writing-anything-start-by-seeing-how-other-people-explain-it) is critical to this goal. 
 
 Also, for students to be successful data scientists they must be able to clearly and successfully communicate their ideas to both domain experts and non-experts, so [encouraging their communication skills](https://docs.google.com/presentation/d/1TR4oWyhyzAP75DYQYtaRRZGPmSA9Q_omyLfMD1jV43M/edit#slide=id.g23460e2f76_0_3) early is essential. 
 
