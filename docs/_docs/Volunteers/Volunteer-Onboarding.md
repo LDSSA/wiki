@@ -127,12 +127,7 @@ _Disclaimer: this section is currently a work in progress, some of the info migh
 If you are coming on as an instructor, there's some additional technical
 documentation that you'll need to be aware of as well.
 
-1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the
-   curriculum that is being taught during the current batch. When you accept
-   development of an LU, this dictates the topics that you must cover.
-1. [The past curriculum](https://github.com/LDSSA/wiki/wiki/Batch2-Starters-Academy-Curriculum-and-Material-Reference) - A reference of the material that was taught
-   in the past. Please note that the curriculum for the current batch may have
-   changed.
+1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the curriculum that is being taught during the current batch. When you accept development of an LU, this dictates the topics that you must cover.
 1. [batch5-instructors](https://github.com/LDSSA/batch5-instructors) (only accessible to LDSA staff - you need to be logged in!) - This is the single source of truth for the
    learning material that will be deployed to students. You push to this repo,
    open PRs to start the QA process, and then via some CD will be sent to the
