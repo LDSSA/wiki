@@ -52,7 +52,7 @@ This is where you have any discussions that are short-lived or quick questions.
 
 ## Documentation sources
 Right now we're storing information in 3 different places:
-- [Wiki](https://ldssa.github.io/wiki/): **public**, contains all required rules and final processes that we want to expose for transparency as well as current issues and discussions. Repo: https://github.com/LDSSA/wiki;
+- [Wiki](https://ldssa.github.io/wiki/): **public**, contains all required rules and final processes that we want to expose for transparency as well as current issues and discussions. [Repo](https://github.com/LDSSA/wiki);
 - [Google Drive Index](https://drive.google.com/drive/u/0/folders/1dlVRsbnHiw9xJYosAvtdkthqxDyU2-27): **private**, contains meeting docs, extra things like evaluation spreadsheets, etc.;
 - Google Calendar (Staff + Students): **private** to staff + students, respectively, contains all important dates and deadlines.
 
@@ -114,13 +114,13 @@ Activities
 - Hosting and running the hackathons
 
 ### Documentation
-Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. It's important to stress that this AOR doesn't need to necessarily document everything, but rather identify what's missing and get other AORs to update their parts.  
-Main responsibilities are:
-- Encourage and ensure that each AOR documents important information/decisions and that they are up-to-date;
-- Maintain the [Wiki pages](https://ldssa.github.io/wiki/);
+[Primary enabler](../Member-Directory/#organizational-structure)  
+Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. This AOR doesn't need to necessarily document everything, but rather identify what's missing and get other AORs to update their parts. The main responsibilities are:
+- Encourage and ensure that each AOR documents and updates their processes and information;
 - Review and update stale/obsolete documentation;
-- Regularly check [Wiki](https://github.com/ldssa/wiki/) issues, label and assign them properly, redirecting forgotten ones and closing obsolete issues;
-- Encourage the staff to use the 3 main documentation sources in accordance to their purpose, as describe in [Documentation](#documentation).
+- Manage [Wiki](https://github.com/ldssa/wiki/) issues: relabel and reassign where necessary and redirect or close inactive ones;
+- Encourage staff to use the 3 main documentation sources [in accordance with their purpose](#documentation-sources).
+- Maintain the [Wiki pages](https://ldssa.github.io/wiki/);
 
 ### Finance  
 [Primary enabler](../Member-Directory/#organizational-structure)  
