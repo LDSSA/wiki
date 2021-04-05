@@ -1,21 +1,29 @@
 table {
-	width: 100%;
 	margin-bottom: 1.75em;
+	background: rgb(218, 218, 218);
+	table-layout: fixed;
 }
 
 tr {
-	border-bottom: 1px solid #EEE;
+	border-top: 1px solid #006C93;
+	border-bottom: 1px solid #006C93;
 }
 
 tr:nth-child(even) {
-	background: #fcfcfc;
+	background: rgb(185, 185, 185);
 }
 
-td, th {
+td{
 	padding: 8px;
 	text-align: left;
+	width:1px;
+	white-space:nowrap;
 }
 
 th {
+	background: #006C93;
+	color:aliceblue;
+	padding: 8px;
+	text-align: left;
 	padding-bottom: 4px;
 }
