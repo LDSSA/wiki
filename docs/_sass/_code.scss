@@ -1,24 +1,25 @@
 pre, code, tt {
 	font-family: Inconsolata, Consolas, Courier, "Courier New", "Liberation Mono", monospace;
-	font-size: 1em;
+	font-size: .9em;
 	white-space: pre-wrap;
-	border-radius: 2px;
+	/*border-radius: 2px;*/
 	line-height: 1.4;
 	font-weight: 520;
-	background-color: rgb(176, 205, 216);
-	color: #303233;
+	background-color: rgb(222, 227, 228);
+	color: #464a4d;
 	border-radius: 2px;
 }
 
+/*
 pre {
 	box-sizing: border-box;
 	margin: 0 0 1.75em 0;
 	width: 100%;
 	padding: 10px;
-	font-size: 0.9em;
+	font-size: .9em;
 	white-space: pre;
 	overflow: auto;
-	border-radius: 3px;
+	/*border-radius: 3px;
 
 	code, tt {
 		font-size: inherit;
@@ -35,3 +36,5 @@ p > code {
 	padding: 4px 6px;
 	white-space: nowrap;
 }
+
+*/
