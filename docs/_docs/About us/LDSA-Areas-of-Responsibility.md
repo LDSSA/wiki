@@ -50,11 +50,12 @@ You can see who the primary enabler is on the [Member directory](../Member-Direc
 ## Slack channel
 This is where you have any discussions that are short-lived or quick questions.
 
-## Documentation
-Virtually all work produced by an AOR should be accessible for all internal staff in one or more of the following locations:
-- public and/or private LDSSA repo;
-- our GoogleDrive and Calendar;
-- this Wiki.
+## Documentation sources
+Right now we're storing information in 3 different places:
+- [Wiki](https://ldssa.github.io/wiki/): **public**, contains all required rules and final processes that we want to expose for transparency as well as current issues and discussions. Repo: https://github.com/LDSSA/wiki;
+- [Google Drive Index](https://drive.google.com/drive/u/0/folders/1dlVRsbnHiw9xJYosAvtdkthqxDyU2-27): **private**, contains meeting docs, extra things like evaluation spreadsheets, etc.;
+- Google Calendar (Staff + Students): **private** to staff + students, respectively, contains all important dates and deadlines.
+
 
 ---
 # Areas of Responsibility in detail
@@ -113,18 +114,13 @@ Activities
 - Hosting and running the hackathons
 
 ### Documentation
-After a few years of operations, we have accumulated a large amount of knowledge and information. To avoid this exists inside the heads of a few people, Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. It's important to stress that this AOR doesn't need to necessarily document everything, but rather identify what's missing and get other AORs to update their parts. 
-
-Right now we're storing information in 3 different places:
-- Wiki: public, contains all required rules and final processes that we want to expose for transparency
-- Google Drive Index: private, like meeting docs, extra things like evaluation spreadsheets, etc
-- Google Calendar (Staff + Students): private to staff + students, contains all important dates and deadlines
-
+Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. It's important to stress that this AOR doesn't need to necessarily document everything, but rather identify what's missing and get other AORs to update their parts.  
 Main responsibilities are:
-- Organize the structure of the wiki and Google Drive Index
-- Encourage and ensure the whole organization to document important information/decisions and they are up-to-date
-   * Creation of new documentation
-   * Review and update of stale/obsolete docs
+- Encourage and ensure that each AOR documents important information/decisions and that they are up-to-date;
+- Maintain the [Wiki pages](https://ldssa.github.io/wiki/);
+- Review and update stale/obsolete documentation;
+- Regularly check [Wiki](https://github.com/ldssa/wiki/) issues, label and assign them properly, redirecting forgotten ones and closing obsolete issues;
+- Encourage the staff to use the 3 main documentation sources in accordance to their purpose, as describe in [Documentation](#documentation).
 
 ### Finance  
 [Primary enabler](../Member-Directory/#organizational-structure)  
