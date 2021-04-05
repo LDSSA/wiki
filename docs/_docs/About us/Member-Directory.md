@@ -27,6 +27,13 @@ The executive team consists of three people, which have generally behaved the sa
 * Vice-president: [Catarina Silva](#catarina-silva)
 * Vice-president: [Maria Dominguez (Chi)](#maria-dominguez-chi)
 
+### Scope of AORs (Areas of Responsibility)
+
+In the case that an AOR Primary Enabler is not able to decide or resolve an urgent matter in their AOR, or when a Primary Enabler needs some kind of decision from the Executive Team, the go-to persons for each of the AORs are the following:
+- [Minh Hoang](#minh-hoang): **Treasury**, **Ops**, **Marketing & Communications**, **Partnerships**, **Community**, **Jobs**
+- [Catarina Silva](#catarina-silva): **Teaching**, **QA**, **Student Success**, **Dev-Ops**, **Curriculum Development**, **Documentation**
+
+
 
 
 ## Organizational structure
