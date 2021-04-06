@@ -65,49 +65,21 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 
 Below we listed the 18 learning units that you need to complete, and when you should finish all the materials and exercises.
 
-### Week 0: 29/03/2021 - 04/04/2021
-- Setting up (Follow the instructions from [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021))
-- SLU00 - Jupyter Notebook 
 
-### Week 1: 05/04/2021 - 11/04/2021
-- SLU01 - Command Lines & Text Editor
-- SLU02 - Programming Basics
-
-### Week 2: 12/04/2021 - 18/04/2021
-- SLU03 - Git Basics
-- SLU04 - Data Structures
-
-### Week 3: 19/04/2021 - 25/04/2021
-- SLUO5 - Git Intermediate
-- SLU06 - Flow Control
-
-### Week 4: 26/04/2021 - 02/05/2021
-- SLU07 - Functions: Fundamentals
-- SLU08 - Functions: Intermediate
-
-### Week 5: 03/05/2021 - 09/05/2021
-- SLU09 - OOP Basics
-
-### Week 6: 10/05/2021 - 16/05/2021
-- SLU10 - OOP Inheritance
-- SLU11 - String & File Handling
-
-### Week 7: 17/05/2021 - 23/05/2021
-- SLU12 - Linear Algebra & NumPy, Part 1
-
-### Week 8: 24/05/2021 - 30/05/2021
-- SLU13 - Linear Algebra & NumPy, Part 2
-- SLU14 - Modules & Packages
-
-### Week 9: 31/05/2021 - 06/06/2021
-- SLU15 - Debugging
-- SLU16 - Final Project
-
-### Week 10: 07/06/2021 - 13/06/2021
-- SLU17 - Exam Prep I
-
-### Week 11: 14/06/2021 - 20/06/2021
-- SLU18 - Exam Prep II
+| Week | Learning Materials |
+|-|-|
+| **Week 0** <br> 29/03/2021 - 04/04/2021 | Setting up (Follow the instructions from [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021)) <br> **SLU00** - Jupyter Notebook |
+| **Week 1** <br> 05/04/2021 - 11/04/2021 | **SLU01** - Command Lines & Text Editor <br> **SLU02** - Programming Basics |
+| **Week 2** <br> 12/04/2021 - 18/04/2021 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
+| **Week 3** <br> 19/04/2021 - 25/04/2021 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
+| **Week 4** <br> 26/04/2021 - 02/05/2021 | **SLU07** - Functions: Fundamentals <br> **SLU08** - Functions: Intermediate |
+| **Week 5** <br> 03/05/2021 - 09/05/2021 | **SLU09** - OOP Basics |
+| **Week 6** <br> 10/05/2021 - 16/05/2021 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
+| **Week 7** <br> 17/05/2021 - 23/05/2021 | **SLU12** - Linear Algebra & NumPy, Part 1 |
+| **Week 8** <br> 24/05/2021 - 30/05/2021 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
+| **Week 9** <br> 31/05/2021 - 06/06/2021 | **SLU15** - Debugging <br> **SLU16** - Final Project |
+| **Week 10** <br> 07/06/2021 - 13/06/2021 | **SLU17** - Exam Prep I |
+| **Week 11** <br> 14/06/2021 - 20/06/2021 | **SLU18** - Exam Prep II |
 
 
 <br>
