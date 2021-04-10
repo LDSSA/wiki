@@ -17,7 +17,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 
 **Note**: Please store any images in `/docs/images`.
 
-**Alternatively**, you can clone this repo, do your changes locally on a new branch and create a merge request.
+**Alternatively**, you can clone this repo, make your changes locally on a new branch and create a merge request.
 
 ## How to create a new page
 
@@ -41,7 +41,7 @@ If you want to edit an existing page, browse it in the pages directory [`/docs/_
 
 **Note**: Please store any images in `/docs/images`.
 
-**Alternatively**, you can clone this repo, do your changes locally on a new branch and create a merge request.
+**Alternatively**, you can clone this repo, make your changes locally on a new branch and create a merge request.
 
 
 ## Develop
