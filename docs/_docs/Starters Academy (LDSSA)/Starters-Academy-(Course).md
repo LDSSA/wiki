@@ -23,8 +23,17 @@ You should be prepared to spend a recommended *10 hours per week* on the course 
 
 ### Introduction session
 
-The introduction session is a 2-hour session that kicks off the academy. In this session all rules and schedule 
-present in this page will be presented, together with any practical details for the current batch.
+The introduction session is a 2-hour session that kicks off the academy. 
+
+In this session all rules and schedule 
+present in this page will be presented, together with any practical details for the current batch. Additionally 
+we will go over the following topics:
+
+* Code of Conduct
+* How to ask for and give help
+* Bootcamp Experience
+* Criteria for Graduation
+* Member Directory
 
 
 ### Bootcamp Details
