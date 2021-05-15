@@ -177,7 +177,9 @@ The master schedule google calendar is [here](https://calendar.google.com/calend
 
 ## Final Certificate
 
-We think that the most important thing you'll take out of the Academy will be the things you'll learn and the people you'll meet. But we recognize that a lot of people value a piece of paper stating that they've participated in something. So, in this edition, we will emit a Data Science Resume representing the student's degree of completion of the Academy.
+We think that the most important thing you'll take out of the Academy will be the things you'll learn and the people 
+you'll meet. But we recognize that a lot of people value a certificate stating that they've participated and completed
+the course. So, we emit a Data Science Resume representing the student's degree of completion of the Academy.
 
 This resume will list all the Starters Academy's specializations, explain what it means to pass 
 each specialization, and show the grades that you've achieved in each of them. If you 
@@ -193,3 +195,5 @@ end of the following month, and it won't count as a missed specialization for th
  the normal deadline would be August 19th, 23h59. However, if you can not fulfill this 
  and miss the hackathon, you can deliver all materials and the hackathon on September 30th, 23h59, 
  after which a date will be set for your presentation.
+ 
+ Certificates have an expected issuing time from 1 to 3 months from the end of the academy.
