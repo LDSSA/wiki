@@ -1,7 +1,7 @@
 ---
 title: FAQ
 category: Starters Academy (LDSSA)
-order: 6
+order: 7
 ---
 
 > ⚠️ Some information in this page might be outdated.
