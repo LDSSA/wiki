@@ -43,30 +43,30 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 
 | Area of Responsibility | People |
 |-|-|
-|[Organization Administration](../LDSA-Areas-of-Responsibility/#organization-administration)|[Sam Hopkins](#sam-hopkins)|
-|[Curriculum Development](../LDSA-Areas-of-Responsibility/#curriculum-development)| [Maria Dominguez (Chi)](#maria-dominguez-chi) | 
-|[Teaching](../LDSA-Areas-of-Responsibility/#teaching)| [Catarina Silva](#catarina-silva) |
+|[Organization Administration](../LDSA-Areas-of-Responsibility/#organization-administration)|[**Sam Hopkins**](#sam-hopkins)|
+|[Curriculum Development](../LDSA-Areas-of-Responsibility/#curriculum-development)| [**Maria Dominguez (Chi)**](#maria-dominguez-chi) | 
+|[Teaching](../LDSA-Areas-of-Responsibility/#teaching)| [**Catarina Silva**](#catarina-silva) <br> [List of instructors](#ldssa-instructors) |
 |[Operations](../LDSA-Areas-of-Responsibility/#operations)| - |
-|[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)| [Carol Martins](#carol-martins) <br> Inês Mendes <br> [José Medeiros](#jos%C3%A9-medeiros)|
-|[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| [Ivo Bernardo](#ivo-bernardo)|
-|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| Ricardo Alberto <br> Daniel Sousa <br> Juliana Rodrigues |
-|[Community](../LDSA-Areas-of-Responsibility/#community)| [Sam Hopkins](#sam-hopkins)|
-|[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [Hugo Castilho](#hugo-castilho)<br> [Miguel Dias](#miguel-dias) |
-|[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| Filipa Rodrigues <br> Helena <br> Inês Pessoa <br> Juliana Rodrigues <br> Rita Sousa <br> Rodrigo Silva |
+|[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)| [**Carol Martins**](#carol-martins) <br> Inês Mendes <br> [José Medeiros](#jos%C3%A9-medeiros)|
+|[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| [**Ivo Bernardo**](#ivo-bernardo)|
+|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| **Ricardo Alberto** <br> Daniel Sousa <br> Juliana Rodrigues |
+|[Community](../LDSA-Areas-of-Responsibility/#community)| [**Sam Hopkins**](#sam-hopkins)|
+|[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [**Hugo Castilho**](#hugo-castilho)<br> [Miguel Dias](#miguel-dias) |
+|[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| **Filipa Rodrigues** <br> Helena <br> Inês Pessoa <br> Juliana Rodrigues <br> Rita Sousa <br> Rodrigo Silva |
 |[Finance](../LDSA-Areas-of-Responsibility/#finance)|-|
-|Prep Course| [Minh Hoang](#minh-hoang)|
-|Jobs| [Pedro Fonseca](#pedro-fonseca) <br> [Miguel Dias](#miguel-dias)|
+|Prep Course| [**Minh Hoang**](#minh-hoang)|
+|Jobs| [**Pedro Fonseca**](#pedro-fonseca) <br> [Miguel Dias](#miguel-dias)|
 |Admissions| - |
-|Documentation| Juliana Rodrigues |
+|Documentation| **Juliana Rodrigues** |
 
 #### Prep Course
 
 | Area of Responsibility | People |
 |-|-|
-|Teaching (Prep Course)|[Minh Hoang](#minh-hoang)|
-|Quality Assurance (Prep Course)| Inês Pessoa <br> Rodrigo Silva |
-|Student Success (Prep Course)| Ricardo Alberto <br> Daniel Sousa <br> Juliana Rodrigues|
-|Dev-Ops (Prep Course)|[Miguel Dias](#miguel-dias) <br> Inês Mendes|
+|Teaching (Prep Course)|[**Minh Hoang**](#minh-hoang) <br> [List of instructors](#ds-prep-course-instructors)|
+|Quality Assurance (Prep Course)| **Inês Pessoa** <br> Rodrigo Silva |
+|Student Success (Prep Course)| **Ricardo Alberto** <br> Daniel Sousa <br> Juliana Rodrigues|
+|Dev-Ops (Prep Course)|[**Miguel Dias**](#miguel-dias) <br> Inês Mendes|
 
 
 ## All LDSA staff
