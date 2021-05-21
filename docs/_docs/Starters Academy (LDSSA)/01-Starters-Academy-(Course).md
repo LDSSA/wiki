@@ -149,27 +149,27 @@ The _Capstone_ must be completed individually.
 
 The overal schedule and most important deadlines for batch 5 follow:
 
-Activity |  Date/Deadline | 
---------|-------------|-
-Prep Work and admissions  |  June | 
-Introduction session  |  17th July 2021 | 
-Bootcamp   |  24th & 25th July 2021 | 
-Bootcamp SLU deadlines  | 14th August 2021,  23h59 UTC  |
-Hackathon 1   |  15th August 2021  | 
-Spec 2 BLU deadlines  | 11th September 2021,  23h59 UTC  | 
-Hackathon 2  | 12th September 2021  | 
-Spec 3 BLU deadlines  | 9th October 2021,  23h59 UTC  | 
-Hackathon 3  |  10th October 2021 |  
-Spec 4  BLU deadlines  | 6th November ,  23h59 UTC  | 
-Hackathon 4  | 7th November 2021  |  
-Spec 5 BLU deadlines  | 4th December 2021,  23h59 UTC  |  
-Hackathon 5  |   5th December 2021 |  
-Spec 6 BLU deadlines  | 15th January 2022, 23h59 UTC  | 
-Hackathon 6  |  16th January 2022 | 
-Capstone Kick off  |  17th January 2022 |  
-Capstone Deadline report 1 + app  |  6th February 2022, 23h59 UTC  |
-Capstone Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
-Capstone Graduates announced  |  31st March 2022  |
+| Activity |  Date/Deadline | 
+|--------|-------------|
+| Prep Work and admissions  |  June | 
+| Introduction session  |  17th July 2021 | 
+| Bootcamp   |  24th & 25th July 2021 | 
+| Bootcamp SLU deadlines  | 14th August 2021,  23h59 UTC  |
+| Hackathon 1   |  15th August 2021  | 
+| Spec 2 BLU deadlines  | 11th September 2021,  23h59 UTC  | 
+| Hackathon 2  | 12th September 2021  | 
+| Spec 3 BLU deadlines  | 9th October 2021,  23h59 UTC  | 
+| Hackathon 3  |  10th October 2021 |  
+| Spec 4  BLU deadlines  | 6th November ,  23h59 UTC  | 
+| Hackathon 4  | 7th November 2021  |  
+| Spec 5 BLU deadlines  | 4th December 2021,  23h59 UTC  |  
+| Hackathon 5  |   5th December 2021 |  
+| Spec 6 BLU deadlines  | 15th January 2022, 23h59 UTC  | 
+| Hackathon 6  |  16th January 2022 | 
+| Capstone Kick off  |  17th January 2022 |  
+| Capstone Deadline report 1 + app  |  6th February 2022, 23h59 UTC  |
+| Capstone Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
+| Capstone Graduates announced  |  31st March 2022  |
 
 The master schedule google calendar is [here](https://calendar.google.com/calendar/u/2?cid=Y18yODE2azVnYXVscmw3MXVybnJwbGhjbW05c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
  - you can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates. 
