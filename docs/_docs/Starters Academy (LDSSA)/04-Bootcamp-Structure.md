@@ -28,11 +28,11 @@ process, they compose the set of units of specialization #1.
 | SLU10 | Metrics for Classification               | Bootcamp Day 1  |  Yes      |
 | SLU11 | Tree-Based Models                        | Bootcamp Day 2  |  Yes      |
 | SLU12 | Feature Engineering (aka Real Wold Data) | Bootcamp Day 2  |  Yes      |
-| SLU13 | Model Selection & Overfitting            | Bootcamp Day 2  |  Yes      |
-| SLU14 | Data Sufficiency & Selection             | Bootcamp Day 2  |  Yes      |
-| SLU15 | Ethics & Fairness                        | Bootcamp Day 2  |  Yes      |
-| SLU16 | Hyperparameter Tuning                    | Bootcamp Day 2  |  Yes      |
-| SLU17 | Workflow                                 | Bootcamp Day 2  |  Yes      |
+| SLU13 | Bias-Variance tradeoff & Model Selection | Bootcamp Day 2  |  Yes      |
+| SLU14 | Model complexity & Overfitting           | Bootcamp Day 2  |  Yes      |
+| SLU15 | Hyperparameter Tuning                    | Bootcamp Day 2  |  Yes      |
+| SLU16 | Workflow                                 | Bootcamp Day 2  |  Yes      |
+| SLU17 | Ethics & Fairness                        | Bootcamp Day 2  |  Yes      |
 | SLU18 | Support Vector Machines (SVM)            | Not presented   |  No       |
 | SLU19 | k-Nearest Neighbors (kNN)                | Not presented   |  No       |
 
