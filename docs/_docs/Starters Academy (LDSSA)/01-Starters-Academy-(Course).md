@@ -171,7 +171,7 @@ The overal schedule and most important deadlines for batch 5 follow:
 | Capstone Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
 | Capstone Graduates announced  |  31st March 2022  |
 
-The master schedule google calendar is [here](https://calendar.google.com/calendar/u/2?cid=Y18yODE2azVnYXVscmw3MXVybnJwbGhjbW05c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_2816k5gaulrl71urnrplhcmm9s%40group.calendar.google.com&ctz=Europe%2FLisbon)
  - you can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates. 
 
 
