@@ -179,11 +179,17 @@ The master schedule google calendar is [here](https://calendar.google.com/calend
 
 We think that the most important thing you'll take out of the Academy will be the things you'll learn and the people you'll meet. But we recognize that a lot of people value a piece of paper stating that they've participated in something. So, in this edition, we will emit a Data Science Resume representing the student's degree of completion of the Academy.
 
-This resume will list all the Starters Academy's specializations, explain what it means to pass each specialization, and show the grades that you've achieved in each of them. If you miss a specialization, you'll score 0 (zero) on that specialization, and this will be shown in your resume. You'll only be issued a Data Science Resume in case you miss one or zero specializations. 
+This resume will list all the Starters Academy's specializations, explain what it means to pass 
+each specialization, and show the grades that you've achieved in each of them. If you 
+miss a specialization, you'll score 0 (zero) on that specialization, and this will be 
+shown in your resume. You'll only be issued a Data Science Resume in case you miss one
+ or zero specializations, except for the Bootcamp + Hackathon#1.
 
 The capstone, Bootcamp days and Hackathon #1 cannot be missed or delivered late. 
 If you can't attend one of the remaining specializations you're allowed to deliver 
 all the evaluation elements for that specialization (BLUs + hackathon) until the 
 end of the following month, and it won't count as a missed specialization for the
  resume. For example, if a specialization ends with the hackathon on the 20th of August, 
- this means all materials need to be delivered until August 19th, 23h59.
+ the normal deadline would be August 19th, 23h59. However, if you can not fulfill this 
+ and miss the hackathon, you can deliver all materials and the hackathon on September 30th, 23h59, 
+ after which a date will be set for your presentation.
