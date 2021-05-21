@@ -83,11 +83,14 @@ The expected time split for students is:
 - 25 minutes of exercise. 
 
 ### 2. Big Learning Units (BLU) 
-BLUs form the backbone of the Academy after the Bootcamp ends. They do not contain presentations, as they will be done exclusively in remote mode. The total time a student is expected to spend on a BLU is 5 hours (this is a minimum requirement, but should be used by instructors as the guideline to avoid excessive content). 
-The time expected time split for students is: 
+BLUs form the backbone of the Academy after the Bootcamp ends. They do not contain presentations, as they will 
+be done exclusively in remote mode. The total time a student is expected to spend on a BLU ranges starts at a 
+minimum of 5 hours, with an expected time split for students is: 
+
 - 2 hours of teaching materials 
 - 3 hours of exercise   
 
+However, it can easily extend to 10 hours, which is the average reported by previous students throughout
+different specializations.
+
 A BLU should completely prepare the students for the Hackathon. 
-
-
