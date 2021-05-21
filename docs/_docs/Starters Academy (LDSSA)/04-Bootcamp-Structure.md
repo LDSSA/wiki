@@ -59,7 +59,7 @@ on the bootcamp units throughout the course of the 3 weeks given to complete the
 In order to pass the bootcamp:
 
 * The student must have been present in the bootcamp days
-* All mandatory units should have been submitted and score at least 16/20 until the deadline (see [below](#Calendar))
+* All mandatory units should have been submitted and score at least 16/20 until the deadline (see the calendar section below)
 
 
 ### Optional units
@@ -67,7 +67,7 @@ In order to pass the bootcamp:
 There are a few optional units that we recommend the students look at, but that are not mandatory to 
 pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. As other
 units a passing grade is considered for submissions that score at least 16/20 until the deadlines 
-(see the calendar section below)
+(see the calendar section below).
 
 We advise you to only tackle these after you have completed all mandatory content, since the bootcamp
 is essential to proceed with the academy. 

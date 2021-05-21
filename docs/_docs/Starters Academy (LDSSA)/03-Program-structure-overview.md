@@ -18,7 +18,7 @@ number of small learning units, and includes one hackathon.
 A hackathon is a 1 day event where students, in teams, have to execute and present a well-posed 
 project. In order to keep the students motivated, there is a single number value that they are 
 optimising for, and they compete for position on a leaderboard. Teams are assigned at random, as 
-students will need to work with people they wouldn’t choose in the real world. 
+students needs to learn also how to be able to work with different types of people. 
 
 ## Specialisation 
 A specialization is a set of 3 big learning units and a hackathon, centred on a particular topic 
@@ -33,22 +33,22 @@ execute a project, which will be graded. See more details under
 
 A Learning Unit is a concept developed in the Academy. It is composed of the following: 
 
-### 1. Teaching Notebooks (Jupyter Notebooks)
-The high granularity teaching should be done in the Teaching Notebooks. These should be sufficient 
+### 1. Learning Notebooks (Jupyter Notebooks)
+The high granularity teaching should be done in the Learning Notebooks. These should be sufficient 
 to teach the materials on their own. We should assume that notebooks will be used in future for 
 reference by the students, and therefore shouldn't assume that they remember a presentation or any 
 other immediate context. 
 
-It is critical that Teaching Notebooks also teach only the new concepts, and refer to previously 
+It is critical that Learning Notebooks also teach only the new concepts, and refer to previously 
 learned concepts to the respective learning units. As happens everywhere in the Academy, there 
-should be no scope bloat, and the Teaching Notebook should explain only the materials from the 
+should be no scope bloat, and the Learning Notebook should explain only the materials from the 
 Learning Unit, and under no circumstances include curiosities or un-requested material. 
 
 Optionally, a final section called _"If you want to learn more (optional)"_ can be added to guide 
 interested students in their independent studies.  
 
 ### 2. Exercises with expected output (Jupyter Notebooks) 
-Exercises are notebooks that cover the material taught in the same learning unit's Teaching Notebooks. 
+Exercises are notebooks that cover the material taught in the same learning unit's Learning Notebooks. 
 They are based on the Coursera idea of providing an expected output and ensuring the student only 
 needs to worry about a highly granular piece of material. 
 
@@ -62,7 +62,7 @@ Example of exercise with expected output:
 ![Example of exercise with expected output](https://image.ibb.co/chQ7Kn/Screen_Shot_2018_04_01_at_3_03_42_PM.png)
 
 Any learning unit requires a grade of at least 80% to be considered passed, with an unlimited number 
-of attempts (but which can have an end date for attempts). 
+of attempts (but which has an end date for attempts). 
 
 ### 3. Presentation (optional)  
 Presentations only happen in the Small Learning Units, as they are the ones that are taught in person. 
