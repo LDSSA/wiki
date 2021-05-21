@@ -4,8 +4,6 @@ category: Starters Academy (LDSSA)
 order: 2
 ---
 
-> ⚠️ Some information in this page might be outdated.
-
 
 ## Target audience
 
