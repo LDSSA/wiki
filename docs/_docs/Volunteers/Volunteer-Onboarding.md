@@ -68,7 +68,9 @@ There are three main ways to find things on this wiki:
 
 Members that have more administrative duties will have an @lisbondatascience.org
 Google Workplace account. In that account is a folder that is shared with everyone
-called "Index". This is not the most organized drive folder but there is an
+called "Index": https://drive.google.com/drive/folders/1dlVRsbnHiw9xJYosAvtdkthqxDyU2-27.
+
+This is not the most organized drive folder but there is an
 ongoing attempt to keep things organized by their [AOR](../../About us/LDSA-Areas-of-Responsibility).
 
 Things that should be stored in the Google Drive are for when a specific need
