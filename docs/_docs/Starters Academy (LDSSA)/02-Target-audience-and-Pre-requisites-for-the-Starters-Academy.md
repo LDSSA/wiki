@@ -1,10 +1,8 @@
 ---
 title: Target Audience and Prerequisites
 category: Starters Academy (LDSSA)
-order: 3
+order: 2
 ---
-
-> ⚠️ Some information in this page might be outdated.
 
 
 ## Target audience
