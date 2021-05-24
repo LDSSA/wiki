@@ -1,14 +1,14 @@
 ---
-title: Application Process
+title: Admissions Process
 category: Applicants
 order: 1
 ---
 
 
-Applications to the [**Lisbon Data Science Starters Academy**](../../Starters Academy (LDSSA)/01-Starters-Academy-(Course))
+Admissions to the [**Lisbon Data Science Starters Academy**](../../Starters Academy (LDSSA)/01-Starters-Academy-(Course))
 are designed to be fair and equal to anyone who wants to join. 
 
-Candidates are required to show that they have sufficient skills to participate. During the application process, 
+Candidates are required to show that they have sufficient skills to participate. During the admission process, 
 they'll have to complete a **coding test** that covers the Academy's 
 [pre-requisites](../../Starters Academy (LDSSA)/02-Target-audience-and-Pre-requisites-for-the-Starters-Academy), and 
 **3 Learning Units** about [Pandas](https://en.wikipedia.org/wiki/Pandas_(software)) where we'll teach new concepts and 
@@ -22,8 +22,7 @@ In case we have more candidates passing the tests than the 50 available seats in
 be selected at random, respecting all the [entrance restrictions](#entrance-type-restrictions) that we have in 
 place.
 
-Applications will be managed through our Admissions Platform, that can be accessed 
-[here](https://admissions.lisbondatascience.org/account/signup).
+Admissions will be managed through our Portal (the link will be shared on the 18th June).
 
 
 ## Entrance type restrictions
@@ -42,9 +41,9 @@ All the candidates of the Starters Academy are expected to read, acknowledge and
 * Our **Refund Policy** 
 * The time commitment described below
 
-This is one of the first steps in the application process.
+This is one of the first steps in the admissions process.
 
-In terms of time commitment, the weekly workload of the Academy is about 10h/week. 
+In terms of time commitment, the weekly workload of the Academy is about 10h/week. In particular, the two weeks after the bootcamp and the capstone project are expected to be the more demanding periods, where the workload is expected to be higher than the 10h/week average!
 If you're not able to put in this much time for the majority of the duration of the Academy, 
 you should think twice before applying: if you join the Academy and drop before the end, 
 you'll be wasting a seat that could be better used by someone else!
@@ -54,7 +53,7 @@ However, students are required to be online during all the events (bootcamp and 
 and these events will take place in Lisbon/London Time. So, if you're joining us from a country with 
 a very different timezone, make sure that you're really available considering these timezone differences.
 
-We assume integrity in all of our students so we won't expend any resources attempting to disrupt or detect cheating. Instead, you should only start the application process, if you agree with the following:
+We assume integrity in all of our students so we won't expend any resources attempting to disrupt or detect cheating. Instead, you should only start the admissions process, if you agree with the following:
 
 - I am willing to dedicate a minimum of 5 hours per week to the academy.
 - I understand that to get the most out of the experience, I should spend  an average of 10 hours per week on 
@@ -82,6 +81,8 @@ You can check the official calendar for Batch 5 [here](https://calendar.google.c
 | Payments & scholarship interviews | 2021-07-05 00h00 UTC to 2021-07-11 23h59 UTC  |
 | Admissions closed | 2021-07-11 23h59 UTC  |
 | Introduction session | 2021-07-17 23h59 UTC  |
+
+If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 5th and 12th July.
 
 
 ### Admission tests
@@ -134,12 +135,12 @@ For the 2021/2022 Starters Academy, the fees will be:
 ## Scholarships
 
 Other than the **50 seats** that we usually have in the Academy, this year we'll have another **10 seats available 
-for scholarships**, meant for people who are living with a low / no income.
+for scholarships**, meant for people who are unemployed or living with a low / no income.
 These scholarships will have a 20€ fee, instead of our regular pricing.
 
-The application process will be exactly the same as the one described above, except that:
+The process will be exactly the same as the one described above, except that:
 
-- At the beginning of the application process, we'll ask if you need a scholarship. If you do, you'll 
+- At the beginning of the admissions process, we'll ask if you need a scholarship. If you do, you'll 
 start your application in the scholarship mode, and **you won't be able to change this afterwards**.
 - During the payment period, we'll schedule a video call with you to learn more about you and why you 
 need the scholarship. In this call, you should bring us proof that you're unemployed / have low income. 
@@ -149,6 +150,12 @@ will be approved.
 In case we don't fill up all the scholarship seats, we'll select non-scholarship candidates in order to have 
 60 students on this batch of the Starters Academy.
 
+
+## Summary
+
+This scheme illustrates the admissions process.
+
+<img src="docs/images/admissions_flow.png"/>
 
 ***
 
