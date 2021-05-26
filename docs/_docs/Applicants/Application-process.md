@@ -155,7 +155,7 @@ In case we don't fill up all the scholarship seats, we'll select non-scholarship
 
 This scheme illustrates the admissions process.
 
-<img src="docs/images/admissions_flow.png"/>
+<img src="../../images/admissions_flow.png"/>
 
 ***
 
