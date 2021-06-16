@@ -77,11 +77,11 @@ That's it!
 
 ### **2. Run the site locally**
 
+Run the following **inside** the `docs/` directory:
+
 ```bash
 bundle install
 ```
-
-Run the following **inside** the `docs/` directory:
 
 ```bash
 bundle exec jekyll serve
