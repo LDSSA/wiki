@@ -76,13 +76,13 @@ You can check the official calendar for Batch 5 [here](https://calendar.google.c
 
 | Activity |  Date/Deadline | 
 |--------|-------------|
-| Sign-up on the Admission Portal  |  2021-06-18 00h00 UTC to 2021-06-20 23h59 UTC | 
-| Scholarship applications  |  2021-06-18 00h00 UTC to 2021-06-20 23h59 UTC | 
-| Test & SLUs   |  2021-06-21 00h00 UTC to 2021-07-04 23h59 UTC | 
+| Sign-up on the Admission Portal  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
+| Scholarship applications  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
+| Test & SLUs   |  2021-06-21 00h00 GMT+1 to 2021-07-04 23h59 GMT+1 | 
 | Candidate Selection | 2021-07-05  |
-| Payments & scholarship interviews | 2021-07-05 00h00 UTC to 2021-07-11 23h59 UTC  |
-| Admissions closed | 2021-07-11 23h59 UTC  |
-| Introduction session | 2021-07-17 23h59 UTC  |
+| Payments & scholarship interviews | 2021-07-05 00h00 GMT+1 to 2021-07-11 23h59 GMT+1  |
+| Admissions closed | 2021-07-11 23h59 GMT+1  |
+| Introduction session | 2021-07-17 23h59 GMT+1  |
 
 If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 5th and 12th July.
 
