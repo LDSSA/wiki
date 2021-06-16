@@ -24,6 +24,8 @@ place.
 
 Admissions will be managed through our Portal (the link will be shared on the 18th June).
 
+All the classes, materials, student presentations and communication between students and instructors will be done in **English**. We don't explicitly test your English knowledge, but if you're not able to communicate well in English (both speaking and in writing), we may reject your application, as that would prevent you from taking advantage of the Starters Academy.
+
 
 ## Entrance type restrictions
 
@@ -38,12 +40,12 @@ You can read more about it [here](https://github.com/LDSSA/forum/issues/1).
 All the candidates of the Starters Academy are expected to read, acknowledge and follow: 
 
 * Our [**Code of Conduct**](../../About us/Code-of-Conduct#application-to-the-academy);
-* Our **Refund Policy** 
+* Our [**Refund Policy**](../../Starters Academy (LDSSA)/07-Refund-Policy)
 * The time commitment described below
 
 This is one of the first steps in the admissions process.
 
-In terms of time commitment, the weekly workload of the Academy is about 10h/week. In particular, the two weeks after the bootcamp and the capstone project are expected to be the more demanding periods, where the workload is expected to be higher than the 10h/week average!
+In terms of time commitment, the weekly workload of the Academy is about 10h/week. In particular, the three weeks after the bootcamp and the capstone project are expected to be the more demanding periods, where the workload is expected to be much higher than the 10h/week average! The exact workload will vary from person to person.
 If you're not able to put in this much time for the majority of the duration of the Academy, 
 you should think twice before applying: if you join the Academy and drop before the end, 
 you'll be wasting a seat that could be better used by someone else!
@@ -57,7 +59,7 @@ We assume integrity in all of our students so we won't expend any resources atte
 
 - I am willing to dedicate a minimum of 5 hours per week to the academy.
 - I understand that to get the most out of the experience, I should spend  an average of 10 hours per week on 
-the Academy.
+the Academy, and likely more during the bootcamp and following weeks, and the capstone project.
 - I understand that I have to be online during the Academy events, even if, because of timezone differences, 
 this means being online at 4am in the morning.
 - I acknowledge that by cheating or being dishonest on the admission tests, or at any time during the course, 
@@ -74,13 +76,13 @@ You can check the official calendar for Batch 5 [here](https://calendar.google.c
 
 | Activity |  Date/Deadline | 
 |--------|-------------|
-| Sign-up on the Admission Portal  |  2021-06-18 00h00 UTC to 2021-06-20 23h59 UTC | 
-| Scholarship applications  |  2021-06-18 00h00 UTC to 2021-06-20 23h59 UTC | 
-| Test & SLUs   |  2021-06-21 00h00 UTC to 2021-07-04 23h59 UTC | 
+| Sign-up on the Admission Portal  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
+| Scholarship applications  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
+| Test & SLUs   |  2021-06-21 00h00 GMT+1 to 2021-07-04 23h59 GMT+1 | 
 | Candidate Selection | 2021-07-05  |
-| Payments & scholarship interviews | 2021-07-05 00h00 UTC to 2021-07-11 23h59 UTC  |
-| Admissions closed | 2021-07-11 23h59 UTC  |
-| Introduction session | 2021-07-17 23h59 UTC  |
+| Payments & scholarship interviews | 2021-07-05 00h00 GMT+1 to 2021-07-11 23h59 GMT+1  |
+| Admissions closed | 2021-07-11 23h59 GMT+1  |
+| Introduction session | 2021-07-17 23h59 GMT+1  |
 
 If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 5th and 12th July.
 
@@ -129,7 +131,9 @@ For the 2021/2022 Starters Academy, the fees will be:
 
 - Student: 100€ (You'll need to present a valid student card at payment time)
 - Regular: 250€
-- Company: 1500€
+- Company: 1500€ 
+
+Note: An invoice with a company VAT number (NIF in Portugal) will only be issued with a Company ticket. Student and Regular invoices can only have personal VAT numbers.
 
 
 ## Scholarships

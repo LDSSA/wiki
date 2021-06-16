@@ -4,6 +4,13 @@ category: Starters Academy (LDSSA)
 order: 1
 ---
 
+Contents:
+- [Structure](#structure)
+- [Schedule](#schedule)
+- [Final Certificate](#final-certificate)
+
+---
+
 The Data Science Starters Academy is a series of events dedicated to helping people become entry-level data scientists, by teaching introductory material. 
 
 As of its fourth edition (2020) it consists of approximately 30 Learning Units, 6 Hackathons and 1 capstone project. It contains 3 units to be done 
