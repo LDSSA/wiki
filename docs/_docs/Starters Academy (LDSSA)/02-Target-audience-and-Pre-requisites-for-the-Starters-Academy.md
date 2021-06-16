@@ -13,16 +13,18 @@ order: 2
 ## Participating as a Student 
 
 ### Pre-requisites 
+
 The Lisbon Data Science Starters Academy is for [spoiler alert...] Starters! 
 
-No prior knowledge of Data Science is required. 
+No prior knowledge of Data Science is required, but we do require:
+* Fluency in English (all the classes and materials will be provided in English),
+* Comfort with the Python programming language,
+* Knowing how to use the command line of a Unix based OS, and
+* [super-basic] Git knowledge
 
-Comfort with the Python language and [super-basic] Git are however a pre-requisite.  Python and Git will not be taught. 
+Quantitative skills are highly encouraged: if you have a good basis of university level algebra and statistics that will definitely help. Mostly the Academy requires the kind of skills that results from having an education or working experience in the fields of (but not only) Engineering, Physics, Mathematics, Management, Economics, etc...
 
-For an idea of whether you have enough skills of each, consider the following: 
-#### Unix
-
-Can you `cd` around? Do you know how to `ls` and `pwd`? Do you shiver when you see `rm -rf *`? You'll be fine. 
+For an idea of whether you have enough skills, consider the following: 
 
 #### Python
 
@@ -39,11 +41,18 @@ You should be able to do the following:
 - try except statements
 - basics of OOP (like what's a class, how to instantiate one and use methods from the class)
 
+#### Unix
+
+Can you `cd` around? Do you know how to `ls` and `pwd`? Do you shiver when you see `rm -rf *`? You'll be fine.
+
 #### Git
 
-you will be expected to use the most frequent Git commands (`pull`, `push`, `add`, `commit`, `checkout`) quite frequently, but nothing much more sophisticated. If I'm being completely honest, [**this**](https://imgs.xkcd.com/comics/git.png) is all the Git that most data scientists know, and we seem to get along fine. 
+You will be expected to use the most frequent Git commands (`pull`, `push`, `add`, `commit`, `checkout`) quite frequently, but nothing much more sophisticated. If I'm being completely honest, [**this**](https://imgs.xkcd.com/comics/git.png) is all the Git that most data scientists know, and we seem to get along fine.
 
-Quantitative skills are highly encouraged: if you have a good basis of university level algebra and statistics that will definitely help. Mostly the Academy requires the kind of skills that results from having an education or working experience in the fields of (but not only) Engineering, Physics, Mathematics, Management, Economics, etc.. 
+#### English
+
+Are you still here, reading this without some help frmo your browser's auto-translate? Then you're good to go!
+
 
 ### Application Process and Acceptance Criteria
 We wish to ensure that the students that participate take full advantage of the course. In order to do this, we must filter students to ensure that they (1) have enough skills that they will be able to keep up with the coursework and (2) do not already have deep knowledge in all subject matter. 
