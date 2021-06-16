@@ -40,7 +40,7 @@ You can read more about it [here](https://github.com/LDSSA/forum/issues/1).
 All the candidates of the Starters Academy are expected to read, acknowledge and follow: 
 
 * Our [**Code of Conduct**](../../About us/Code-of-Conduct#application-to-the-academy);
-* Our **Refund Policy**(../../Starters Academy (LDSSA)/07-Refund-Policy)
+* Our [**Refund Policy**](../../Starters Academy (LDSSA)/07-Refund-Policy)
 * The time commitment described below
 
 This is one of the first steps in the admissions process.
