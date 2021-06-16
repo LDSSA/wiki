@@ -51,7 +51,7 @@ You will be expected to use the most frequent Git commands (`pull`, `push`, `add
 
 #### English
 
-Are you still here, reading this without some help frmo your browser's auto-translate? Then you're good to go!
+Are you still here, reading this without some help from your browser's auto-translate? Then you're good to go!
 
 
 ### Application Process and Acceptance Criteria
