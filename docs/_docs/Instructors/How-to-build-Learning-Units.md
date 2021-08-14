@@ -53,7 +53,7 @@ As you might have noticed, there is no time dedicated to the students reading th
 
 It is **critical** that we stay in scope in our learning units. That means not teaching concepts that have been taught before (feel free to make links to past LUs), and not teaching any concepts that aren't in your Learning Unit's scope. 
 
-Before getting started, look up the [scope of your learning unit](https://docs.google.com/spreadsheets/u/3/d/14XVv6vx0NicWEGeYEE-rhLSxrqeevqTadP_NgbBUF70/edit#gid=0), and think about how you will teach those very specific new concepts. 
+Before getting started, look up the scope of your learning unit in the Curriculum repo, and think about how you will teach those very specific new concepts. 
 
 Throughout your work, you will inevitably be tempted to add "interesting by-the-ways". You must resist the temptation. Adding stuff is easy, it's curating and ensuring that everything we teach is critical that is hard.
 
@@ -117,7 +117,7 @@ If you need to include images or other media and you want to check them into the
 
 ## Suggested execution order
 Naturally this will depend on the instructor, but one good order to do this is
-> 1. Carefully read the [scope of your learning unit](https://docs.google.com/spreadsheets/u/3/d/14XVv6vx0NicWEGeYEE-rhLSxrqeevqTadP_NgbBUF70/edit#gid=0), and think about what the students should be able to do after they have finished  
+> 1. Carefully read the scope of your learning unit in the Curriculum repo, and think about what the students should be able to do after they have finished  
 > 2. Google around and see how other people teach the concepts. 
 > 3. Write the Learning Notebook structure, with the headers for the concepts you will teach. This helps set the order and story you will be telling 
 > 4. Fill in the concent of the Learning Notebook 
