@@ -18,7 +18,7 @@ title: 'General Issue (for things needed to get done)'
 **Acceptance criteria:**
 
 <!-- What needs to have happened for this issue to be closed. -->
-=======
+
 **Context:**
 
 < Provide enough context for the person who will read/execute the actionables in this issue. >
