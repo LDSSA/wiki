@@ -79,4 +79,4 @@ The Academy operates under a strict [Code of Conduct](../../About us/Code-of-Con
 
 ## Volunteering
 
-Check out the [Membership Types](https://docs.google.com/document/d/1kQSYyhxYkYIxTXOb2PbQF8qZfGikFzy_nypathWPJ5E/edit?usp=sharing) in the LDSSA charter doc to see what is available.
+Check out the Membership Types in the [LDSA Charter](../Lisbon-Data-Science-Academy-(Organization)) doc to see what is available.
