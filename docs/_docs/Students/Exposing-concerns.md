@@ -4,6 +4,8 @@ category: Students
 order: 1
 ---
 
+> ⚠️ This page is being updated. Contact us at info@lisbondatascience.org for any questions.
+
 As clearly explained in the [code of conduct](../../About us/Code-of-Conduct), we designed the Academy to be a safe space, where there is physical and psychological safety. Bullying or unprofessional conduct will not be tolerated by any student or staff. 
 
 With that in mind, what should you do it you believe that someone is not respecting that principle? First, let's establish a few principles:
