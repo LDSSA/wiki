@@ -4,6 +4,8 @@ category: About us
 order: 3
 ---
 
+For a full list of the Objective Key Results (OKRs) for each AOR (2021/22) please check [this page](../AOR-OKRs).
+
 Contents:
 - [List of Areas of Responsibility (AORs)](#list-of-areas-of-responsibility-of-the-ldsa)
 - [Purpose of AORs](#purpose-of-aors)
@@ -47,16 +49,6 @@ Each AOR needs to have a face associated with it and this is the Primary Enabler
 This is a single person who is responsible for making sure that tasks that fall into their area get done. **Not necessarily performing the tasks themselves!** Although the Primary Enabler will execute many tasks that are in their area, you can and should delegate tasks by assigning people and due dates to the tasks.  
 You can see who the primary enabler is on the [Member directory](../Member-Directory)
 
-## Slack channel
-This is where you have any discussions that are short-lived or quick questions.
-
-## Documentation sources
-Right now we're storing information in 3 different places:
-- [Wiki](https://ldssa.github.io/wiki/): **public**, contains all required rules and final processes that we want to expose for transparency as well as current issues and discussions. [Repo](https://github.com/LDSSA/wiki);
-- [Google Drive Index](https://drive.google.com/drive/u/0/folders/1dlVRsbnHiw9xJYosAvtdkthqxDyU2-27): **private**, contains meeting docs, extra things like evaluation spreadsheets, etc.;
-- Google Calendar (Staff + Students): **private** to staff + students, respectively, contains all important dates and deadlines.
-
-
 ---
 # Areas of Responsibility in detail
 Each of the following is an area of responsibility with a brief description of the kinds of tasks. 
@@ -82,30 +74,12 @@ Each of the following is an area of responsibility with a brief description of t
 
 ### Community  
 [Primary enabler](../Member-Directory#organizational-structure)  
-Why do we need one?
-- Academy’s mission is about building and maintaining a community. We have the teaching and learning part on the right track, what needs to be done now is to work on the community part which is now the #1 priority of the academy.
-- As of yet, we have not developed our community the way that we would like so it is key to improve upon this.
-- Most of us are good at teaching and learning but not that great at anything else, we really need some help. 
-What will you do?
 - Maintain regular engagement with the existing student and instructor base.
 - Create engagement with the data science community at large
 - Managing the internal communication channels
 - Providing adequate gifs
 - Be sufficiently engaged with the community to have an insiders view
 - Create and manage the student slack
-- Tell us anything else that should be on this list
-What are the rewards?
-- Access to the data scientists in Lisbon
-- Sense of smugness
-What are the expectations?
-- Help us define the role
-- We expect you to be a transformational element that makes tangible progress towards achieving the mission
-- We need help discovering the best way to do community management
-Activities
-- The low-level details about what you will be doing we don’t know yet. We will need to and would very much like to work with you to define exactly what needs to be done on a day-to-day basis.
-
-
-
 
 ### Dev-Ops  
 [Primary enabler](../Member-Directory/#organizational-structure)  
@@ -115,16 +89,15 @@ Activities
 
 ### Documentation
 [Primary enabler](../Member-Directory/#organizational-structure)  
-Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. This AOR doesn't need to necessarily document everything, but rather identify what's missing and get other AORs to update their parts. The main responsibilities are:
+Documentation AOR exists to ensure that volunteers can find what they need easily to do their jobs well. Main goals are to:
 - Encourage and ensure that each AOR documents and updates their processes and information;
 - Review and update stale/obsolete documentation;
-- Manage [Wiki](https://github.com/ldssa/wiki/) issues: relabel and reassign where necessary and redirect or close inactive ones;
-- Encourage staff to use the 3 main documentation sources [in accordance with their purpose](#documentation-sources).
+- Manage [Wiki](https://github.com/ldssa/wiki/) issues;
 - Maintain the [Wiki pages](https://ldssa.github.io/wiki/);
 
 ### Finance  
 [Primary enabler](../Member-Directory/#organizational-structure)  
-- TODO
+- 
 
 ### Marketing and Communications
 
@@ -138,41 +111,21 @@ Documentation AOR exists to ensure that volunteers can find what they need easil
 
 ### Operations
 [Primary enabler](../Member-Directory#organizational-structure). 
-We hold 6 events per batch in which we need wifi, food, outlets, desks, chairs, and good ambiance coordinated
-for each one of the. The most intensive event is the 3-day bootcamp in which we hold 3 10-hour days that provide
-breakfast and lunch per day. The rest of the events are single-day 10 hour hackathons that have similar
-requirements as the bootcamp but are much easier because they are single-day events.
-
-Typically, each event is sponsored by a particular company. The company may or may not sponsor food / drinks 
-for the event. If they do sponsor it, you will need to coordinate with them and help them as much as possible 
-in order to increase the chances of them sponsoring future events. If they don't sponsor food and drinks,
-you will need to arrange the food and make sure that it is delivered on time. We have a few catering companies
-that we have been working with and have a good relationship with.
-
-In summary, your responsibilities are:
-
-- To ensure that events run well. The requirements for events may change slightly and the vast majority of the
-effort is concentrated at the beginning of the batch with the bootcamp.
-- Communicating with hackathon and bootcamp hosts to ensure delivery of things like food and internet connection are present.
+- Ensure that events run smoothly
+- Communicate with hackathon and bootcamp hosts before and throughout each event to make sure everything is operational
 
 ### Partnerships  
 [Primary enabler](../Member-Directory/#organizational-structure)  
-The Partnerships team should ensure that any relationship that we have with other companies or organizations stay healthy and are in line with the charter. You must also ensure that expectations for both organizations are in line and that it is a worthwhile experience. 
-
-Some specific tasks in this are are:  
-- When we are contacted by outside organizations, they receive a polite, warm, and professional greeting.
-- Any time that an existing member wants to propose a partnership with an outside organization, you will take over the process or help guide them through it should they prefer to stay as the primary contact.
+Partnerships AOR main responsibilities are: 
+- When we are contacted by outside organizations, to provide a polite, warm, and professional greeting.
+- Any time that an existing member wants to propose a partnership with an outside organization, take over the process or help guide them through it should they prefer to stay as the primary contact.
 - After sponsored events, following up with the sponsor and make sure that their expectations were and continue to be met.
 
 
 
 ### Quality Assurance  
 [Primary enabler](../Member-Directory/#organizational-structure)  
-The core product of the Starters Academy is the educational material. Unexpected issues such as bugs in the code
-or an exercise that is unclear and is likely to cause lots of confusion cause significant problems because of the number of people involved. In past academies, we have lost many man-hours fixing learning units after they have been released to the students.
-
-This area of responsibility is to ensure that no obvious mistakes make it into any learning material that is delivered to students. Less obvious things such as subtle mistakes in spelling or grammar or maybe even a contradiction of an earlier learning unit should be looked for but are not nearly as important to catch as bugs or totally incorrect questions.
-
+The core product of the Starters Academy is the educational material. This area of responsibility is to ensure that no bugs or obvious mistakes make it into any learning material that is delivered to students.
 Some specific tasks are:
 - Making sure that notebooks run before they are released to the students
 - Making sure that a notebook accepts the correct answers
@@ -186,4 +139,4 @@ Some specific tasks are:
 
 
 # Final Notes
-If you have issues deciding where a task should go, feel free to contact the [primary enabler of Organization Administration](../Member-Directory/#organizational-structure) directly! It is that person's responsibility to make sure that everyone is happily contributing :-)
+If you have issues deciding where a task should go, feel free to contact the [primary enabler of Organization Administration](../Member-Directory/#organizational-structure) directly! It is that person's responsibility to make sure that everyone is happily contributing. :-)
