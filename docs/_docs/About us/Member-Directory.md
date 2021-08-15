@@ -319,7 +319,40 @@ Sofia Cardita
 
 ## Graduates
 
-#### Batch 3 (2019)
+#### Batch 4 (2020/21)
+
+Ana Cerqueira
+Ana Guedes
+Andrés Mangas
+Bruno Conceição
+Carlos Fonseca
+Catia Silva
+Maria Gomes
+Cláudia Rodrigues
+Daniel Sousa
+Fábio Cruz
+Felix Brunner
+Fernanda Cohen
+Francisco Bertao
+Francisco Pereira
+Henrique Baltazar
+Hugo Broto
+Inês Mendes
+Inês Pires
+Juliane Silva
+Manuel Gonçalves
+Mário Aires
+Miguel Vieira
+Pedro Ribeiro
+Ricardo Caroço
+Rita Carvalho
+Rodrigo Silva
+Rui André
+Sofia Ganilha
+Tiago Fernandes
+
+
+#### Batch 3 (2019/20)
 
 Alba Aparicio Duran  
 Almut Pohl  
