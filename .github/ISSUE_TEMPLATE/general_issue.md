@@ -1,20 +1,23 @@
 ---
 name: general_issue
-about: General purpose issue for anything that needs an answer/action.
-title: ''
+about: General purpose issue for anything that needs to get done or answered.
+title: 'General Issue (for things needed to get done)'
 labels: ''
 assignees: ''
 
 ---
 
+<!-- Please make sure your issue is clear, has context and is ACTIONABLE.-->
+<!-- For discussion issues (no actionable) please use a blank template.-->
+
 **Context:**
 
-< Provide enough context for the person who will read/execute the actionables in this issue. >
+<!-- Provide context for the assignee. -->
 
-**Goals:**
+**Goal(s)s:**
 
-< List here the actionable items you'd like to get done. Examples: Answer to a question; Decision about something; Executing a task. Write it as concrete as possible so your issue gets done. >
+<!-- List here the actionable items you'd like to get done. Write it/them as concrete as possible so that your issue gets done. -->
 
 **Acceptance criteria:**
 
-< What needs to have happened for this issue to be closed. >
+<!-- What needs to have happened for this issue to be closed. -->
