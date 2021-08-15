@@ -1,7 +1,6 @@
 ---
 name: general_issue
 about: General purpose issue for anything that needs to get done or answered.
-title: 'General Issue (for things needed to get done)'
 ---
 
 <!-- Please make sure your issue is clear, has context and is ACTIONABLE.-->
