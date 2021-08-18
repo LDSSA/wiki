@@ -1,6 +1,6 @@
 ---
 title: How to ask for and give help
-category: Students
+category: Starters Academy (LDSSA)
 order: 9
 ---
 
