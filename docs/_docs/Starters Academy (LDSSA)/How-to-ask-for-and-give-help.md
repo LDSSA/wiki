@@ -1,10 +1,8 @@
 ---
 title: How to ask for and give help
 category: Students
-order: 2
+order: 9
 ---
-
-> ⚠️ Some information in this page might be outdated.
 
 
 - [How to ask for help](#how-to-ask-for-help)
@@ -28,6 +26,7 @@ I know the first instinct will be to go to Slack, but (if possible) resist the t
 
 #### Step 1: mmmmayyybee it's in the Notebooks?
 First thing, check the Learning Notebook and example notebooks, more often than not the answer will be there somewhere. 
+
 #### Step 2: StackoverGoogle
 If still unclear, try throwing the question into Google (especially if it is a python question!), or seeing what [StackOverflow](https://stackoverflow.com/) says about it.
 
@@ -50,7 +49,7 @@ If you are blocked on a Python or devops question, do the following:
 1. If that doesn't work, ask it on Slack. 
 
 ## I have a data science question, but it's not specifically about any Learning Unit 
-Please use the ... channel on Slack.
+Please use a general channel on Slack (e.g. #random).
 
 ## How to open an issue 
 To open an issue, click on the Issues tab of the Github repo where you are working. If you're a student, this would the be the `LDSSA/batch-...` repo. Remember to check first if the issue already exists!  
@@ -67,10 +66,9 @@ Once you open the issue, instructors will get notified, so keep an eye out for a
 Yay! You rock! 
 
 ### Make yourself available during the bootcamp
-Remember, students won't reach out to you if you have your head stuck in your computer. Move around, make eye contact. Spontaneously ask students if they need help. 
 
-### Direct students to the right place 
-Remember, it is easier to ask you on slack than to do raise an issue. However there is a reason why we have this system: keeping track of questions, and making sure they only get asked once. If a student asks you a question and it isn't a quick answer, direct them to [the right place](#how-to-ask-for-help). Alternatively if you find that it's easier to answer then and there, [raise the issue](#how-to-open-an-issue) yourself and answer it. 
+### Direct to the right place 
+Remember, it is easier to ask you on Slack than to do raise an issue. However there is a reason why we have this system: keeping track of questions, and making sure they only get asked once. If a student asks you a question and it isn't a quick answer, direct them to [the right place](#how-to-ask-for-help). Alternatively if you find that it's easier to answer then and there, [raise the issue](#how-to-open-an-issue) yourself and answer it. 
 
 Let's not be naïve: now that you've answered, the student isn't raising it anymore ;) 
 
