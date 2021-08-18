@@ -65,7 +65,7 @@ Once you open the issue, instructors will get notified, so keep an eye out for a
 # How to give help 
 Yay! You rock! 
 
-### Make yourself available during the bootcamp [for non-remote editions]
+### Make yourself available during the bootcamp
 
 ### Direct to the right place 
 Remember, it is easier to ask you on Slack than to do raise an issue. However there is a reason why we have this system: keeping track of questions, and making sure they only get asked once. If a student asks you a question and it isn't a quick answer, direct them to [the right place](#how-to-ask-for-help). Alternatively if you find that it's easier to answer then and there, [raise the issue](#how-to-open-an-issue) yourself and answer it. 
