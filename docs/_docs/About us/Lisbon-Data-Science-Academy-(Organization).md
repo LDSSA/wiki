@@ -14,8 +14,6 @@ The Lisbon Data Science Academy (_"The Academy"_ or _"LDSA"_) is a not-for-profi
 
 It was started in June 2017 by a group of [volunteers](#founders) who love data science. This organization currently runs the [Lisbon Data Science Starters Academy](../../Starters Academy (LDSSA)/01-Starters-Academy-(Course)/), a course for python programmers who wish to enter Data Science, and offers a [Data Science Prep Course](../../DS Prep Course/Data-Science-Prep-Course/).
 
-Sam Hopkins, Chi Dominguez, Pedro Fonseca and João Ascencão founded the Academy with the following goals: take people with basic understanding of the Python programming language and teach them the basics of data science (data cleaning and preparation, classification and regression and validation techniques), develop the Lisbon data science community and bring people interested in data science together, and fill the growing need for Data Scientists in industry.
-
 ---
 
 ## Mission
