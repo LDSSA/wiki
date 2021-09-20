@@ -157,7 +157,7 @@ effort is concentrated at the beginning of the batch with the bootcamp.
 
 ### Partnerships  
 [Primary enabler](../Member-Directory/#organizational-structure)  
-The Partnerships team should ensure that any relationship that we have with other companies or organizations stay healthy and are in line with the charter. You must also ensure that expectations for both organizations are in line and that it is a worthwhile experience. 
+The Partnerships team should ensure that any relationship that we have with other companies or organizations stay healthy and are in line with the [LDSA Charter](../Lisbon-Data-Science-Academy-(Organization)). You must also ensure that expectations for both organizations are in line and that it is a worthwhile experience. 
 
 Some specific tasks in this are are:  
 - When we are contacted by outside organizations, they receive a polite, warm, and professional greeting.
