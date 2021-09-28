@@ -12,9 +12,9 @@ What's in this page:
    3. [All staff](#all-ldsa-staff)
       - [Instructors](#instructors)
       - [All former staff](#all-former-staff)
-2. [Students](#students)
-3. [Alumni](#alumni)
-4. [Graduates](#graduates)
+2. [Graduates](#graduates)
+3. [Students](#students)
+4. [Alumni](#alumni)
 
 # Staff
 
@@ -162,6 +162,7 @@ Instructor.
 - Francisco Caldas
 - Frederico Nunes
 - Hugo Ferreira
+- Inês Mendes
 - Inês Pessoa
 - Ivo Bernardo
 - João Veiga
@@ -179,7 +180,6 @@ Instructor.
 - Sam Hopkins
 - Telmo Felgueira
 - Wilson Ramos
-
 
 
 #### DS Prep Course Instructors
@@ -217,14 +217,135 @@ Instructor.
 - Surabhi
 
 
+## Graduates
+
+#### Batch 4 (2020/21)
+
+Ana Cerqueira  
+Ana Guedes  
+Andrés Mangas  
+Bruno Conceição  
+Carlos Fonseca  
+Catia Silva  
+Clara Barreto  
+Cláudia Rodrigues  
+Daniel Sousa  
+Fábio Cruz  
+Felix Brunner  
+Fernanda Cohen  
+Francisco Bertao  
+Francisco Pereira  
+Henrique Baltazar  
+Hugo Broto  
+Inês Mendes  
+Inês Pires  
+Juliane Silva  
+Manuel Gonçalves  
+Mário Aires  
+Miguel Vieira  
+Pedro Ribeiro  
+Ricardo Caroço  
+Rita Carvalho  
+Rodrigo Silva  
+Rui André  
+Sofia Ganilha  
+Tiago Fernandes  
+
+
+#### Batch 3 (2019/20)
+
+Alba Aparicio Duran  
+Almut Pohl  
+Ana Rita Gonçalves Sousa  
+António Fonseca Coelho  
+Beatriz Xavier  
+Bruno Alexandre Zeverino António  
+Carlos Bernardo Bento Costa  
+Francisco Miguel Rodrigues Bota  
+Gonçalo Martins Quinta  
+Inês Margarida Simões Pessoa  
+Inês Sampaio dos Reis Almeida  
+João Nuno Silva Picão Oliveira  
+João Tiago Neves Penedo  
+Joao Tiago Sayanda Gafeira  
+João Rui Alves Andrade Afonso  
+Juliana Sousa Rodrigues  
+Marina Fridman  
+Minh Hoang  
+Nuno Heli Dantas de Beires Pereira da Costa  
+Paulo Ricardo Fernandes Araújo Pedro de Almeida  
+Paulo Sérgio Perames Paraíso  
+Ricardo Custódio   
+Ricardo José Neves Alberto  
+Rui Braga  
+Sara Rodrigues Mendes  
+Sebastião Fachada Fonseca  
+Tiago Alexandre Reis Ramalho Moutinho Freire  
+Valentyna Koshelnyk  
+Wilson David Ferreira Ramos  
+
+
 ## Students
 
-#### Batch 4 (2020)
+#### Batch 5 (2021)
 
 > 🚧 This section is under construction.
 
 
 ## Alumni
+
+#### Batch 4 (2020)
+
+Ana Cerqueira  
+Ana Guedes  
+André Roque  
+Andreia Almeida  
+Andrés Mangas  
+Bruno Conceição  
+Caio Costa  
+Carlos Andrade  
+Carlos Fonseca  
+Catia Silva  
+Cláudia Rodrigues  
+Clara Barreto  
+Daniel Sousa  
+Diogo Vasconcelos  
+Fábio Cruz  
+Faouzi Braza  
+Felix Brunner  
+Fernanda Cohen  
+Filipa Pereira  
+Francisco Pereira  
+Francisco Bertao  
+Gabriel Candal  
+Henrique Baltazar  
+Hugo Broto  
+Inês Mendes  
+Inês Pires  
+João Pereira  
+João Viana  
+Juliane Silva  
+Katharina Schachmatov  
+Manuel Gonçalves  
+Margarida Mendonça  
+Marina Meshini  
+Mário Aires  
+Miguel Vieira  
+Pedro Ribeiro  
+Pedro Batalha  
+Pedro Nunes  
+Ricardo Caroço  
+Ricardo Almeida  
+Ricardo Machado  
+Rita Carvalho  
+Rodrigo Silva  
+Rui André  
+Sebastián Pérez  
+Sofia Ganilha  
+Sonia Allaei  
+Susan Wang  
+Tiago Fernandes  
+Vasco Barros  
 
 #### Batch 3 (2019)
 Akinyemi Sadeeq AKINTOLA  
@@ -314,40 +435,3 @@ Sofia Cardita
 #### Batch 1 (2017)
 
 > 🚧 This section is under construction.
-
-
-
-## Graduates
-
-#### Batch 3 (2019)
-
-Alba Aparicio Duran  
-Almut Pohl  
-Ana Rita Gonçalves Sousa  
-António Fonseca Coelho  
-Beatriz Xavier  
-Bruno Alexandre Zeverino António  
-Carlos Bernardo Bento Costa  
-Francisco Miguel Rodrigues Bota  
-Gonçalo Martins Quinta  
-Inês Margarida Simões Pessoa  
-Inês Sampaio dos Reis Almeida  
-João Nuno Silva Picão Oliveira  
-João Tiago Neves Penedo  
-Joao Tiago Sayanda Gafeira  
-João Rui Alves Andrade Afonso  
-Juliana Sousa Rodrigues  
-Marina Fridman  
-Minh Hoang  
-Nuno Heli Dantas de Beires Pereira da Costa  
-Paulo Ricardo Fernandes Araújo Pedro de Almeida  
-Paulo Sérgio Perames Paraíso  
-Ricardo Custódio   
-Ricardo José Neves Alberto  
-Rui Braga  
-Sara Rodrigues Mendes  
-Sebastião Fachada Fonseca  
-Tiago Alexandre Reis Ramalho Moutinho Freire  
-Valentyna Koshelnyk  
-Wilson David Ferreira Ramos  
-
