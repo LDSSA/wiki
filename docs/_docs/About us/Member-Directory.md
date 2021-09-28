@@ -162,6 +162,7 @@ Instructor.
 - Francisco Caldas
 - Frederico Nunes
 - Hugo Ferreira
+- Inês Mendes
 - Inês Pessoa
 - Ivo Bernardo
 - João Veiga
@@ -179,7 +180,6 @@ Instructor.
 - Sam Hopkins
 - Telmo Felgueira
 - Wilson Ramos
-
 
 
 #### DS Prep Course Instructors
@@ -219,12 +219,66 @@ Instructor.
 
 ## Students
 
-#### Batch 4 (2020)
+#### Batch 5 (2021)
 
 > 🚧 This section is under construction.
 
 
 ## Alumni
+
+#### Batch 4 (2020)
+
+Ana Cerqueira
+Ana Guedes
+André Roque
+Andreia Almeida
+Andrés Mangas
+Bruno Conceição
+Caio Costa
+Carlos Andrade
+Carlos Fonseca
+Catia Silva
+Cláudia Rodrigues
+Clara Barreto
+Daniel Sousa
+Diogo Vasconcelos
+Fábio Cruz
+Faouzi Braza
+Felix Brunner
+Fernanda Cohen
+Filipa Pereira
+Francisco Pereira
+Francisco Bertao
+Gabriel Candal
+Henrique Baltazar
+Hugo Broto
+Inês Mendes
+Inês Pires
+João Pereira
+João Viana
+Juliane Silva
+Katharina Schachmatov
+Luís de Figueiredo
+Manuel Gonçalves
+Margarida Mendonça
+Marina Meshini
+Mário Aires
+Miguel Vieira
+Pedro Ribeiro
+Pedro Batalha
+Pedro Nunes
+Ricardo Caroço
+Ricardo Almeida
+Ricardo Machado
+Rita Carvalho
+Rodrigo Silva
+Rui André
+Sebastián Pérez
+Sofia Ganilha
+Sonia Allaei
+Susan Wang
+Tiago Fernandes
+Vasco Barros
 
 #### Batch 3 (2019)
 Akinyemi Sadeeq AKINTOLA  
@@ -316,7 +370,6 @@ Sofia Cardita
 > 🚧 This section is under construction.
 
 
-
 ## Graduates
 
 #### Batch 4 (2020/21)
@@ -327,7 +380,7 @@ Andrés Mangas
 Bruno Conceição
 Carlos Fonseca
 Catia Silva
-Maria Gomes
+Clara Barreto
 Cláudia Rodrigues
 Daniel Sousa
 Fábio Cruz
