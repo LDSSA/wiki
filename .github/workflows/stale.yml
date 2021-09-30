@@ -21,7 +21,14 @@ jobs:
     - uses: actions/stale@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        days-before-issue-stale: 14
+        days-before-pr-stae: 14
+        remove-stale-when-updated: true
+        delete-branch: false
+        exempt-all-milestones: true
+        exempt-draft-pr: true
         stale-issue-message: 'Issue is stale'
         stale-pr-message: 'Pull request is stale'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+        enable-statistics: true
