@@ -21,7 +21,7 @@ Contents:
 # Course overview
 Over the last few years, many people have wanted to but not been able to get into the LDSSA. As of now, we have not been able to offer them any community-based alternatives which leaves them with the usual options of lonely online courses. While the course material, grading system, and access to instructors are definitely useful things, the vast majority of the value provided to the students is in the community aspect. The feeling that you're not going it alone is incredibly powerful.
 
-Since 2020, we have started to offer the LDSA Unofficial Sidecar Academy, a community-based lightweight version of the LDSA and is meant to provide all of those who didn't have a chance to get into the 2020 LDSSA, a concrete next step in their pursuit of Data Science. Proficiency in Python, and basic knowledge of Software engineering is required to adequately the learning materials.
+Since 2020, we have started to offer the LDSA Unofficial Sidecar Academy, a community-based lightweight version of the LDSA and is meant to provide all of those who didn't have a chance to get into the 2020 LDSSA, a concrete next step in their pursuit of Data Science. Proficiency in Python, and basic knowledge of Software engineering is required to adequately follow the learning materials.
 
 It should not be mistaken for the Lisbon Data Science Academy (LDSA), or the Lisbon Data Science Starters Course (LDSSA).
 
@@ -29,7 +29,7 @@ It should not be mistaken for the Lisbon Data Science Academy (LDSA), or the Lis
 
 The Sidecar Academy lasts approximately 30 weeks of part-time work over the course of 8 months. Everything is done remotely via GitHub, Slack, and the grading and submission system. You do not need to quit your primary responsibility to take part in this course.
 
-The curriculum can be referenced via the[curriculum-development repo](https://github.com/LDSSA/curriculum-development)
+The curriculum can be referenced via the [curriculum-development repo](https://github.com/LDSSA/curriculum-development)
 
 ## Time Commitments
 
@@ -69,7 +69,7 @@ While the Sidecar Academy will share the same materials as LDSSA, there are a fe
 The introduction session is an online session that kicks off the Sidecar academy, which will take place on the 24th of October at 3pm. In this session all rules and schedule present in this page will be presented, together with any practical details for the current edition.
 
 Additionally we will go over and answer any questions related to the following topics:
-- Course' structure
+- Course structure
 - Code of Conduct
 - How to ask for and give help
 - Hackathons
@@ -98,9 +98,6 @@ If something happens and you could not follow the deadline, you can still ask qu
 ##### 1. I just want to check that the whole course is 100% remote right?
 Everything is 100% remote and online!
 
-##### 2. If something happens and I could not follow the deadline, would that be okay?
-Totally! You can learn at anywhere and anytime at your own pace. Feel free to ask questions about the previous weeks's Learning Materials. Just remember to post it in the right Slack channel!
-
-##### 3. Will you offer any certificate at the end of the course?
+##### 2. Will you offer any certificate at the end of the course?
 No certificate will be given. However, we are sure that, more than the certificate you could get, your biggest takeaway from this course will be the knowledge you've acquired and how it will help you navigate the world of Data Science.
 
