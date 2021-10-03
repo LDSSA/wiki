@@ -14,7 +14,7 @@ Contents:
 - [Hackathons](#hackathons)
 - [Schedule](#schedule)
 - [Late policy](#late-policy)
-- [Frequently Asked Questions (FAQ)](#faq)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
 ---
 
