@@ -40,7 +40,7 @@ You should be prepared to spend a recommended 10 hours per week on the course an
 
 In the Unofficial Sidecar Academy, we will go through the same materials of [Lisbon Data Science Starters Academy (LDSSA)](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/01-Starters-Academy-(Course)/).
 
-All of the learning units, all of the exercises, all of the recorded lectures will be 100% the same. So make sure that you head over [Lisbon Data Science Starters Academy (LDSSA)](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/01-Starters-Academy-(Course)/) to understand how the course is structured. 
+All of the learning units, all of the exercises, all of the recorded lectures (if there's any) will be 100% the same. So make sure that you head over [Lisbon Data Science Starters Academy (LDSSA)](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/01-Starters-Academy-(Course)/) to understand how the course is structured. 
 
 In short, we will be using Learning Units as our main method of coursework. Two main types of Learning Units are:
 - Small Learning Units: consists of (1) A presentation (2) A Learning Notebook (3) An example notebook and (4) An exercise notebook
@@ -66,24 +66,28 @@ While the Sidecar Academy will share the same materials as LDSSA, there are a fe
 
 
 ## Introduction session
-The introduction session is a 2-hour session that kicks off the Sidecar academy.
+The introduction session is an online session that kicks off the Sidecar academy, which will take place on the 24th of October at 3pm. In this session all rules and schedule present in this page will be presented, together with any practical details for the current edition.
 
-In this session all rules and schedule present in this page will be presented, together with any practical details for the current edition. You will also get to know about the staff behind the course and the fellow students who will be with you in this 8-month journey.
-
-Additionally we will go over the following topics:
+Additionally we will go over and answer any questions related to the following topics:
+- Course' structure
 - Code of Conduct
 - How to ask for and give help
 - Hackathons
 
+Please keep in mind that this session is not compulsory. Nonetheless, we encourage you to participate and get to know the staff behind the course and the fellow students who will be with you in this 8-month journey.
+
 
 ## Hackathons 
 
-TO-DO
+Each Hackathon will take place during three days. A few days prior to the starting date a form will have to be filled to confirm the interest in participating in each Hackathon. Teams will be randomly assigned based on the number of participants.
+
+Once you are assigned with a team, it is up to you and your fellow teammates to organise yourself into working together and solving the problems through joint effort. Teams should submit their results to a Kaggle competition that will be created by the LDSA team. A classification table will also be available to compare the various approaches to the problem. Every team is encouraged to post their solution notebook at the end of each Hackathon.
 
 
 ## Schedule
 
-All important dates can be found in [this Calendar](https://calendar.google.com/calendar/u/0?cid=ajh0M2ZtdXY1M3BwcHZmMnZjbmZqaTR0bDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=j8t3fmuv53pppvf2vcnfji4tl8%40group.calendar.google.com&ctz=Europe%2FLisbon)!
+You can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates.
 
 ## Late policy
 If something happens and you could not follow the deadline, you can still ask questions about the previous week's SLU. Just remember to post it in the right Slack channel!
