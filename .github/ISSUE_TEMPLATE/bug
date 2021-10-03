@@ -1,0 +1,16 @@
+---
+name: bug
+about: Something is not working.
+---
+
+
+**Bug description:**  <!-- describe the issue so that the person solving it can locate it and/or replicate it -->
+
+
+**Expected output/behaviour:**  <!-- what is the expected behaviour, i.e., how should things be working -->
+
+
+---
+This issue is to be closed when one of the following happens:
+- bug is fixed **or**
+- issue is marked as "won't do"
