@@ -28,6 +28,7 @@ jobs:
         exempt-all-milestones: true
         exempt-all-pr-milestones: true
         exempt-draft-pr: true
+        exempt-issue-labels: open discussion,Batch 6
         stale-issue-message: 'This issue has been inactive for more than 14 days. Remove stale label or comment or this will be closed in 90 days.'
         stale-pr-message: 'Pull request is stale'
         stale-issue-label: 'STALE'
