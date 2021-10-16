@@ -148,7 +148,7 @@ So ask yourself, what would be the worst case scenario if I decide to pursue thi
 
 A framework [once mentioned by Jeff Bezos](https://rufuspollock.com/2020/05/18/jeff-bezos-fast-high-quality-decision-making/) that can be useful, if a decision is reversible and has little consequences, we should act on it quickly. So that we as an organization can be nimble and act quickly on improvements and great suggestions, especially when those are obvious.
 
-![2 Types of decisions](https://imgur.com/a/5MjnGni)
+<img src="docs/images/2-types-of-decisions.png" width="90%"/>
 
 ## Emergencies
 While the following should not happen at all, there can be cases where decisions need to be closed urgently and waiting for answers/feedback from issues is not possible. In these cases, you can and should close the decisions. The worst thing is nobody takes action at all, so please feel empowered to make the call.
