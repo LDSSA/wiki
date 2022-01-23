@@ -66,12 +66,8 @@ There are three main ways to find things on this wiki:
 
 ### Our Google Drive
 
-Members that have more administrative duties will have an @lisbondatascience.org
-Google Workplace account. In that account is a folder that is shared with everyone
-called "Index": https://drive.google.com/drive/folders/1dlVRsbnHiw9xJYosAvtdkthqxDyU2-27.
-
-This is not the most organized drive folder but there is an
-ongoing attempt to keep things organized by their [AOR](../../About us/LDSA-Areas-of-Responsibility).
+When you log in Google with your ´@lisbondatascience.org`
+staff account, if you navigate to Google Drive, you'll see the LDSA folders under a **Shared Drive** called [**LDSA**](https://drive.google.com/drive/u/0/folders/0ANWHJpQstXy_Uk9PVA).
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
@@ -80,7 +76,7 @@ needing to iterate on an early-stage idea using comments and assigned TODOs.
 There are two main ways that you can find stuff in the google drive Index folder:
 
 1. Use the regular google drive search bar
-1. Browse the folder structure looking inside of folders according to their AOR
+1. Browse the folder structure by using the dropdown arrows next to each folder name, starting from the **LDSA** folder itself.
 
 ### GitHub
 
