@@ -66,8 +66,8 @@ There are three main ways to find things on this wiki:
 
 ### Our Google Drive
 
-When you log in Google with your ´@lisbondatascience.org`
-staff account, if you navigate to Google Drive, you'll see the LDSA folders under a **Shared Drive** called [**LDSA**](https://drive.google.com/drive/u/0/folders/0ANWHJpQstXy_Uk9PVA).
+When you log in Google with your `@lisbondatascience.org`
+staff account, if you navigate to Google Drive, you'll see the LDSA folders under a **Shared Drive** called **LDSA**.
 
 Things that should be stored in the Google Drive are for when a specific need
 arises and a wiki cannot support it. Examples are needing spreadsheets or
