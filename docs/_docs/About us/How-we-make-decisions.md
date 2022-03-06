@@ -1,3 +1,10 @@
+---
+title: How we make decisions
+category: About us
+order: 7
+---
+
+
 # Context
 
 During batch 4, we identified several challenges with how we currently make decisions throughout the organizations. Gathering insights and feedback from multiple people from multiple places, the followings are the main ones we are facing right now:
@@ -14,14 +21,14 @@ While we are always happy to discuss when everyone raises objections, this makes
 We experienced inter-AOR issues that would require collaboration and sign-off from multiple AORs. Given our lack of documentation on the decision making process, it’s hard to know who to bring up the problems and who would have a final call on it.
 
 # Decision makers
-Unlike hierarchical organizations where most decisions are closed by managers or executives, at LDSA, we believe that decisions should be made by the one with the most expertise and with most visibility about the issues. Depending on the type of decisions, that can be the AOR Lead, or the Exec team.
+Unlike hierarchical organizations where most decisions are closed by managers or executives, at LDSA, we believe that decisions should be made by the one with the most expertise and with most visibility about the issues. 
 
 Let’s go through different types of decisions we have and who would be responsible for closing them.
 ## 1. AOR-specific decisions
 
 Each AOR has a clear and defined list of responsibilities as outlined here (If you feel your AOR’s responsibilities are not clear, please let the exec team know as it’s our job to make sure they are crystal clear). 
 
-Any decision falls under these responsibilities should be closed by AOR Lead. These are the people with the most expertise in the area, and who are the closest to the day-to-day operations. It’s the exec team’s responsibility to choose the best person for the AORs. So once they are onboarded, we trust that they would make the best decisions, and there is no need to have the executive team sign-off on the AOR-specific decisions.
+Any decision falls under these responsibilities should be closed by AOR Lead, or an AOR member with most visibility on the matter. These are the people with the most expertise in the area, and who are the closest to the day-to-day operations. It’s the exec team’s responsibility to choose the best person for the AORs. So once they are onboarded, we trust that they would make the best decisions, and there is no need to have the executive team sign-off on the AOR-specific decisions.
 
 ## 2. Inter-AOR decisions
 
@@ -31,8 +38,8 @@ First, the Leads of involved AORs should first discuss with each other to reach 
 
 Let’s use an example that we had previously. This year, we need to decide whether we should and can have the Portal Grading for Prep Course. Below was what happened to demonstrate how it would look in practical terms.
 
-1. Prep Course Lead (Minh) wanted to know whether we can implement Grading Portal for Prep Course and improve the learning experience for students, and she reached out to Dev-Ops team (Hugo & Miguel)
-2. Dev-Ops Lead (Hugo) mentioned that given the short timeline and the ongoing project with the Portal, it’d be a stretch and preferably we should delay it for next year.
+1. Prep Course Lead wanted to know whether we can implement Grading Portal for Prep Course and improve the learning experience for students, and she reached out to Dev-Ops team
+2. Dev-Ops Lead mentioned that given the short timeline and the ongoing project with the Portal, it’d be a stretch and preferably we should delay it for next year.
 3. Dev-Ops Lead suggested an idea that we can instead create another reporting system to record people’s grade and statuses. Which can still solve the same problems without allocating too much resources for the Prep Course.
 4. Both Prep Course Lead & Dev-Ops Lead agree with the solution.
 
@@ -52,6 +59,7 @@ Apart from that, the exec team is also responsible for Organization-wide decisio
 - Under what conditions people may be removed from the course
 - Resolving disputes that cannot be resolved by an AOR Lead, or between multiple AOR Leads
 - Deciding on how things are communicated to the outside world for the cases in which it is not already clearly defined
+- Resolving formal complaints of misconducts from both students, instructors and the community
 
 # Decision making process
 Now that the decision makers are defined, the next question is how we can balance between efficiency and participation. On one spectrum, the AOR Leads and Exec team close decisions like a bulldozer and will miss out useful insights and sharing from the rest of members. On the other end of the spectrum, for everyone's decision, we will ask and wait for feedback from everyone.
@@ -84,7 +92,7 @@ Will this decision impact other AOR or the entire organization, and they should 
 ### Case 1: Answer is NO to both questions.
 This is when you can close the decision yourself and the rest of the organization don’t need to know about it.
 
-Example: If Carol (Marketing Lead) was to write up a Social Media post, she has total power to decide on that, and there’s no need to triage with other AORs nor the exec team. It also wouldn’t affect other AORs.
+Example: If Marketing Lead was to write up a Social Media post, she has total power to decide on that, and there’s no need to triage with other AORs nor the exec team. It also wouldn’t affect other AORs.
 
 
 ### Case 2: Answer is YES to at least one question
@@ -106,13 +114,17 @@ Example: If Carol (Marketing Lead) was to write up a Social Media post, she has 
 
 Once the issue is created, there will be a Slack notification on #wiki-issue-notifications. This is so that everyone can be aware and keep an eye out on decisions that are relevant to them.
 
+For team-wide decisions that require input from the whole team, the wiki issue should exist in the wiki page and be opened for at least a week. This is so that everyone has enough time to review and provide with their feedback.
+
+In addition, such important proposals deserve another ping on #announcements channel as some people might not check the wiki page often.
+
 
 ### 2. Identify under which AOR the decision would fall
 
 While it’d be obvious in most cases, there will be some issues that it’d be unclear such as this one. The following steps should help to decide the responsible AORs: 
 
 Go through the list of responsibilities of each AOR and see which AOR it would best fit
-If it’s still not obvious, drop a comment asking help from Documentation AOR (Led by Juliana) and the Lead will help with the assignation to the accurate AOR
+If it’s still not obvious, drop a comment asking help from Documentation AOR and the Lead will help with the assignation to the accurate AOR
 If it’s still not obvious, assign to the Executive Team, who would be responsible for any decision that doesn’t belong to the existing AORs
 
 
@@ -146,7 +158,7 @@ Imagine, you have an idea of creating a pet channel to share pet photos to incre
 
 So ask yourself, what would be the worst case scenario if I decide to pursue this idea or experiment? If the answer is trivial, then go ahead and do it!
 
-A framework [once mentioned by Jeff Bezos](https://rufuspollock.com/2020/05/18/jeff-bezos-fast-high-quality-decision-making/) that can be useful, if a decision is reversible and has little consequences, we should act on it quickly. So that we as an organization can be nimble and act quickly on improvements and great suggestions, especially when those are obvious.
+If a decision is reversible and has little consequences, we should act on it quickly. So that we as an organization can be nimble and act quickly on improvements and great suggestions, especially when those are obvious.
 
 <img src="docs/images/2-types-of-decisions.png" width="90%"/>
 
