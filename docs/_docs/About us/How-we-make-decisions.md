@@ -72,6 +72,8 @@ Before diving into how the decision making process is like, let’s go through f
 
 ### 1. Approvers
 The person(s) who have the final say to close the decision. Without them, decisions will be blocked.
+If you have proposed a suggestion but haven't heard feedback from the AOR Lead for 2 weeks, they might have missed it so make sure to ping them. 
+
 Example: A proposal to change the current QA process won’t go through unless QA Lead is onboard with it.
 
 ### 2. Reviewers
