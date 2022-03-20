@@ -35,13 +35,13 @@ It is important to keep in mind that we cannot guarantee that by taking the Prep
 
 Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](https://docs.google.com/spreadsheets/d/1_WGZA_NFwFNpzl4cnMfN6clHV0Z0OaxCwMTDKCHcEEw/edit#gid=2018895387).
 
-All learning units are publicly available on the [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022) repository and you can go through it on your own.
+All learning units will be released on the [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022) repository and you can go through it on your own pace.
 
 ## When is the Prep Course
-The Prep Course takes place between March 28th, 2022 and June 20th, 2022.
+The Prep Course takes place between March 28th, 2022 and June 19th, 2022.
 
 ## Fees
-The Prep Course is free of charge
+The Prep Course is free of charge.
 
 <br>
 
@@ -70,7 +70,7 @@ Below we listed the 18 learning units that you need to complete, and when you sh
 
 | Week | Learning Materials |
 |-|-|
-| **Week 0** <br> 28/03/2022 - 03/04/2022 | Setting up (Follow the instructions from [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022)) <br> **SLU00** - Jupyter Notebook |
+| **Week 0** <br> 28/03/2022 - 03/04/2022 | Setting up (Follow the instructions on [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022)) <br> **SLU00** - Jupyter Notebook |
 | **Week 1** <br> 04/04/2022 - 10/04/2022 | **SLU01** - Command Lines & Text Editor <br> **SLU02** - Programming Basics |
 | **Week 2** <br> 11/04/2022 - 17/04/2022 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
 | **Week 3** <br> 18/04/2022 - 24/04/2022 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
@@ -81,7 +81,7 @@ Below we listed the 18 learning units that you need to complete, and when you sh
 | **Week 8** <br> 23/05/2022 - 29/05/2022 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
 | **Week 9** <br> 30/05/2022 - 05/06/2022 | **SLU15** - Debugging <br> **SLU16** - Final Project |
 | **Week 10** <br> 06/06/2022 - 12/06/2022 | **SLU17** - Exam Prep I |
-| **Week 11** <br> 13/06/2022 - 20/06/2022 | **SLU18** - Exam Prep II |
+| **Week 11** <br> 13/06/2022 - 19/06/2022 | **SLU18** - Exam Prep II |
 
 
 <br>
@@ -104,13 +104,14 @@ If something happens and you could not follow the deadline, you can still ask qu
 
 
 # How to ask for help
-There is one slack rule to rule them all: **DON'T BE SHY! ASK QUESTIONS PUBLICLY**
+There is one slack rule to rule them all! Whenever you can, **ASK QUESTIONS PUBLICLY** (on the Slack channel of week-XX for questions related with that week's SLUs, on the general channel for non-SLU related questions, etc.)
 
 We know and totally understand that it can be intimidating to ask a question in front of a bunch of other people that you don't even know. We've all been there and can empathize. However, the rewards of overcoming this fear and asking a question in a slack channel that everyone can see are too great to ignore. The benefits, among others, are:
 
 1. **You will get an answer faster.** If 50 people see your question, you will get an answer faster than if 1 person does.
 1. **You will get a better answer.** If 50 people see your question, you're likely get a better answer than if 1 person does.
 1. **You may make a friend.** It increases the chances of interacting with an interesting person that you may not have met otherwise. These types of peers can increase your chances of success immensely. 
+1. **You will help others with the same question.** Very likely someone else has the same question and will be able to benefit from the answer.
 
 On top of that, for your questions to be answered in the shortest possible time, provide us with enough context to be able to answer it. Among others, you can attach a screenshot or copy-paste formatted code together with your questions. If you, as a student, see a question that you know the answer to, do it! Answer it!
 
@@ -119,18 +120,18 @@ On top of that, for your questions to be answered in the shortest possible time,
 
 # Frequently Asked Questions
 
-##### 1. I just want to check that the whole course is 100% remote right?
+#### 1. I just want to check that the whole course is 100% remote right?
 Everything is 100% remote and online!
 
-##### 2. Do I need to belong to a specific company?
+#### 2. Do I need to belong to a specific company?
 No need to belong to any specific company or university
 
-##### 3. Can you please also confirm if the prep course classes will take place after work hours (18h)?
+#### 3. Can you please also confirm if the prep course classes will take place after work hours (18h)?
 The Prep course does not occur at any specific time. We only care about you completing all the materials scheduled for that week. Apart from that, you can learn at anywhere and anytime at your own pace.
 
-##### 4. The course's schedule is too intensive for me, can I follow the materials at my own pace instead?
+#### 4. The course's schedule is too intensive for me, can I follow the materials at my own pace instead?
 The Prep course's materials are 100% available on Github, and you can always go through it by yourself at any time. However, when the course is already finished, our instructor team will not be available to assist you with every question you might have. So, try your best to follow the Prep course' schedule and make the most out of it even though we know it might be hard sometimes! 
 
-### **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
+#### **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
 
-All materials taught in the Prep Course is publicly available [here](https://github.com/LDSSA/ds-prep-course-2022) . We've tried our best to give very detaled instructions so that you could follow it on your own!
+All materials taught in the Prep Course are publicly available [here](https://github.com/LDSSA/ds-prep-course-2022) . We've tried our best to give very detailed instructions so that you could follow it on your own! You can also leave suggestions/feedback by opening an issue [here](https://github.com/LDSSA/ds-prep-course-2022/issues).
