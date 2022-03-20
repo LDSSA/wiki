@@ -31,12 +31,12 @@ It is important to keep in mind that we cannot guarantee that by taking the Prep
 
 ## What will be covered
 
-Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](https://docs.google.com/spreadsheets/d/1JzRfuacM5Q_XsnSMgEqOZH_cCBnT0J6K-e-687fFa6s/edit#gid=2018895387).
+Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](https://docs.google.com/spreadsheets/d/1_WGZA_NFwFNpzl4cnMfN6clHV0Z0OaxCwMTDKCHcEEw/edit#gid=2018895387).
 
-All learning units are publicly available on the [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021) repository and you can go through it on your own.
+All learning units are publicly available on the [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022) repository and you can go through it on your own.
 
 ## When is the Prep Course
-The Prep Course takes place between March 29th, 2021 and June 21th, 2021.
+The Prep Course takes place between March 28th, 2022 and June 20th, 2022.
 
 ## Fees
 The Prep Course is free of charge
@@ -68,18 +68,18 @@ Below we listed the 18 learning units that you need to complete, and when you sh
 
 | Week | Learning Materials |
 |-|-|
-| **Week 0** <br> 29/03/2021 - 04/04/2021 | Setting up (Follow the instructions from [`ds-prep-course-2021`](https://github.com/LDSSA/ds-prep-course-2021)) <br> **SLU00** - Jupyter Notebook |
-| **Week 1** <br> 05/04/2021 - 11/04/2021 | **SLU01** - Command Lines & Text Editor <br> **SLU02** - Programming Basics |
-| **Week 2** <br> 12/04/2021 - 18/04/2021 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
-| **Week 3** <br> 19/04/2021 - 25/04/2021 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
-| **Week 4** <br> 26/04/2021 - 02/05/2021 | **SLU07** - Functions: Fundamentals <br> **SLU08** - Functions: Intermediate |
-| **Week 5** <br> 03/05/2021 - 09/05/2021 | **SLU09** - OOP Basics |
-| **Week 6** <br> 10/05/2021 - 16/05/2021 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
-| **Week 7** <br> 17/05/2021 - 23/05/2021 | **SLU12** - Linear Algebra & NumPy, Part 1 |
-| **Week 8** <br> 24/05/2021 - 30/05/2021 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
-| **Week 9** <br> 31/05/2021 - 06/06/2021 | **SLU15** - Debugging <br> **SLU16** - Final Project |
-| **Week 10** <br> 07/06/2021 - 13/06/2021 | **SLU17** - Exam Prep I |
-| **Week 11** <br> 14/06/2021 - 20/06/2021 | **SLU18** - Exam Prep II |
+| **Week 0** <br> 28/03/2022 - 03/04/2022 | Setting up (Follow the instructions from [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022)) <br> **SLU00** - Jupyter Notebook |
+| **Week 1** <br> 04/04/2022 - 10/04/2022 | **SLU01** - Command Lines & Text Editor <br> **SLU02** - Programming Basics |
+| **Week 2** <br> 11/04/2022 - 17/04/2022 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
+| **Week 3** <br> 18/04/2022 - 24/04/2022 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
+| **Week 4** <br> 25/04/2022 - 01/05/2022 | **SLU07** - Functions: Fundamentals <br> **SLU08** - Functions: Intermediate |
+| **Week 5** <br> 02/05/2022 - 08/05/2022 | **SLU09** - OOP Basics |
+| **Week 6** <br> 09/05/2022 - 15/05/2022 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
+| **Week 7** <br> 16/05/2022 - 22/05/2022 | **SLU12** - Linear Algebra & NumPy, Part 1 |
+| **Week 8** <br> 23/05/2022 - 29/05/2022 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
+| **Week 9** <br> 30/05/2022 - 05/06/2022 | **SLU15** - Debugging <br> **SLU16** - Final Project |
+| **Week 10** <br> 06/06/2022 - 12/06/2022 | **SLU17** - Exam Prep I |
+| **Week 11** <br> 13/06/2022 - 20/06/2022 | **SLU18** - Exam Prep II |
 
 
 <br>
@@ -131,4 +131,4 @@ The Prep course's materials are 100% available on Github, and you can always go 
 
 ### **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
 
-All materials taught in the Prep Course is publicly available [here](https://github.com/LDSSA/ds-prep-course-2021) . We've tried our best to give very detaled instructions so that you could follow it on your own!
+All materials taught in the Prep Course is publicly available [here](https://github.com/LDSSA/ds-prep-course-2022) . We've tried our best to give very detaled instructions so that you could follow it on your own!
