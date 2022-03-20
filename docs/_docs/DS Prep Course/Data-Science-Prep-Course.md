@@ -36,7 +36,7 @@ Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix comman
 All learning units will be released on the [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022) repository and you can go through it on your own pace.
 
 ## When is the Prep Course
-The Prep Course takes place between March 28th, 2022 and June 19th, 2022.
+The Prep Course takes place between March 28th, 2022 and June 20th, 2022.
 
 ## Fees
 The Prep Course is free of charge.
