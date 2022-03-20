@@ -4,8 +4,6 @@ category: DS Prep Course
 order: 1
 ---
 
-> ## 🚧 This page is outdated. We will be updating it soon with info for Prep Course 2022.
-
 What's in this page:
 
 - [Course overview](#course-overview)
