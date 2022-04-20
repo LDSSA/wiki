@@ -13,7 +13,7 @@ Contents:
 Here is the list of positions we are looking to recruit. 
 
 | Position | Area of Responsibity | Contact Person|
-|--------|-------------|
+|--------|-------------|-------------|
 | [Community Co-Lead](https://docs.google.com/document/d/1NQt6y-EYvE_gLFTVppGGNJWUYi9_sPfpHJj2tMDo4tU/edit#)|Community | nunes@lisbondatascience.org |
 
 
