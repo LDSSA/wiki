@@ -5,15 +5,14 @@ order: 1
 ---
 
 Contents:
-- [Material structure](#materials)
-- [Areas of responsibility](#aors)
-- [Continuous improvement](#continuous-improvement)
+- [Material structure](#academy-materials)
+- [Areas of responsibility](#areas-of-responsibility)
 - [Timeline](#timeline)
-- [Key takeaways](#takeaways)
+- [Key takeaways](#key-takeaways)
 
 ---
 
-This page provides and overview of our teaching process and methodology. It is aimed at all volunteers
+This page provides an overview of our teaching process and methodology. It is aimed at all volunteers
 that are involved or are thinking of getting involved in the process of building and maintaining our materials. 
 We start by describing lightly the structure and format of our materials; then we 
 describe how the different areas of responsibility interact, and which roles they play in 
@@ -35,13 +34,12 @@ All materials are planned, built and reviewed through github. In particular all 
 are found under the [Academy GitHub](https://github.com/LDSSA/). These are the main
 repositories to check and use:
 * [curriculum-development](https://github.com/LDSSA/curriculum-development) (public): Our curriculum is reviewed and updated in this repository 
-* [batchX-instructors](https://github.com/LDSSA/batch6-instructors) (private): To prepare the materials beforehand, instructors work in this
+* `batchX-instructors` (private - last edition can be found [here](https://github.com/LDSSA/batch5-instructors)): To prepare the materials beforehand, instructors work in this
 private repository. It's in this repo that all review and discussion around specific materials 
-happens - for this purpose all feedback and suggestions should be posted as issues 
-* [batchX-students](https://github.com/LDSSA/batch5-students) (public):  Close to the deadline of the unit, we trigger a process that releases the content of 
- the instructors repository into this public repository; this is the repository students will access
+happens - for this purpose all feedback and suggestions should be posted as issues.
+* `batchX-students` (public - last edition can be found [here](https://github.com/LDSSA/batch5-students))  Close to the deadline of the unit, we trigger a process that releases the content of 
+ the instructors repository into this public repository; this is the repository students will access.
 
-Following the patterns above you can check any previous edition's or the current batch materials.
 
 # Areas of responsibility
  
@@ -70,7 +68,7 @@ There are a few different roles worth mentioning:
 | Role | Description |
 |------|-------------|
 | Admission/Bootcamp instructor | Build/improves units and delivers presentation on bootcamp weekend (admissions units are excluded from this)|
-| Specialization instructor | Build/improves specialization units/hackathon and provides support during the hackathon day |
+| Specialization instructor | Build/improves specialization units/hackathon, provides support during the weeks students are tacklign the specialization, including the hackathon day |
 | Specialization lead | Coordinates specialization and potentially participates in minor tasks, if necessary |
 | Specialization mentor | Typically a senior, provides support to other instructors developping the specialization |
 
@@ -118,7 +116,7 @@ to work. All allocation is done through our [github's main repo](https://github.
 and is the responsibility of the teaching lead and the specialization leads (within a specialization)
 to coordinate.
 
-## Leaning units development
+## Learning units development
 
 Most of the time, the curriculum won't change drastically in between batches. Actually,
 in the majority of cases there are only slight adjustments or no adjustments at all regarding
@@ -133,9 +131,9 @@ In general, the focus when improving an existing unit should be:
 and check for potential improvements - maybe something isn't fully clear or would 
 benefit from an extra example; this will also give you a chance of getting familiar
 with the unit
-* Revamp the exercise notebook: change the exercises within reasonable so they are 
+* Revamp the exercise notebook: change the exercises within reason, so they are 
 not the same as the previous batches: it is up to you if you want to design a completely
-new notebook, including the dataset and narrative, or if you want to work with the unit
+new notebook, including the dataset and narrative, or if you want to work with what the unit
 already has set up.
 
 This process can happen anytime from the moment the allocation is set until the unit is 
@@ -146,6 +144,8 @@ released but in its limit:
 unit is to be released to students
 * the instructor should be available to support students via slack asynchronously during the
 time of the specialization
+* the instructor should be available for at least one hour during the time of the specialization 
+for office hours with the students
 * the instructor should be available to support the hackathon day for the specializationn
 
 An example timeline can be seen below:
@@ -159,7 +159,7 @@ An example timeline can be seen below:
 * Everything is shared through github! 
 * There are 2 repositories with the materials: one for the instructors to develop
 and improve them; and another one for sharing the final curated version with students
-* All content is built as jupyter notebooks!
+* All units are presented as jupyter notebooks! 
 * Units are built on top of the previous batch materials
 * Several areas contribute to the improvement of materials - curriculum, student success,
 teaching and QA work closely together to refine our materials and learning experience
