@@ -1,7 +1,7 @@
 ---
 title: Notes for Academy Python requirements
 category: Instructors
-order: 4
+order: 6
 ---
 
 
