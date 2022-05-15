@@ -1,7 +1,7 @@
 ---
 title: BLU Office Hours
 category: Instructors
-order: 2
+order: 4
 ---
 
 > ⚠️ Some information in this page might be outdated.

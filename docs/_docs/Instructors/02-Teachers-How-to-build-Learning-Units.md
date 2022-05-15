@@ -1,7 +1,7 @@
 ---
 title: How to build Learning Units
 category: Instructors
-order: 1
+order: 2
 ---
 
 > ⚠️ Some information in this page might be outdated.
@@ -151,3 +151,10 @@ It would be best if you didn't, so that it's easy for:
 Building Learning Units **takes time!** You will probably take at least 8 hours to build every 1 hour of high quality learning material, so budget for it, and ensure you have a lot of time for revisions and corrections and that you send the materials to the QA Team by the agreed deadline.
 
 If you have any questions about Learning Units please [add them as issues](https://github.com/LDSSA/wiki/issues),  or bring them up in the `#Teaching` Slack channel! 
+
+
+Once the base improvements are done, the unit is shared with the QA team, which will 
+review and test the unit. This feedback helps us detect potential bugs and places for 
+improvement before the materials reach the students.
+
+<img src="../../images/unit-development-timeline.png"/>
