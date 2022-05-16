@@ -35,7 +35,7 @@ these divide into units and hackathons, with different deliverables. Each unit o
 hackathon typically has one person allocated. This is the person 
 responsible by ensuring the delivery of all materials listed here. However, there 
 may be more contributors if necessary. An example of this is typically the hackathon
-content, which most teams choose to collaborate on.
+content, which most choose to collaborate on as a team.
 
 ### Admission SLUs
 
@@ -51,7 +51,7 @@ to tackle to get admitted into the academy. They are composed of:
 
 The bootcamp SLUs are a set of small learning units that will be presented to 
 students during bootcamp. Each unit is composed of the same structure as the 
-admission SLUs and an additional presentation
+admission SLUs and an additional 15 minute presentation
 
 * 1 [Learning Notebook](#1-learning-notebook)
 * 1 [Examples Notebook](#2-examples-notebook)
@@ -130,8 +130,8 @@ This also means that your presentation does not need to make sense without a pre
 the presentation with text, and can just have images to support what you are saying. Focus on making sure the 
 presentation is intuitive, engaging, motivating, and **fun**.   
 
-The presentation should be done using Google Slides, shared in anyone can view mode. 
-Your link should be to the presentation itself, not the full screen mode, so that 
+The presentation should be done using Google Slides, shared in anyone can view mode and it 
+should not take longer than 15 minutes. Your link should be to the presentation itself, not the full screen mode, so that 
 other people can clone it and change it. The presentation should be store under the 
 academy shared drive, which you will be given access when onboarded.
 
