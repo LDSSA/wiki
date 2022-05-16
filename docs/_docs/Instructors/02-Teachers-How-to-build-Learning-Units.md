@@ -24,7 +24,7 @@ The Learning Notebook will explain the materials in high detail. This notebook s
 This will be extremely short, and look a bit like a cheatsheet of "common usage patterns". This notebook should be written by the reviewer. 
 
 #### 3. Exercise Notebook
-The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](../Using-nbgrader-for-Exercise-Notebooks)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
+The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](../03-Using-nbgrader-for-Exercise-Notebooks.md)** for details). This is where the students will try to apply the new concepts. Your exercises should be focused on making sure students
 > (1) interact with the concepts (often by simply copy-pasting some code from the Learning Notebook)  
 > (2) understand how to use the common code patterns (which they will should have in the Examples Notebook). 
 
@@ -101,7 +101,7 @@ At the end of your Learning Notebook, make a section entitled _"To learn more (O
 ## Hide peripheral support code 
 When making notebooks, it is inevitable that you will need to do a bit of extra code. This might be a few lines of pre-processing to get or make data to show the new concept (e.g. making a new DataFrame, or using `get_dummies`), or some matplotlib code to produce a good intuitive plot. 
 
-It is essential however that students be isolated from concepts that aren't the ones being taught. In other words, that they don't spend time looking at matplotlib code, because they can't tell what's core from what is peripheral. For this reason, it is best practice to use a small `utils.py` file at the top level where you hide all your code. Don't worry about making this clean or understandable, the student's shouldn't be peaking here. Here is an [example utils file](https://github.com/PedroGFonseca/preping_template_learning_unit/blob/master/SLU6_Intermediate_Statistics/utils.py), in this case for intermediate statistics. 
+It is essential however that students be isolated from concepts that aren't the ones being taught. In other words, that they don't spend time looking at matplotlib code, because they can't tell what's core from what is peripheral. For this reason, it is best practice to use a small `utils.py` file at the top level where you hide all your code. Don't worry about making this clean or understandable, the student's shouldn't be peaking here. Here is an [example utils file](https://github.com/LDSSA/batch5-instructors/blob/main/S01%20-%20Bootcamp%20and%20Binary%20Classification/SLU05%20-%20Covariance%20and%20Correlation/utils.py), in this case for intermediate statistics. 
 
 ## Data, images, and other supporting material
 
