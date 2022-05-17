@@ -28,7 +28,7 @@ This provides an interactive way of learning, as students can run code while rea
 through the explanations. 
 * Nbgrader: In the context of jupyter notebooks, we also perform evaluation through
 graded notebooks. For this purpose we use `nbgrader` (an overview of how to use it
-can be found in [Using nbgrader](../03-Using-nbgrader-for-Exercise-Notebooks.md).)
+can be found in [Using nbgrader](../03-Using-nbgrader-for-Exercise-Notebooks/)).
 
 All materials are planned, built and reviewed through github. In particular all repositories
 are found under the [Academy GitHub](https://github.com/LDSSA/). These are the main
@@ -170,4 +170,4 @@ Any relevant teaching questions or discussions should be posted as issues on our
 repo or the slack teaching channel `#teaching`.
 
 If you are interested in becoming a teacher, follow up with a deep dive on 
-[How to Build a Learning unit](../02-Teachers-How-to-build-Learning-Units).
+[How to Build a Learning unit](../02-Teachers-How-to-build-Learning-Units/).
