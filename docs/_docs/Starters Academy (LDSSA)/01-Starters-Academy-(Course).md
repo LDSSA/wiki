@@ -156,29 +156,33 @@ The _Capstone_ must be completed individually.
 
 The overal schedule and most important deadlines for batch 5 follow:
 
-| Activity |  Date/Deadline | 
-|--------|-------------|
-| Prep Work and admissions  |  June | 
-| Introduction session  |  17th July 2021 | 
-| Bootcamp   |  24th & 25th July 2021 | 
-| Bootcamp SLU deadlines  | 14th August 2021,  23h59 UTC  |
-| Hackathon 1   |  15th August 2021  | 
-| Spec 2 BLU deadlines  | 11th September 2021,  23h59 UTC  | 
-| Hackathon 2  | 12th September 2021  | 
-| Spec 3 BLU deadlines  | 9th October 2021,  23h59 UTC  | 
-| Hackathon 3  |  10th October 2021 |  
-| Spec 4  BLU deadlines  | 6th November ,  23h59 UTC  | 
-| Hackathon 4  | 7th November 2021  |  
-| Spec 5 BLU deadlines  | 4th December 2021,  23h59 UTC  |  
-| Hackathon 5  |   5th December 2021 |  
-| Spec 6 BLU deadlines  | 15th January 2022, 23h59 UTC  | 
-| Hackathon 6  |  16th January 2022 | 
-| Capstone Kick off  |  17th January 2022 |  
-| Capstone Deadline report 1 + app  |  6th February 2022, 23h59 UTC  |
-| Capstone Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
-| Capstone Graduates announced  |  31st March 2022  |
+| Activity                                                             | Date/Deadline                  |
+|----------------------------------------------------------------------|--------------------------------|
+| Prep Work and admissions   |July 2022                           |
+| Batch 6 kick off                                             | 2022-09-19                          |
+| Introduction session                                                 | 2022-09-25                 |
+| Set-up                                                             | 2022-09-26 and 2022-09-30           |
+| Bootcamp                                                             | 2022-10-01 and 2022-10-02           |
+| Bootcamp SLU deadlines                                               | 2022-10-22, 23h59 UTC    |
+| Hackathon 1                                                          | 2022-10-23              |
+| Spec 2 BLU deadlines                                                 | 2022-11-19, 23h59 UTC |
+| Hackathon 2                                                          | 2022-11-20            |
+| Spec 3 BLU deadlines                                                 | 2022-12-17, 23h59 UTC    |
+| Hackathon 3                                                          | 2022-12-18              |
+| Spec 4 BLU deadlines                                                 | 2023-02-04 , 23h59 UTC       |
+| Hackathon 4                                                          |    2023-02-05           |
+| Spec 5 BLU deadlines                                                 |  2023-03-04, 23h59 UTC   |
+| Hackathon 5                                                          |    2023-03-05           |
+| Spec 6 BLU deadlines                                                 | 2023-04-01, 23h59 UTC   |
+| Hackathon 6                                                          |   2023-04-02          |
+| Capstone Kick off                                                    |     2023-04-03         |
+| Capstone Clarification email                                       |       2023-04-09       |
+| Capstone Deadline report 1 + app                                     |  2023-04-30 , 23h59 UTC   |
+| Capstone Round of requests                                     |  2023-05-01 to 2023-05-07 |
+| Capstone Deadline report 2 + redeploy + address comments to report 1 | 2023-05-28, 23h59 UTC      |
+| Capstone Graduates announced                                         |       2023-06-19         |
 
-The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_2816k5gaulrl71urnrplhcmm9s%40group.calendar.google.com&ctz=Europe%2FLisbon)
+The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon)
  - you can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates. 
 
 

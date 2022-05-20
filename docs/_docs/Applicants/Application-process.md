@@ -74,15 +74,14 @@ or at any time during the course, I will be expelled from the Academy.
 You can check the official calendar for Batch 5 [here](https://calendar.google.com/calendar/embed?src=c_2816k5gaulrl71urnrplhcmm9s%40group.calendar.google.com&ctz=Europe%2FLisbon).
 
 
-| Activity |  Date/Deadline | 
-|--------|-------------|
-| Sign-up on the Admission Portal  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
-| Scholarship applications  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
-| Test & SLUs   |  2021-06-21 00h00 GMT+1 to 2021-07-04 23h59 GMT+1 | 
-| Candidate Selection | 2021-07-05  |
-| Payments & scholarship interviews | 2021-07-05 00h00 GMT+1 to 2021-07-11 23h59 GMT+1  |
-| Admissions closed | 2021-07-11 23h59 GMT+1  |
-| Introduction session | 2021-07-17 23h59 GMT+1  |
+| Activity                          | Date/Deadline                                    |
+|-----------------------------------|--------------------------------------------------|
+| Sign-up on the Admission Portal   | 2022-07-08 00h00 GMT+1 to 2022-07-10  23h59 GMT+1 |
+| Scholarship applications          | 2022-07-08 00h00 GMT+1 to 2022-07-10  23h59 GMT+1 |
+| Test & SLUs                       | 2022-07-11 00h00 GMT+1 to 2022-07-24 23h59 GMT+1 |
+| Candidate Selection               | 2022-07-25                                       |
+| Payments & scholarship interviews | 2022-07-26 00h00 GMT+1 to 2022-07-31 23h59 GMT+1 |
+| Admissions closed                 | 2022-08-01 23h59 GMT+1                           |
 
 If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 5th and 12th July.
 

@@ -120,15 +120,16 @@ The capstone will automatically be considered a fail if:
 
 ### Calendar
 
-Description |  Date | 
--------------|-------------|
-Kick off |  17th January 2022 | 
-Trial round of requests |  4th or 5th February 2022 |  
-Deadline report 1 and app launched |  6th February 2022, 23h59 UTC  |
-First round of requests  |  7th February 2022 at 00h01UTC to 14th February 2022 at 23h59 UTC  |
-Comments to report 1 made by instructors  |  14th February 2022 23h59 UTC  |
-Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
-Second round of requests |  7th March 2022 at 00h01UTC to 14th March 2022 at 23h59 UTC  |
-Comments to report 2 made by instructors  |  13th March 2022, 23h59 UTC  |
-Deadline address comments to report 2  |  20th March 2022, 23h59 UTC  |
-Graduates announced  |  31st March 2022  |
+| Description                                                 | Date                                                             |
+|-------------------------------------------------------------|------------------------------------------------------------------|
+| Kick off                                                    |  2023-04-03                                               |
+| Capstone Clarification email                                       |  2023-04-09       |
+| Trial round of requests                                     |          2023-04-23                               |
+| Deadline Provisory report 1 and app launched                          | 2023-04-30 , 23h59 UTC                                    |
+| First round of requests                                     | 2023-05-01 to 2023-05-07 |
+| Comments to report 1 made by instructors                    | 2023-05-07 23h59 UTC                                     |
+| Deadline report 2 + redeploy + address comments to report 1 |  2023-05-28, 23h59 UTC                                       |
+| Second round of requests                                    |   2023-05-29 to 2023-06-02     |
+| Comments to report 2 made by instructors                    | 2023-06-04 , 23h59 UTC                                       |
+| Deadline address comments to report 2                       | 2023-06-11, 23h59 UTC                                       |
+| Graduates announced                                         | 2023-06-19                                                |
