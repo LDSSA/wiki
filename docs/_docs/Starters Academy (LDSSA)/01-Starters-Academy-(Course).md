@@ -154,26 +154,26 @@ The _Capstone_ must be completed individually.
 
 ## Schedule
 
-The overal schedule and most important deadlines for batch 5 follow:
+The overal schedule and most important deadlines for batch 6 follow:
 
-| Activity                                                             | Date/Deadline                  |
-|----------------------------------------------------------------------|--------------------------------|
-| Prep Work and admissions   |July 2022                           |
+| Activity  | Date/Deadline                  |
+|---------------------------------------------------------------------|--------------------------------|
+| Prep Work and admissions |July 2022 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
 | Batch 6 kick off                                             | 2022-09-19                          |
 | Introduction session                                                 | 2022-09-25                 |
 | Set-up                                                             | 2022-09-26 and 2022-09-30           |
 | Bootcamp                                                             | 2022-10-01 and 2022-10-02           |
-| Bootcamp SLU deadlines                                               | 2022-10-22, 23h59 UTC    |
+| Bootcamp SLUs submission deadline                                               | 2022-10-22, 23h59 UTC    |
 | Hackathon 1                                                          | 2022-10-23              |
-| Spec 2 BLU deadlines                                                 | 2022-11-19, 23h59 UTC |
+| Spec 2 BLUs submission deadline                                                 | 2022-11-19, 23h59 UTC |
 | Hackathon 2                                                          | 2022-11-20            |
-| Spec 3 BLU deadlines                                                 | 2022-12-17, 23h59 UTC    |
+| Spec 3 BLUs submission deadline                                                 | 2022-12-17, 23h59 UTC    |
 | Hackathon 3                                                          | 2022-12-18              |
-| Spec 4 BLU deadlines                                                 | 2023-02-04 , 23h59 UTC       |
+| Spec 4 BLUs submission deadline                                                 | 2023-02-04 , 23h59 UTC       |
 | Hackathon 4                                                          |    2023-02-05           |
-| Spec 5 BLU deadlines                                                 |  2023-03-04, 23h59 UTC   |
+| Spec 5 BLUs submission deadline                                                 |  2023-03-04, 23h59 UTC   |
 | Hackathon 5                                                          |    2023-03-05           |
-| Spec 6 BLU deadlines                                                 | 2023-04-01, 23h59 UTC   |
+| Spec 6 BLUs submission deadline                                                 | 2023-04-01, 23h59 UTC   |
 | Hackathon 6                                                          |   2023-04-02          |
 | Capstone Kick off                                                    |     2023-04-03         |
 | Capstone Clarification email                                       |       2023-04-09       |
