@@ -51,11 +51,11 @@ we will go over the following topics:
 
 ### Bootcamp Details
 
-The _Bootcamp_ is a 2-day event, on July 24th (Saturday) and 25th (Sunday). The first hackathon is 
-three weeks after the bootcamp, and will be held on August 15th (Sunday).
+The _Bootcamp_ is a 2-day event. The first hackathon is 
+three weeks after the bootcamp.
 
 During the _Bootcamp_ the students and teachers will participate virtually in a series of 
-presentation and exercises, about 10 hours per day, and the students will go through 16 _Small 
+presentation and exercises, about 10 hours per day, and the students will go through 14 _Small 
 Learning Units_. 
 
 Even though this is a remote edition, we expect everyone to be virtually present during the full 
@@ -69,13 +69,13 @@ Academy activities.**
 ### Specializations 
 Specializations are sets of _Learning Units_ and _Hackathons_, focusing on specific themes.
 
-The first specialization consists of:
+The **first** specialization consists of:
 - 3 SLUs that are covered during the admissions process (see [here](../../Applicants/Application-process#admission-tests))
 - 14 SLUs that are covered during the Bootcamp
 - 2 optional SLUs with extra content
 - Hackathon #1 about Binary Classification
 
-Each of the remaining 5 specializations consists of:
+Each of the **remaining 5 specializations** consists of:
 - 3 BLUs
 - 1 hackathon
 
