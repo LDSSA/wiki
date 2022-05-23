@@ -290,7 +290,7 @@ development will be done on top of the previous batch.
 
 ## Instructors repository 
 
-As mentioned in the [Teaching Process](./01-Teaching-process.md), the Learning Units 
+As mentioned in the [Teaching Process](../01-Teaching-process/), the Learning Units 
 are pushed to the [Academy GitHub](https://github.com/LDSSA/), to the repository with the 
 name format `batchX-instructors`. The README in the repository contains detailed 
 instructions around the batch process's technical aspects, such as branch naming, requirement,
