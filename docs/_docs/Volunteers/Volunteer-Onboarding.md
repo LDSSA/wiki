@@ -34,7 +34,7 @@ Make sure you check all items on the checklist below before anything else. If yo
    5. ⬜️ Subscribe to these Google calendars (after logging in with your new staff account):
       - [LDSSA Instructors Calendar](https://calendar.google.com/calendar/embed?src=c_oqhjbe9r3cv5kqkotkes373dog%40group.calendar.google.com&ctz=Europe%2FLisbon) -- our internal deadlines;
       - **(optional)** [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon);
-      - LDSSA Batch #5 (to be created) -- general deadlines visible to students.
+      - [LDSSA Batch #6](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon) -- general deadlines visible to students.
 
       **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="../../images/add_calendar_icon.png" width="12%"/> at the right-bottom of each calendar's webpage.
 
