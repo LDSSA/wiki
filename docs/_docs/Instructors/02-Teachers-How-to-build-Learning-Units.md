@@ -17,7 +17,7 @@ Contents:
   - [Bootcamp Presentation](#4-presentation-bootcamp-only)
   - [Hackathon problem](#5-hackathon-problem-statement-and-dataset)
   - [Hackathon Evaluation Guidelines](#6-hackathon-evaluation-guidelines)
-  - [Hackathon Baseline Solkution](#7-hackathon-instructor-baseline-solution)
+  - [Hackathon Baseline Solution](#7-hackathon-instructor-baseline-solution)
 - [Development process](#development-process)
 
 ---
@@ -303,7 +303,7 @@ improvement before the materials reach the students.
 Recommended process whe adding units:
 
 1. Open an issue and an associated PR to indicate the unit is being tracked and developed
-2. Carefully read the scope of your learning unit in the Curriculum repo, and think about what the students should be able to do after they have finished  
+2. Carefully read the scope of your learning unit in the [Curriculum repo](https://github.com/LDSSA/curriculum-development), and think about what the students should be able to do after they have finished  
 3. Go through the learning notebooks and check for anything that needs improvements
 4. Google around and see how other people teach the concepts. 
 5. Submit the Learning Notebook and Example Notebook's improvements  to your PR
