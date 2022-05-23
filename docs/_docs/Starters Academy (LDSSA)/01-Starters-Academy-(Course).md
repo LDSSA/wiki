@@ -51,11 +51,11 @@ we will go over the following topics:
 
 ### Bootcamp Details
 
-The _Bootcamp_ is a 2-day event, on July 24th (Saturday) and 25th (Sunday). The first hackathon is 
-three weeks after the bootcamp, and will be held on August 15th (Sunday).
+The _Bootcamp_ is a 2-day event. The first hackathon is 
+three weeks after the bootcamp.
 
 During the _Bootcamp_ the students and teachers will participate virtually in a series of 
-presentation and exercises, about 10 hours per day, and the students will go through 16 _Small 
+presentation and exercises, about 10 hours per day, and the students will go through 14 _Small 
 Learning Units_. 
 
 Even though this is a remote edition, we expect everyone to be virtually present during the full 
@@ -69,13 +69,13 @@ Academy activities.**
 ### Specializations 
 Specializations are sets of _Learning Units_ and _Hackathons_, focusing on specific themes.
 
-The first specialization consists of:
+The **first** specialization consists of:
 - 3 SLUs that are covered during the admissions process (see [here](../../Applicants/Application-process#admission-tests))
 - 14 SLUs that are covered during the Bootcamp
 - 2 optional SLUs with extra content
 - Hackathon #1 about Binary Classification
 
-Each of the remaining 5 specializations consists of:
+Each of the **remaining 5 specializations** consists of:
 - 3 BLUs
 - 1 hackathon
 
@@ -154,31 +154,35 @@ The _Capstone_ must be completed individually.
 
 ## Schedule
 
-The overal schedule and most important deadlines for batch 5 follow:
+The overal schedule and most important deadlines for batch 6 follow:
 
-| Activity |  Date/Deadline | 
-|--------|-------------|
-| Prep Work and admissions  |  June | 
-| Introduction session  |  17th July 2021 | 
-| Bootcamp   |  24th & 25th July 2021 | 
-| Bootcamp SLU deadlines  | 14th August 2021,  23h59 UTC  |
-| Hackathon 1   |  15th August 2021  | 
-| Spec 2 BLU deadlines  | 11th September 2021,  23h59 UTC  | 
-| Hackathon 2  | 12th September 2021  | 
-| Spec 3 BLU deadlines  | 9th October 2021,  23h59 UTC  | 
-| Hackathon 3  |  10th October 2021 |  
-| Spec 4  BLU deadlines  | 6th November ,  23h59 UTC  | 
-| Hackathon 4  | 7th November 2021  |  
-| Spec 5 BLU deadlines  | 4th December 2021,  23h59 UTC  |  
-| Hackathon 5  |   5th December 2021 |  
-| Spec 6 BLU deadlines  | 15th January 2022, 23h59 UTC  | 
-| Hackathon 6  |  16th January 2022 | 
-| Capstone Kick off  |  17th January 2022 |  
-| Capstone Deadline report 1 + app  |  6th February 2022, 23h59 UTC  |
-| Capstone Deadline report 2 + redeploy + address comments to report 1 |  6th March 2022, 23h59 UTC  |
-| Capstone Graduates announced  |  31st March 2022  |
+| Activity  | Date/Deadline                  |
+|---------------------------------------------------------------------|--------------------------------|
+| Prep Work and admissions |July 2022 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
+| Batch 6 kick off                                             | 2022-09-19                          |
+| Introduction session                                                 | 2022-09-25                 |
+| Set-up                                                             | 2022-09-26 and 2022-09-30           |
+| Bootcamp                                                             | 2022-10-01 and 2022-10-02           |
+| Bootcamp SLUs submission deadline                                               | 2022-10-22, 23h59 UTC    |
+| Hackathon 1                                                          | 2022-10-23              |
+| Spec 2 BLUs submission deadline                                                 | 2022-11-19, 23h59 UTC |
+| Hackathon 2                                                          | 2022-11-20            |
+| Spec 3 BLUs submission deadline                                                 | 2022-12-17, 23h59 UTC    |
+| Hackathon 3                                                          | 2022-12-18              |
+| Spec 4 BLUs submission deadline                                                 | 2023-02-04 , 23h59 UTC       |
+| Hackathon 4                                                          |    2023-02-05           |
+| Spec 5 BLUs submission deadline                                                 |  2023-03-04, 23h59 UTC   |
+| Hackathon 5                                                          |    2023-03-05           |
+| Spec 6 BLUs submission deadline                                                 | 2023-04-01, 23h59 UTC   |
+| Hackathon 6                                                          |   2023-04-02          |
+| Capstone Kick off                                                    |     2023-04-03         |
+| Capstone Clarification email                                       |       2023-04-09       |
+| Capstone Deadline report 1 + app                                     |  2023-04-30 , 23h59 UTC   |
+| Capstone Round of requests                                     |  2023-05-01 to 2023-05-07 |
+| Capstone Deadline report 2 + redeploy + address comments to report 1 | 2023-05-28, 23h59 UTC      |
+| Capstone Graduates announced                                         |       2023-06-19         |
 
-The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_2816k5gaulrl71urnrplhcmm9s%40group.calendar.google.com&ctz=Europe%2FLisbon)
+The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon)
  - you can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates. 
 
 

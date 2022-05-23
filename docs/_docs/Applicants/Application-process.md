@@ -39,8 +39,8 @@ You can read more about it [here](https://github.com/LDSSA/forum/issues/1).
 
 All the candidates of the Starters Academy are expected to read, acknowledge and follow: 
 
-* Our [**Code of Conduct**](../../About us/Code-of-Conduct#application-to-the-academy);
-* Our [**Refund Policy**](../../Starters Academy (LDSSA)/07-Refund-Policy)
+* Our [**Code of Conduct**](https://ldssa.github.io/wiki/About%20us/Code-of-Conduct/);
+* Our [**Refund Policy**](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/07-Refund-Policy/)
 * The time commitment described below
 
 This is one of the first steps in the admissions process.
@@ -71,35 +71,34 @@ or at any time during the course, I will be expelled from the Academy.
 
 ## Application steps and important dates
 
-You can check the official calendar for Batch 5 [here](https://calendar.google.com/calendar/embed?src=c_2816k5gaulrl71urnrplhcmm9s%40group.calendar.google.com&ctz=Europe%2FLisbon).
+You can check the official calendar for Batch 6 [here](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon).
 
 
-| Activity |  Date/Deadline | 
-|--------|-------------|
-| Sign-up on the Admission Portal  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
-| Scholarship applications  |  2021-06-18 00h00 GMT+1 to 2021-06-20 23h59 GMT+1 | 
-| Test & SLUs   |  2021-06-21 00h00 GMT+1 to 2021-07-04 23h59 GMT+1 | 
-| Candidate Selection | 2021-07-05  |
-| Payments & scholarship interviews | 2021-07-05 00h00 GMT+1 to 2021-07-11 23h59 GMT+1  |
-| Admissions closed | 2021-07-11 23h59 GMT+1  |
-| Introduction session | 2021-07-17 23h59 GMT+1  |
+| Activity                          | Date/Deadline                                    |
+|-----------------------------------|--------------------------------------------------|
+| Sign-up on the Admission Portal   | 2022-07-08 00h00 GMT+1 to 2022-07-10  23h59 GMT+1 |
+| Scholarship applications          | 2022-07-08 00h00 GMT+1 to 2022-07-10  23h59 GMT+1 |
+| Test & SLUs                       | 2022-07-11 00h00 GMT+1 to 2022-07-24 23h59 GMT+1 |
+| Candidate Selection               | 2022-07-25                                       |
+| Payments & scholarship interviews | 2022-07-26 00h00 GMT+1 to 2022-07-31 23h59 GMT+1 |
+| Admissions closed                 | 2022-08-01 23h59 GMT+1                           |
 
-If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 5th and 12th July.
+If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 25th of July and 5th of August.
 
 
 ### Admission tests
 
-The coding test should take less than 3 hours to complete. You can do the test any time between 2020-06-21 and 
-2020-07-04, but once you start it you have to complete it within 3 hours (pausing it is not available). So, 
+The coding test should take less than 3 hours to complete. You can do the test any time between 2022-07-11 and 
+2022-07-24, but once you start it you have to complete it within 3 hours (pausing it is not available). So, 
 make sure that you block 3 hours of your time to work on this test.
 
 The Leaning Units about pandas will have two parts: learning and exercises. In the learning part, you'll learn 
 new concepts. In the exercises, we'll evaluate if you understood these new concepts. Only the exercises need to 
 be submitted and will be graded. There are no time constraints for the Learning Units: you can start them at any 
-time after 2020-06-21 and you can make pauses while working on them, as long as you submit them before 2020-07-04.
+time after 2022-07-11 and you can make pauses while working on them, as long as you submit them before 2022-07-24.
 
 The dates when you submit the coding test and the Learning Units don't have any influence on the selection 
-process, as long as it's before 2020-07-04. Finishing earlier doesn't give you any advantage, so take your time!
+process, as long as it's before 2022-07-24. Finishing earlier doesn't give you any advantage, so take your time!
 
 These are the main topics that will be evaluated on the coding test:
 - Programming in Python
@@ -127,7 +126,7 @@ not paid on time, we'll reject the candidate and give their seat to the next can
 
 This year, because of the Covid-19 crisis, we've kept the lowered fees from 2020/2021.
 
-For the 2021/2022 Starters Academy, the fees will be:
+For the 2022/2023 Starters Academy, the fees will be:
 
 - Student: 100€ (You'll need to present a valid student card at payment time)
 - Regular: 250€
@@ -164,7 +163,7 @@ This scheme illustrates the admissions process.
 ***
 
 
-_This is admissions process that will be followed in order to select the students for batch5 of the Lisbon 
+_This is admissions process that will be followed in order to select the students for batch 6 of the Lisbon 
 Data Science Starters Academy._
 
 _However, we reserve the right to make changes to this process in case of unforeseen events that harm our 
