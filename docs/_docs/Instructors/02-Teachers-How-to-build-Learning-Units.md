@@ -130,7 +130,7 @@ Expected time investment:
 
 ### 3. Exercise Notebook
 
-The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](../Using-nbgrader-for-Exercise-Notebooks)** 
+The exercise notebook is a sequence of exercises with auto-grading (see **[how to use nbgrader](https://ldssa.github.io/wiki/Instructors/03-Using-nbgrader-for-Exercise-Notebooks/)** 
 for details). This is where the students will try to apply the new concepts. 
 Your exercises should be focused on making sure students
 
