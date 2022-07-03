@@ -127,10 +127,19 @@ Hackathons consist of:
 1. A presentations stage, where each team must present their methodology 
 1. A leaderboard for students to know where they stand in the rankings
 
-There are 6 hackathons in total and they are held on selected Sundays throughout the academy
+There are 6 hackathons in total, held on selected Sundays throughout the academy. To attend
+the hackathon of a specialization you must deliver all units of that module until the deadline - 23h59 (Lisbon time) 
+of the day before the hackathon. This ensures all teams and their members have the minimum 
+knowledge required to participate. If you do not do this, you loose the access to the hackathon day. 
+However, you may be eligible to deliver it late (see [Late delivery](#late-delivery))
 
+At the end of every hackathon, we share some tips and a baseline solution provided by instructors.
+This solution is not meant to be the top-performing solution as per the score. Instead, it is meant to be
+a set of baseline steps and techniques that make sense in the context of the taught materials, and as such, 
+that would have led to at least a good performance. The baseline solution is released on the day
+after the hackathon so students can study it and iterate on it on their own pace.
 
-#### Overal structure
+#### Example structure
 - 8h30 - Session open for students to join
 - 9h00 - Hackathon Prompt, Team Assignment
 - 9h30 - Start hacking!
@@ -152,9 +161,54 @@ The _Capstone_ is the final project, where students will put everything they've 
 The _Capstone_ must be completed individually.
 
 
+## Late delivery
+
+The capstone, Bootcamp days and Hackathon #1 are strictly mandatory and have hard deadlines. The 
+remaining specializations are slightly more flexible. As described [Final Certificate](#final-certificate), you can miss at most one specialization, and you can deliver at most one specialization
+late. Late deliveries offer a small extension to the deadline of a specialization. They provide 
+a second chance in case you fall behind or find yourself unable to attend a hackathon for other
+reasons.
+
+In a late delivery we extend the original deadline by 2 weeks. For example, if 
+a specialization ends with the hackathon on the 11th of August, the normal deadline for the units
+would be August 10th, 23h59. However, if you missed the hackathon/units and decide to deliver late, 
+you can now deliver all the evaluation elements - units and the hackathon - until August 24th, 23h59. 
+To complete the late delivery you must do the following:
+- Submit the units with passing grade to portal until the new deadline
+- Send the code you did for the hackathon work until the new deadline
+- Send the presentation (or presentation link) for the hackathon until the new deadline
+- Show up to present on a defined date, which will be available on the calendar
+
+As covered in [Hackathons](#hackathons) we share a baseline solution at the end of every 
+hackathon, and release it on the repository the next day. We trust that students will not
+copy these steps on their late delivery. If it is detected that a late delivery is just 
+a copy of the baseline, that is considered a violation of our  [code of conduct](../../About us/Code-of-Conduct) 
+and it will be automatically considered failed.
+
+
+## Final Certificate
+
+We think that the most important thing you'll take out of the Academy will be the things you'll learn and the people 
+you'll meet. But we recognize that a lot of people value a certificate stating that they've participated and completed
+the course. So, we emit a Data Science Resume representing the student's degree of completion of the Academy.
+
+This resume will list all the Starters Academy's specializations, explain what it means to pass 
+each specialization, and show the grades that you've achieved in each of them. If you 
+miss a specialization, you'll score 0 (zero) on that specialization, and this will be 
+shown in your resume. Late deliveries are shown in the same way as normal ones. 
+
+You'll only be issued a Data Science Resume if:
+* You attended the Bootcamp and Hackathon#1
+* You deliver and pass the capstone report
+* You missed 0 or 1 of the remaining specializations
+* You delivered 0 or 1 of the remaining specializations late 
+
+ Certificates have an expected issuing time from 1 to 3 months from the end of the academy.
+ 
+
 ## Schedule
 
-The overal schedule and most important deadlines for batch 6 follow:
+The overall schedule and most important deadlines for batch 6 follow:
 
 | Activity  | Date/Deadline                  |
 |---------------------------------------------------------------------|--------------------------------|
@@ -184,27 +238,4 @@ The overal schedule and most important deadlines for batch 6 follow:
 
 The master schedule google calendar is [here](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon)
  - you can add this calendar to most calendar apps so that you can be sure that you stay aware of all the important dates. 
-
-
-## Final Certificate
-
-We think that the most important thing you'll take out of the Academy will be the things you'll learn and the people 
-you'll meet. But we recognize that a lot of people value a certificate stating that they've participated and completed
-the course. So, we emit a Data Science Resume representing the student's degree of completion of the Academy.
-
-This resume will list all the Starters Academy's specializations, explain what it means to pass 
-each specialization, and show the grades that you've achieved in each of them. If you 
-miss a specialization, you'll score 0 (zero) on that specialization, and this will be 
-shown in your resume. You'll only be issued a Data Science Resume in case you miss one
- or zero specializations, except for the Bootcamp + Hackathon#1.
-
-The capstone, Bootcamp days and Hackathon #1 cannot be missed or delivered late. 
-If you can't attend one of the remaining specializations you're allowed to deliver 
-all the evaluation elements for that specialization (BLUs + hackathon) until the 
-end of the following month, and it won't count as a missed specialization for the
- resume. For example, if a specialization ends with the hackathon on the 20th of August, 
- the normal deadline would be August 19th, 23h59. However, if you can not fulfill this 
- and miss the hackathon, you can deliver all materials and the hackathon on September 30th, 23h59, 
- after which a date will be set for your presentation.
  
- Certificates have an expected issuing time from 1 to 3 months from the end of the academy.
