@@ -73,6 +73,7 @@ or at any time during the course, I will be expelled from the Academy.
 
 You can check the official calendar for Batch 6 [here](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon).
 
+### Wave 1
 
 | Activity                          | Date/Deadline                                    |
 |-----------------------------------|--------------------------------------------------|
@@ -85,6 +86,19 @@ You can check the official calendar for Batch 6 [here](https://calendar.google.c
 
 If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 25th of July and 5th of August.
 
+### Wave 2
+
+
+| Activity                          | Date/Deadline                                    |
+|-----------------------------------|--------------------------------------------------|
+| Sign-up on the Admission Portal   | 2022-08-03 00h00 GMT+1 to 2022-08-07  23h59 GMT+1 |
+| Scholarship applications          | 2022-08-03 00h00 GMT+1 to 2022-08-07  23h59 GMT+1 |
+| Test & SLUs                       | 2022-08-08 00h00 GMT+1 to 2022-08-21 23h59 GMT+1 |
+| Candidate Selection               | 2022-08-22                                       |
+| Payments & scholarship interviews | 2022-08-23 00h00 GMT+1 to 2022-08-28 23h59 GMT+1 |
+| Admissions closed                 | 2022-08-29 23h59 GMT+1                           |
+
+If you complete the signup in the portal and confirm your email address, you'll always receive an email with the outcome of your application. This email should be sent between the 22nd and 30th of August.
 
 ### Admission tests
 
