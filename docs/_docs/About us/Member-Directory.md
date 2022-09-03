@@ -232,7 +232,7 @@ Ana Cruz
 Bruno Goncalves
 Caitlin Hulse
 Cora Dutsch
-Daniel Bettencourt neves
+Daniel Bettencourt Neves
 Francisco Carvalho
 Inês Dias Marques
 José Gustavo Elias Rebelo
