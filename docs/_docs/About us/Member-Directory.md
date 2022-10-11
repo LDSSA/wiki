@@ -221,25 +221,25 @@ Instructor.
 
 #### Batch 5 (2021/22)
 
-Ana Milas
-Ana Cruz
-Bruno Goncalves
-Caitlin Hulse
-Cora Dutsch
-Daniel Bettencourt neves
-Francisco Carvalho
-Inês Dias Marques
-José Gustavo Elias Rebelo
-João Gomes
-João Fidalgo da Silva
-João Santana
-Maria Castro
-Mariana Henriques
-Pedro Gomes
-Rafael Gil
-Tiago Sousa
-Tiago Goncalves
-Yash Girish Pandya
+Ana Milas   
+Ana Cruz  
+Bruno Goncalves  
+Caitlin Hulse  
+Cora Dutsch  
+Daniel Bettencourt neves  
+Francisco Carvalho  
+Inês Dias Marques  
+José Gustavo Elias Rebelo  
+João Gomes  
+João Fidalgo da Silva  
+João Santana  
+Maria Castro  
+Mariana Henriques  
+Pedro Gomes  
+Rafael Gil  
+Tiago Sousa  
+Tiago Goncalves  
+Yash Girish Pandya  
 
 
 #### Batch 4 (2020/21)
