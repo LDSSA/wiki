@@ -310,12 +310,126 @@ Wilson David Ferreira Ramos
 
 ## Students
 
-#### Batch 5 (2021)
+#### Batch 6 (2022)
 
-> 🚧 This section is under construction.
+Agustin Sagastizabal  
+Ahmed Emad Abdelatty  
+Shehab Mohamed  
+Ana Costa  
+António José da Silva Dias  
+Marta Marques  
+Carlos Eduardo Santos Almeida  
+Mohamed sameh chaouch  
+Daryna Piontkivska  
+David Manta  
+Diocleciano Videira  
+Duarte Correia  
+Fabien Guegan  
+Filipa Faria  
+Filipe Mendonça  
+Francisco Domingos Martins Oliveira  
+Luís Gonçalves Silva  
+Beatriz Guerner  
+Houcine Ben Guedria  
+João Franco  
+João  
+João von Gilsa Lopes  
+Joaquim Falcão  
+Johannes  
+Ekaterina Samorodova  
+Mafalda Ferreira  
+Jonatas Augusto Manzolli  
+Marc Schotman  
+Mário Pulquério  
+Mário Prada  
+Martim Quintas e Sousa  
+Mohamed Gaber  
+Momen Ahmed  
+Nuno Pratas  
+Nuno Soares  
+Begum  
+Orkhan Gasimov  
+Paulo Jorge Dias do Couto  
+Pedro Coelho Ramalho  
+Pedro Sena  
+Pedro Morbey  
+José Ricardo Ribeiro  
+Pedro Oliveira  
+Ricardo Vieira da Silva  
+Ruben Belchior  
+Samayra Straal  
+Sebastião Caldas  
+Sofia Ferreira  
+Sergey Sychev  
+Tatiana Tenuta  
+Tomás Jordão  
+Vasco  
+José Miguel Mendes da Fonseca Coutinho  
+Carlos Regis  
 
 
 ## Alumni
+
+#### Batch 5 (2021)
+
+Alex Diz  
+Ana Milas  
+Ana Neves Vieira da Silva  
+Ana Cruz  
+Andoni Santos  
+Andreia Martins de Almeida Verdade  
+Bertrand Martinez  
+Bruno Goncalves  
+Catarina Félix  
+Caitlin Hulse  
+Catarina G Ferreira  
+Carlos Eduardo Santos Almeida  
+pedro condeço  
+Cora Dutsch  
+Daniel Bettencourt neves  
+Diana BALTRUSAITIS ABREU  
+Diogo Queirós  
+Farhad Mani  
+Francisco Carvalho  
+Gonçalo Mendes  
+Albert Hon  
+Inês Dias Marques  
+José Gustavo Elias Rebelo  
+João Silva  
+João Gomes  
+João Mendonça  
+João Santana  
+João Fidalgo da Silva  
+João Diogo Andrade Gomes  
+José Miguel Fonseca Santos  
+João Vasco Pinto Pereira da Silva  
+Mafalda Ferreira  
+Maria Castro  
+Mariana Henriques  
+Miguel Dias  
+Miguel Pires  
+Sai Pravallika Myneni  
+Nuno Bragança  
+Pedro Gomes  
+Pedro Vicente  
+Pedro Nóbrega da Costa  
+José Ricardo Ribeiro  
+Kim Pronk  
+Vaissie  
+Rafael Gil  
+Rafael Soromenho  
+Ralph Payne  
+Ricardo Reis  
+Manuel Ricardo Mendes Pereira da Silva  
+Sarah Crowley  
+Ana Sofia Freitas Ferreira Lage  
+Tiago Timoteo de Souza Leite  
+Tiago da Cunha Ferrão  
+Tiago  
+Tiago Sousa  
+Tiago Gonçalves  
+Tomás Eiró  
+Yash Girish Pandya  
 
 #### Batch 4 (2020)
 
