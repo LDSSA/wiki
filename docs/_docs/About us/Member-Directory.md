@@ -53,10 +53,10 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 |[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [**Miguel Dias**](#miguel-dias) |
 |[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| [**Ana Rita Carvalho**](#ana-rita-carvalho) |
 |[Finance](../LDSA-Areas-of-Responsibility/#finance)| [**Maria Dominguez (Chi)**](#maria-dominguez-chi) |
-|Jobs| [**Telmo Felgueira**](#telmo-felgueira)|
+|[Jobs](../LDSA-Areas-of-Responsibility/#jobs)| [**Telmo Felgueira**](#telmo-felgueira)|
 |Admissions| [**Fábio Cruz**](#fabio-cruz) |
-|Documentation| [**Juliana Rodrigues**](#juliana-rodrigues) |
-|Volunteers| [Gustavo Fonseca](#gustavo-fonseca)|
+|[Documentation](../LDSA-Areas-of-Responsibility/#documentation)| [**Juliana Rodrigues**](#juliana-rodrigues) |
+|[Volunteers](../LDSA-Areas-of-Responsibility/#volunteers)| [Gustavo Fonseca](#gustavo-fonseca)|
 
 #### Prep Course
 
