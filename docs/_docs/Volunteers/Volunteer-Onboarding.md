@@ -32,9 +32,15 @@ Make sure you check all items on the checklist below before anything else. If yo
    4. ⬜️ Fill up the [Volunteer Onboarding Form](https://forms.gle/WgFX8fgxYLB3vCRDA)
 
    5. ⬜️ Subscribe to these Google calendars (after logging in with your new staff account):
-      - [LDSSA Instructors Calendar](https://calendar.google.com/calendar/embed?src=c_oqhjbe9r3cv5kqkotkes373dog%40group.calendar.google.com&ctz=Europe%2FLisbon) -- our internal deadlines;
-      - **(optional)** [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon);
-      - [LDSSA Batch #6](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon) -- general deadlines visible to students.
+   
+      **Internal calendars (only visible for volunteers)**
+        - ⬜️ [LDSSA Instructors Calendar](https://calendar.google.com/calendar/embed?src=c_oqhjbe9r3cv5kqkotkes373dog%40group.calendar.google.com&ctz=Europe%2FLisbon): this private calendar is not visible to students; it is where you will be invited or invite other volunteers for internal events that are staff-only, as well as add internal deadlines. This calendar is not edition nor batch-specific. It is an internal, persistent calendar for the volunteers;
+      - **(optional)** [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon): also an internal calendar for volunteers, for birthdays only (optional);
+      - ⬜️ [DS Prep Course 2022 - Staff](https://calendar.google.com/calendar/u/0?cid=Y181ZjIxY2wzdXF1aDRwbzFxbG1ia3RsYWFib0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t): private calendar for internal events and deadlines of volunteers fom the Prep Course 2022. You only need to add this calendar if you're contributing as a volunteer in the Prep Course.
+
+      **Public calendars (students+volunteers)**
+      - ⬜️ [LDSSA Batch #6](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon) -- general deadlines and events visible both to students and instructors. This is generally a public link calendar so anyone with the link will be able to access it and see our events. Each batch has its own calendar, usually named `LDSSA Batch #<batch_number>`;
+      - ⬜️ [DS Prep Course 2022](https://calendar.google.com/calendar/u/0?cid=Y19xdGhhZ2lmbmF0Z251cjc5bWxlbmw4cGtmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- public calendar for events for students and volunteers of the Prep Course 2022. This is where you would create, e.g., a social hour with the students of the Prep Course 2022.
 
       **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="../../images/add_calendar_icon.png" width="12%"/> at the right-bottom of each calendar's webpage.
 
