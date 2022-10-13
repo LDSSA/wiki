@@ -56,6 +56,7 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 |Jobs| [**Telmo Felgueira**](#telmo-felgueira)|
 |Admissions| [**Fábio Cruz**](#fabio-cruz) |
 |Documentation| [**Juliana Rodrigues**](#juliana-rodrigues) |
+|Volunteers| [Gustavo Fonseca](#gustavo-fonseca)|
 
 #### Prep Course
 
@@ -146,6 +147,11 @@ _IT Manager (Projects and Structures) @ ASPPA_
 Primary Enabler of **Prep Course Quality Assurance**.
 [LinkedIn](https://www.linkedin.com/in/carlacotas/)
 
+##### Gustavo Fonseca
+_Data Scientist & Data Engineer @ DareData Engineering_
+Primary Enabler of **Volunteers**.
+[LinkedIn](https://www.linkedin.com/in/gustavo-fonseca94/)
+
 ### Instructors
 
 #### LDSSA Instructors
@@ -226,30 +232,27 @@ Primary Enabler of **Prep Course Quality Assurance**.
 ## Graduates
 
 #### Batch 5 (2021/22)
-
-Ana Milas
-Ana Cruz
-Bruno Goncalves
-Caitlin Hulse
-Cora Dutsch
-Daniel Bettencourt Neves
-Francisco Carvalho
-Inês Dias Marques
-José Gustavo Elias Rebelo
-João Gomes
-João Fidalgo da Silva
-João Santana
-Maria Castro
-Mariana Henriques
-Pedro Gomes
-Rafael Gil
-Tiago Sousa
-Tiago Goncalves
-Yash Girish Pandya
-
+Ana Milas   
+Ana Cruz  
+Bruno Goncalves  
+Caitlin Hulse  
+Cora Dutsch  
+Daniel Bettencourt neves  
+Francisco Carvalho  
+Inês Dias Marques  
+José Gustavo Elias Rebelo  
+João Gomes  
+João Fidalgo da Silva  
+João Santana  
+Maria Castro  
+Mariana Henriques  
+Pedro Gomes  
+Rafael Gil  
+Tiago Sousa  
+Tiago Goncalves  
+Yash Girish Pandya  
 
 #### Batch 4 (2020/21)
-
 Ana Cerqueira  
 Ana Guedes  
 Andrés Mangas  
@@ -280,9 +283,7 @@ Rui André
 Sofia Ganilha  
 Tiago Fernandes  
 
-
 #### Batch 3 (2019/20)
-
 Alba Aparicio Duran  
 Almut Pohl  
 Ana Rita Gonçalves Sousa  
@@ -317,70 +318,122 @@ Wilson David Ferreira Ramos
 ## Students
 
 #### Batch 6 (2022)
-
-> 🚧 This section is under construction.
+Agustin Sagastizabal  
+Ahmed Emad Abdelatty  
+Shehab Mohamed  
+Ana Costa  
+António José da Silva Dias  
+Marta Marques  
+Carlos Eduardo Santos Almeida  
+Mohamed sameh chaouch  
+Daryna Piontkivska  
+David Manta  
+Diocleciano Videira  
+Duarte Correia  
+Fabien Guegan  
+Filipa Faria  
+Filipe Mendonça  
+Francisco Domingos Martins Oliveira  
+Luís Gonçalves Silva  
+Beatriz Guerner  
+Houcine Ben Guedria  
+João Franco  
+João  
+João von Gilsa Lopes  
+Joaquim Falcão  
+Johannes  
+Ekaterina Samorodova  
+Mafalda Ferreira  
+Jonatas Augusto Manzolli  
+Marc Schotman  
+Mário Pulquério  
+Mário Prada  
+Martim Quintas e Sousa  
+Mohamed Gaber  
+Momen Ahmed  
+Nuno Pratas  
+Nuno Soares  
+Begum  
+Orkhan Gasimov  
+Paulo Jorge Dias do Couto  
+Pedro Coelho Ramalho  
+Pedro Sena  
+Pedro Morbey  
+José Ricardo Ribeiro  
+Pedro Oliveira  
+Ricardo Vieira da Silva  
+Ruben Belchior  
+Samayra Straal  
+Sebastião Caldas  
+Sofia Ferreira  
+Sergey Sychev  
+Tatiana Tenuta  
+Tomás Jordão  
+Vasco  
+José Miguel Mendes da Fonseca Coutinho  
+Carlos Regis  
 
 ## Alumni
 
 #### Batch 5 (2021)
-Andreia Martins de Almeida Verdade
-Tiago Goncalves
-Sarah Crowley
-Francisco Paupério
-Bertrand Martinez
-Kim Pronk
-pedro condeço
-Pedro Nóbrega da Costa
-Caitlin Hulse
-Diogo Queirós
-Tiago Timoteo de Souza Leite
-Ana Sofia Freitas Ferreira Lage
-Ana Neves Vieira da Silva
-Maria Castro
-Catarina Félix
-João Gomes
-Ana Cruz
-Bruno Goncalves
-Nuno Bragança
-Quentin Vaissie
-Mariana Henriques
-Tomás Eiró
-Farhad Mani
-José Miguel Fonseca Santos
-Yash Girish Pandya
-Ralph Payne
-Manuel Ricardo Mendes Pereira da Silva
-Rui Soromenho
-Albert Hon
-Ricardo Reis
-João Fidalgo da Silva
-Rafael Gil
-Ana Milas
-Daniel Bettencourt neves
-Tiago Neto
-Miguel Pires
-Alex Diz
-Roman Pylypchuk
-Tiago Sousa
-José Gustavo Elias Rebelo
-Tiago Azevedo
-João Silva
-Diana BALTRUSAITIS ABREU
-Andoni Santos
-Cora Dutsch
-Sai Pravallika Myneni
-Tiago da Cunha Ferrão
-Pedro Gomes
-Francisco Carvalho
-Inês Dias Marques
-João Diogo Andrade Gomes
-Catarina G Ferreira
-Pedro Vicente
-Rafael Soromenho
-João Mendonça
-João Vasco Pinto Pereira da Silva
-João Santana
-Gonçalo Mendes
+Alex Diz  
+Ana Milas  
+Ana Neves Vieira da Silva  
+Ana Cruz  
+Andoni Santos  
+Andreia Martins de Almeida Verdade  
+Bertrand Martinez  
+Bruno Goncalves  
+Catarina Félix  
+Caitlin Hulse  
+Catarina G Ferreira  
+Carlos Eduardo Santos Almeida  
+pedro condeço  
+Cora Dutsch  
+Daniel Bettencourt neves  
+Diana BALTRUSAITIS ABREU  
+Diogo Queirós  
+Farhad Mani  
+Francisco Carvalho  
+Gonçalo Mendes  
+Albert Hon  
+Inês Dias Marques  
+José Gustavo Elias Rebelo  
+João Silva  
+João Gomes  
+João Mendonça  
+João Santana  
+João Fidalgo da Silva  
+João Diogo Andrade Gomes  
+José Miguel Fonseca Santos  
+João Vasco Pinto Pereira da Silva  
+Mafalda Ferreira  
+Maria Castro  
+Mariana Henriques  
+Miguel Dias  
+Miguel Pires  
+Sai Pravallika Myneni  
+Nuno Bragança  
+Pedro Gomes  
+Pedro Vicente  
+Pedro Nóbrega da Costa  
+José Ricardo Ribeiro  
+Kim Pronk  
+Vaissie  
+Rafael Gil  
+Rafael Soromenho  
+Ralph Payne  
+Ricardo Reis  
+Manuel Ricardo Mendes Pereira da Silva  
+Sarah Crowley  
+Ana Sofia Freitas Ferreira Lage  
+Tiago Timoteo de Souza Leite  
+Tiago da Cunha Ferrão  
+Tiago  
+Tiago Sousa  
+Tiago Gonçalves  
+Tomás Eiró  
+Yash Girish Pandya  
 
 #### Batch 4 (2020)
 Ana Cerqueira  
