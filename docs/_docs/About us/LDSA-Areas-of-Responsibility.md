@@ -26,6 +26,9 @@ The comprehensive list of AORs (Areas of Responsibility) is:
 - [Partnerships](#partnerships)
 - [Quality Assurance](#quality-assurance)
 - [Student Success](#student-success)
+- [Jobs](#jobs)
+- [Volunteers](#volunteers)
+- [Admissions](#admissions)
 
 
 # Purpose of AORs
@@ -184,6 +187,17 @@ Some specific tasks are:
 - Gathering feedback from students
 - Making sure students have a voice and can be heard
 
+### Jobs  
+[Primary enabler](../Member-Directory/#organizational-structure)  
+- TODO
+
+### Volunteers  
+[Primary enabler](../Member-Directory/#organizational-structure)  
+- TODO
+
+### Admissions  
+[Primary enabler](../Member-Directory/#organizational-structure)  
+- TODO
 
 # Final Notes
 If you have issues deciding where a task should go, feel free to contact the [primary enabler of Organization Administration](../Member-Directory/#organizational-structure) directly! It is that person's responsibility to make sure that everyone is happily contributing :-)

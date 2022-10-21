@@ -24,133 +24,139 @@ What's in this page:
 The executive team consists of three people, which have generally behaved the same. The exception would be the president. For issues in which there is no clear consensus amongst the executive, the president has the final decision. These cases are generally difficult and contentious and whatever decision the president makes must be supported even if the rest of the executive does not agree. Historically this has been very rare.
 
 * President: [Minh Hoang](#minh-hoang)
-* Vice-president: [Catarina Silva](#catarina-silva)
-* Vice-president: [Maria Dominguez (Chi)](#maria-dominguez-chi)
+* Vice-president: [Carol Martins](#carol-martins)
+* Vice-president: [Inês Mendes](#ines-mendes)
 
 ### Scope of AORs (Areas of Responsibility)
 
 In the case that an AOR Primary Enabler is not able to decide or resolve an urgent matter in their AOR, or when a Primary Enabler needs some kind of decision from the Executive Team, the go-to persons for each of the AORs are the following:
-- [Minh Hoang](#minh-hoang): **Treasury**, **Ops**, **Marketing & Communications**, **Partnerships**, **Community**, **Jobs**
-- [Catarina Silva](#catarina-silva): **Teaching**, **QA**, **Student Success**, **Dev-Ops**, **Curriculum Development**, **Documentation**
 
-
-
+* [Minh Hoang](#minh-hoang): **Volunteers**, **Partnerships**, **Jobs**, **Documentation**, **Admissions**, **Curriculum Development**
+* [Carol Martins](#carol-martins): **Marketing**, **Operations**, **Community**, **Legal**, **Finance**
+* [Inês Mendes](#ines-mendes): **Teaching**, **Quality Assurance**, **Student Success**, **Dev-Ops** 
 
 ## Organizational structure
+
 The first person listed in each Area of Reponsibility (AOR) below is the [primary enabler](../LDSA-Areas-of-Responsibility/#primary-enabler).
 
 ### LDSA AORs
 
 | Area of Responsibility | People |
 |-|-|
-|[Organization Administration](../LDSA-Areas-of-Responsibility/#organization-administration)|[**Sam Hopkins**](#sam-hopkins)|
-|[Curriculum Development](../LDSA-Areas-of-Responsibility/#curriculum-development)| [**Maria Dominguez (Chi)**](#maria-dominguez-chi) | 
+|[Curriculum Development](../LDSA-Areas-of-Responsibility/#curriculum-development)| [**Francisco Fonseca**](#francisco-fonsenca) | 
 |[Teaching](../LDSA-Areas-of-Responsibility/#teaching)| [**Catarina Silva**](#catarina-silva) <br> [List of instructors](#ldssa-instructors) |
-|[Operations](../LDSA-Areas-of-Responsibility/#operations)| - |
-|[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)| [**Carol Martins**](#carol-martins) <br> Inês Mendes <br> [José Medeiros](#jos%C3%A9-medeiros)|
-|[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| [**Ivo Bernardo**](#ivo-bernardo)|
-|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| **Ricardo Alberto** <br> Daniel Sousa <br> Juliana Rodrigues |
-|[Community](../LDSA-Areas-of-Responsibility/#community)| [**Sam Hopkins**](#sam-hopkins)|
-|[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [**Hugo Castilho**](#hugo-castilho)<br> [Miguel Dias](#miguel-dias) |
-|[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| **Filipa Rodrigues** <br> Helena <br> Inês Pessoa <br> Juliana Rodrigues <br> Rita Sousa <br> Rodrigo Silva |
-|[Finance](../LDSA-Areas-of-Responsibility/#finance)|-|
-|Prep Course| [**Minh Hoang**](#minh-hoang)|
-|Jobs| [**Pedro Fonseca**](#pedro-fonseca) <br> [Miguel Dias](#miguel-dias)|
-|Admissions| - |
-|Documentation| **Juliana Rodrigues** |
+|[Operations](../LDSA-Areas-of-Responsibility/#operations)|[**Silvana Alves**](#silvana-alves) |
+|[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)| [**Pedro Ved**](#pedro-ved)|
+|[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| [**Daniel Neves**](#daniel-neves)|
+|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| [**Inês Mendes**](#ines-mendes) |
+|[Community](../LDSA-Areas-of-Responsibility/#community)| [**Gonçalo Nunes**](#gonçalo-nunes)|
+|[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [**Miguel Dias**](#miguel-dias) |
+|[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| [**Ana Rita Carvalho**](#ana-rita-carvalho) |
+|[Finance](../LDSA-Areas-of-Responsibility/#finance)| [**Maria Dominguez (Chi)**](#maria-dominguez-chi) |
+|[Jobs](../LDSA-Areas-of-Responsibility/#jobs)| [**Telmo Felgueira**](#telmo-felgueira)|
+|Admissions| [**Fábio Cruz**](#fabio-cruz) |
+|[Documentation](../LDSA-Areas-of-Responsibility/#documentation)| [**Juliana Rodrigues**](#juliana-rodrigues) |
+|[Volunteers](../LDSA-Areas-of-Responsibility/#volunteers)| [Gustavo Fonseca](#gustavo-fonseca)|
 
 #### Prep Course
 
 | Area of Responsibility | People |
 |-|-|
-|Teaching (Prep Course)|[**Minh Hoang**](#minh-hoang) <br> [List of instructors](#ds-prep-course-instructors)|
-|Quality Assurance (Prep Course)| **Inês Pessoa** <br> Rodrigo Silva |
-|Student Success (Prep Course)| **Ricardo Alberto** <br> Daniel Sousa <br> Juliana Rodrigues|
-|Dev-Ops (Prep Course)|[**Miguel Dias**](#miguel-dias) <br> Inês Mendes|
+|Teaching (Prep Course)|[**Juliana Rodrigues**](#juliana-rodrigues) <br> [List of instructors](#ds-prep-course-instructors)|
+|Quality Assurance (Prep Course)| [**Carla Cotas**](#carla-cotas) |
+|Student Success (Prep Course)| - |
+|Dev-Ops (Prep Course)|[**Miguel Dias**](#miguel-dias)|
 
 
-## All LDSA staff
-
-> 🚧 This section is under construction.
+## All LDSA Primary Enablers
 
 ##### Carol Martins
 _Chief Operations Officer at DareData Engineering | Coach and Trainer | Inclusion Advocate_  
-Primary Enabler of **Marketing and Communications**.  
+Vice-President of the **Lisbon Data Science Academy**.   
 [LinkedIn](https://www.linkedin.com/in/carolinaiglesiasmartins/)
 
 ##### Catarina Silva
 _Senior Research Engineer @ Unbabel_  
-President of Lisbon Data Science Academy. Primary Enabler of **Teaching**. Instructor.  
+Primary Enabler of **Teaching**. Instructor.  
 [LinkedIn](https://www.linkedin.com/in/catarinacsilva/)
-
-##### Gábor Somogyi
-_Full Stack Developer_  
-Former Staff: Primary Enabler of **Quality Assurance**.  
-Alumni from 2018.  
-[LinkedIn](https://www.linkedin.com/in/gaborsomogyi/)
-
-##### Hugo Castilho
-_Co-Founder & Software Developer @ Probely_   
-Primary Enabler of **Dev-Ops**.  
-[LinkedIn](https://www.linkedin.com/in/hpcastilho/)
-
-
-##### Ivo Bernardo
-_Data Science and Analytics @ DareData Engineering | Udemy Instructor and Teacher _  
-Primary Enabler of **Partnerships**.  
-[LinkedIn](https://www.linkedin.com/in/ivobernardo/)
 
 ##### Miguel Dias
 _Data Scientist / Engineer @ Bond Touch _   
-Member of Dev-Ops. Primary Enabler of Prep Course Dev-Ops.  
-Alumni from Batch 3.  
+Primary Enabler of **Dev-Ops**. Primary Enabler of **Prep Course Dev-Ops**.  
 [LinkedIn](https://www.linkedin.com/in/migueldias1212/)
-
-##### Hugo Ferreira
-_Research Data Science Manager @ Feedzai_  
-Instructor.  
-Alumni from 2018.  
-[LinkedIn](https://www.linkedin.com/in/hugo-ferreira8/)
-
-##### José Medeiros
-_AI Consultant | Aspiring Jack-of-all-Trades | Entrepreneur_   
-Member of Marketing, Social Media and Communications.  
-Alumni from 2018.  
-[LinkedIn](https://www.linkedin.com/in/joseprsm/)
-
-##### Maria Dominguez (Chi)
-_Research Engineer @ Spotify_  
-Primary Enabler of **Curriculum Development**. Instructor.  
-[LinkedIn](https://www.linkedin.com/in/maria-cristina-dominguez-3a09ab106/)
 
 ##### Minh Hoang
 _Data Scientist @ StudentFinance_  
-President of the **Lisbon Data Science Academy**. Teaching Lead of **Data Science Prep Course**.  
+President of the **Lisbon Data Science Academy**.  
 [LinkedIn](https://www.linkedin.com/in/minhhoang95/)
 
-##### Nuno Brás
-_Data Scientist & Data Engineer @ DareData Engineering_  
-Full Stack developer.
+##### Francisco Fonsenca
+_TBA_
+Primary Enabler of **Curriculum development**.
+[LinkedIn](https://www.linkedin.com/in/UrbanoFonseca/)
 
-##### Pedro Fonseca
-_Staff Software Engineer @ Google_   
-Primary Enabler of **Jobs**. Instructor.  
-[LinkedIn](https://www.linkedin.com/in/pedrogfonseca/)
+##### Silvana Alves
+_Business Operations Associate @ Klarna_
+Primamry enabler of **Operations**.
+[LinkedIn](https://www.linkedin.com/in/silvanalcalves/)
 
-##### Sam Hopkins
-_Co-founder & Senior Data Scientist @ DareData Engineering_   
-Co-Founder of the Academy. Primary Enabler of **Organization Administration**. Primary Enabler of **Community**.  
-[LinkedIn](https://www.linkedin.com/in/sam-hopkins-01914364/) 
+##### Pedro Ved
+_Business Analyst @ Wella Company_
+Primamry enabler of **Marketing and Communications**.
+[LinkedIn](https://www.linkedin.com/in/vedpedro/)
 
-##### Manuel Garrido
-_Lead Data Scientist @ Daltix_  
-Instructor.  
-[LinkedIn](https://www.linkedin.com/in/manuelgarridopena/)
+##### Daniel Neves
+_Co-Founder @ YourBiome Therapeutics_
+Primamry enabler of **Partnerships**.
+[LinkedIn](https://www.linkedin.com/in/danielneves/)
 
+##### Juliana Rodrigues
+_Data Analyst @ Trouva_
+Teaching Lead of **Data Science Prep Course**.
+Primary enabler of **Documentation**.
+[LinkedIn](https://www.linkedin.com/in/juliana-rodrigues/)
+
+##### Ines Mendes
+_PhD Student @ Instituto de Medicina Molecular João Lobo Antunes_
+Vice-President of the **Lisbon Data Science Academy**. 
+Primary Enabler of **Student Success**. 
+[LinkedIn](https://www.linkedin.com/in/inescim/)
+
+##### Gonçalo Nunes
+_Early-stage Investor @ Olisipo Way_
+Primary Enabler of **Community**.
+[LinkedIn](https://www.linkedin.com/in/gfarianunes/)
+
+##### Ana Rita Carvalho
+_Data Analyst @ Nokia_
+Primary Enabler of **Quality Assessment**.
+[LinkedIn](https://www.linkedin.com/in/anarita-rc/)
+
+##### Telmo Felgueira
+_Senior Machine Learning Engineer @ Loka_
+Primary Enabler of **Jobs**.
+[LinkedIn](https://www.linkedin.com/in/telmo-felgueira/)
+
+##### Fabio Cruz
+_Physics and Machine Learning Researcher @ Inductiva Research Labs_
+Primary Enabler of **Admissions**.
+[LinkedIn](https://www.linkedin.com/in/falcruz/)
+
+##### Carla Cotas
+_IT Manager (Projects and Structures) @ ASPPA_
+Primary Enabler of **Prep Course Quality Assurance**.
+[LinkedIn](https://www.linkedin.com/in/carlacotas/)
+
+##### Gustavo Fonseca
+_Data Scientist & Data Engineer @ DareData Engineering_
+Primary Enabler of **Volunteers**.
+[LinkedIn](https://www.linkedin.com/in/gustavo-fonseca94/)
 
 ### Instructors
 
 #### LDSSA Instructors
+
+> 🚧 This section is under construction.
 
 - André Pedrosa
 - Angelica Verhulst 
@@ -184,6 +190,9 @@ Instructor.
 
 #### DS Prep Course Instructors
 
+> 🚧 This section is under construction.
+
+
 - Bruno Antonio
 - Clara Barreto
 - Francisco Delca
@@ -202,6 +211,9 @@ Instructor.
 - Susan Wang
 
 ### All former staff
+
+> 🚧 This section is under construction.
+
 - André Espírito Santo Pedrosa
 - Brett-Morgan Nielsen
 - Catarina Freitas
@@ -220,7 +232,6 @@ Instructor.
 ## Graduates
 
 #### Batch 5 (2021/22)
-
 Ana Milas   
 Ana Cruz  
 Bruno Goncalves  
@@ -241,9 +252,7 @@ Tiago Sousa
 Tiago Goncalves  
 Yash Girish Pandya  
 
-
 #### Batch 4 (2020/21)
-
 Ana Cerqueira  
 Ana Guedes  
 Andrés Mangas  
@@ -274,9 +283,7 @@ Rui André
 Sofia Ganilha  
 Tiago Fernandes  
 
-
 #### Batch 3 (2019/20)
-
 Alba Aparicio Duran  
 Almut Pohl  
 Ana Rita Gonçalves Sousa  
@@ -311,7 +318,6 @@ Wilson David Ferreira Ramos
 ## Students
 
 #### Batch 6 (2022)
-
 Agustin Sagastizabal  
 Ahmed Emad Abdelatty  
 Shehab Mohamed  
@@ -367,11 +373,9 @@ Vasco
 José Miguel Mendes da Fonseca Coutinho  
 Carlos Regis  
 
-
 ## Alumni
 
 #### Batch 5 (2021)
-
 Alex Diz  
 Ana Milas  
 Ana Neves Vieira da Silva  
@@ -432,7 +436,6 @@ Tomás Eiró
 Yash Girish Pandya  
 
 #### Batch 4 (2020)
-
 Ana Cerqueira  
 Ana Guedes  
 André Roque  
