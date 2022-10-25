@@ -77,7 +77,7 @@ is essential to proceed with the academy.
 
 | Description |  Date | 
 |-------------|-------------|
-| Bootcamp day 1 |  24th July 2021, from 8h30 AM to 7h00 PM UTC | 
-| Bootcamp day 2 |  25th July 2021, from 8h30 AM to 7h00 PM UTC |
-| Deadline for bootcamp units |  14th August 2021, 23h59 UTC |
-| Deadline for optional units (for curriculum consideration) |  14th August 2021, 23h59 UTC | 
+| Bootcamp day 1 |  1st October 2022, from 8h30 AM to 7h00 PM UTC | 
+| Bootcamp day 2 |  2nd October 2022, from 8h30 AM to 7h00 PM UTC |
+| Deadline for bootcamp units |  22nd October 2022, 23h59 UTC |
+| Deadline for optional units (for curriculum consideration) |  22nd October 2022, 23h59 UTC | 
