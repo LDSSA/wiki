@@ -70,10 +70,20 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 
 ## All LDSA Primary Enablers
 
+##### Minh Hoang
+_Data Scientist @ StudentFinance_  
+President of the **Lisbon Data Science Academy**.  
+[LinkedIn](https://www.linkedin.com/in/minhhoang95/)
+
 ##### Carol Martins
 _Chief Operations Officer at DareData Engineering | Coach and Trainer | Inclusion Advocate_  
 Vice-President of the **Lisbon Data Science Academy**.   
 [LinkedIn](https://www.linkedin.com/in/carolinaiglesiasmartins/)
+
+##### Ines Mendes
+_PhD Student @ Instituto de Medicina Molecular João Lobo Antunes_
+Vice-President of the **Lisbon Data Science Academy**. 
+[LinkedIn](https://www.linkedin.com/in/inescim/)
 
 ##### Catarina Silva
 _Senior Research Engineer @ Unbabel_  
@@ -84,11 +94,6 @@ Primary Enabler of **Teaching**. Instructor.
 _Data Scientist / Engineer @ Bond Touch _   
 Primary Enabler of **Dev-Ops**. Primary Enabler of **Prep Course Dev-Ops**.  
 [LinkedIn](https://www.linkedin.com/in/migueldias1212/)
-
-##### Minh Hoang
-_Data Scientist @ StudentFinance_  
-President of the **Lisbon Data Science Academy**.  
-[LinkedIn](https://www.linkedin.com/in/minhhoang95/)
 
 ##### Francisco Fonsenca
 _TBA_
@@ -116,11 +121,10 @@ Teaching Lead of **Data Science Prep Course**.
 Primary enabler of **Documentation**.
 [LinkedIn](https://www.linkedin.com/in/juliana-rodrigues/)
 
-##### Ines Mendes
-_PhD Student @ Instituto de Medicina Molecular João Lobo Antunes_
-Vice-President of the **Lisbon Data Science Academy**. 
+##### Mária Hanulová
+_TBA_
 Primary Enabler of **Student Success**. 
-[LinkedIn](https://www.linkedin.com/in/inescim/)
+[LinkedIn](https://www.linkedin.com/in/m%C3%A1ria-hanulov%C3%A1-31758b96/)
 
 ##### Gonçalo Nunes
 _Early-stage Investor @ Olisipo Way_
