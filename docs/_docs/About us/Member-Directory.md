@@ -48,7 +48,7 @@ The first person listed in each Area of Reponsibility (AOR) below is the [primar
 |[Operations](../LDSA-Areas-of-Responsibility/#operations)|[**Silvana Alves**](#silvana-alves) |
 |[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)| [**Pedro Ved**](#pedro-ved)|
 |[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| [**Daniel Neves**](#daniel-neves)|
-|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| [**Inês Mendes**](#ines-mendes) |
+|[Student Success](../LDSA-Areas-of-Responsibility/#student-success)| [**Mária Hanulová**](#Mária-Hanulová) |
 |[Community](../LDSA-Areas-of-Responsibility/#community)| [**Gonçalo Nunes**](#gonçalo-nunes)|
 |[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| [**Miguel Dias**](#miguel-dias) |
 |[Quality Assurance](../LDSA-Areas-of-Responsibility/#quality-assurance)| [**Ana Rita Carvalho**](#ana-rita-carvalho) |
