@@ -25,9 +25,9 @@ What's in this page:
 
 # Course overview
 
-The Data Science Prep Course (Prep Course) is a preparation course designed to equip you with prerequisite knowledge in order to enter the Lisbon Data Science Starters Academy (LDSSA). Having said that, the Prep Course would still be useful for anyone interested in learning Data Science, whether or not it is through Lisbon Data Science Academy (LDSA); or who is simply looking to gain foundational knowledge in Python programming. 
+The Data Science Prep Course (Prep Course) is a preparation course designed to equip you with prerequisite knowledge in order to enter the Lisbon Data Science Starters Academy (LDSSA). Having said that, the Prep Course would still be useful for anyone interested in learning Data Science, whether or not it is through Lisbon Data Science Academy (LDSA); or who is simply looking to gain foundational knowledge in Python programming.
 
-It is important to keep in mind that we cannot guarantee that by taking the Prep Course, you will (1) enter Lisbon Data Science Starters Academy or/and (2) secure a job in Tech. 
+It is important to keep in mind that we cannot guarantee that by taking the Prep Course, you will (1) enter Lisbon Data Science Starters Academy or/and (2) secure a job in Tech.
 
 ## What will be covered
 
@@ -46,8 +46,8 @@ The Prep Course is free of charge.
 # How does the Prep Course work
 
 ## Learning materials
-This is a 100% online and 100% remote course, where you can take it anywhere in your spare time. 
-New learning materials will be released and shared with you every Monday. You are expected to go through them and complete all exercises by the end of the week. When and where you do that is totally up to you! 
+This is a 100% online and 100% remote course, where you can take it anywhere in your spare time.
+New learning materials will be released and shared with you every Monday. You are expected to go through them and complete all exercises by the end of the week. When and where you do that is totally up to you!
 
 ## What support will I receive during the course
 You have at your availability a group of dedicated instructors, who would be available to answer any of your questions. On top of that, you will be surrounded by motivated fellow students that can also help you out. Make the most out of the course!
@@ -56,7 +56,7 @@ You have at your availability a group of dedicated instructors, who would be ava
 If you have no prior knowledge of any of the subjects, you should be prepared to spend an absolute minimum of 10 hours per week on the course. We understand this might sound like a lot. However, this course was not designed to give you some brief ideas on Python programming. Instead, we expect that you will fully grasp all fundamental concepts and practice enough to instinctively solve programming problems. If you already have a certain degree of knowledge of some topics, we expect the time requirements will be less. Finally, keep in mind that this recommendation does not include the preparation time for the admission test for the Starters Academy.
 
 ## Deadlines
-Since the schedule is tight, you should do everything that you can in order to complete all exercises by the end of the week, but if you cannot, that is okay! These deadlines are suggestions to help you keep on track. If you fall a bit behind for whatever reason, do everything you can to get back on track! If you feel somewhat lost, or have difficulty catching up, tell us ASAP and we'll help you out. The ultimate measure of success is whether or not you can pass the exam to get into the Starters Academy.
+Since the [schedule](#schedule) is tight, you should do everything that you can in order to complete all exercises by the end of the week, but if you cannot, that is okay! These deadlines are suggestions to help you keep on track. If you fall a bit behind for whatever reason, do everything you can to get back on track! If you feel somewhat lost, or have difficulty catching up, tell us ASAP and we'll help you out. The ultimate measure of success is whether or not you can pass the exam to get into the Starters Academy.
 
 <br>
 
@@ -68,18 +68,19 @@ Below we listed the 18 learning units that you need to complete, and when you sh
 
 | Week | Learning Materials |
 |-|-|
-| **Week 0** <br> 28/03/2022 - 03/04/2022 | Setting up (Follow the instructions on [`ds-prep-course-2022`](https://github.com/LDSSA/ds-prep-course-2022)) <br> **SLU00** - Jupyter Notebook |
-| **Week 1** <br> 04/04/2022 - 10/04/2022 | **SLU01** - Command Lines & Text Editor <br> **SLU02** - Programming Basics |
-| **Week 2** <br> 11/04/2022 - 17/04/2022 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
-| **Week 3** <br> 18/04/2022 - 24/04/2022 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
-| **Week 4** <br> 25/04/2022 - 01/05/2022 | **SLU07** - Functions: Fundamentals <br> **SLU08** - Functions: Intermediate |
-| **Week 5** <br> 02/05/2022 - 08/05/2022 | **SLU09** - OOP Basics |
-| **Week 6** <br> 09/05/2022 - 15/05/2022 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
-| **Week 7** <br> 16/05/2022 - 22/05/2022 | **SLU12** - Linear Algebra & NumPy, Part 1 |
-| **Week 8** <br> 23/05/2022 - 29/05/2022 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
-| **Week 9** <br> 30/05/2022 - 05/06/2022 | **SLU15** - Debugging <br> **SLU16** - Final Project |
-| **Week 10** <br> 06/06/2022 - 12/06/2022 | **SLU17** - Exam Prep I |
-| **Week 11** <br> 13/06/2022 - 19/06/2022 | **SLU18** - Exam Prep II |
+|  <br> 2023-03-13 - 2023-03-22 | Applications opened to students |
+|  <br> TODO - TODO | Applications results are published |
+| **Week 1** <br> 2023-04-03 - 2023-04-09 | **SLU01** - Command Line & Text Editor <br> **SLU02** - Programming Basics |
+| **Week 2** <br> 2023-04-10 - 2023-04-16 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
+| **Week 3** <br> 2023-04-17 - 2023-04-23 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
+| **Week 4** <br> 2023-04-24 - 2023-04-30 | **SLU07** - Functions: Fundamentals <br> **SLU08** - Functions: Intermediate |
+| **Week 5** <br> 2023-05-01 - 2023-05-07 | **SLU09** - OOP Basics |
+| **Week 6** <br> 2023-05-08 - 2023-05-14 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
+| **Week 7** <br> 2023-05-15 - 2023-05-21 | **SLU12** - Linear Algebra & NumPy, Part 1 |
+| **Week 8** <br> 2023-05-22 - 2023-05-28 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
+| **Week 9** <br> 2023-05-29 - 2023-06-04 | **SLU15** - Debugging <br> **SLU16** - Final Project |
+| **Week 10** <br> 2023-06-05 - 2023-06-11 | **SLU17** - Exam Prep I |
+| **Week 11** <br> 2023-06-12 - 2023-06-18 | **SLU18** - Exam Prep II |
 
 
 <br>
@@ -108,7 +109,7 @@ We know and totally understand that it can be intimidating to ask a question in 
 
 1. **You will get an answer faster.** If 50 people see your question, you will get an answer faster than if 1 person does.
 1. **You will get a better answer.** If 50 people see your question, you're likely get a better answer than if 1 person does.
-1. **You may make a friend.** It increases the chances of interacting with an interesting person that you may not have met otherwise. These types of peers can increase your chances of success immensely. 
+1. **You may make a friend.** It increases the chances of interacting with an interesting person that you may not have met otherwise. These types of peers can increase your chances of success immensely.
 1. **You will help others with the same question.** Very likely someone else has the same question and will be able to benefit from the answer.
 
 On top of that, for your questions to be answered in the shortest possible time, provide us with enough context to be able to answer it. Among others, you can attach a screenshot or copy-paste formatted code together with your questions. If you, as a student, see a question that you know the answer to, do it! Answer it!
@@ -128,7 +129,7 @@ No need to belong to any specific company or university
 The Prep course does not occur at any specific time. We only care about you completing all the materials scheduled for that week. Apart from that, you can learn at anywhere and anytime at your own pace.
 
 #### 4. The course's schedule is too intensive for me, can I follow the materials at my own pace instead?
-The Prep course's materials are 100% available on Github, and you can always go through it by yourself at any time. However, when the course is already finished, our instructor team will not be available to assist you with every question you might have. So, try your best to follow the Prep course' schedule and make the most out of it even though we know it might be hard sometimes! 
+The Prep course's materials are 100% available on Github, and you can always go through it by yourself at any time. However, when the course is already finished, our instructor team will not be available to assist you with every question you might have. So, try your best to follow the Prep course' [schedule](#schedule) and make the most out of it even though we know it might be hard sometimes!
 
 #### **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
 
