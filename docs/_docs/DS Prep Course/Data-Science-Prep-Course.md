@@ -69,7 +69,7 @@ Below we listed the 18 learning units that you need to complete, and when you sh
 | Week | Learning Materials |
 |-|-|
 |  <br> 2023-03-13 - 2023-03-22 | Applications opened to students |
-|  <br> TODO - TODO | Applications results are published |
+|  <br> 2023-03-25 | Applications results are published |
 | **Week 1** <br> 2023-04-03 - 2023-04-09 | **SLU01** - Command Line & Text Editor <br> **SLU02** - Programming Basics |
 | **Week 2** <br> 2023-04-10 - 2023-04-16 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
 | **Week 3** <br> 2023-04-17 - 2023-04-23 | **SLUO5** - Git Intermediate <br> **SLU06** - Flow Control |
