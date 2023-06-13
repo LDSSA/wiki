@@ -29,7 +29,7 @@ Make sure you check all items on the checklist below before anything else. If yo
     
    3. ⬜️ Have a staff Google Account (`@lisbondatascience.org`) with full access to Google Drive, Gmail and Calendar
 
-   4. ⬜️ Fill up the [Volunteer Onboarding Form](https://forms.gle/WgFX8fgxYLB3vCRDA)
+   4. ⬜️ Fill up the [Volunteer Onboarding Form](https://forms.gle/mMBSTb1Noc6aH8FE7)
 
    5. ⬜️ Subscribe to these Google calendars (after logging in with your new staff account):
    
