@@ -6,21 +6,20 @@ order: 3
 
 ## Structure
 
-A Starters Academy is made of one Bootcamp, 6 to 7 specialisations, and 1 capstone. 
+The Starters Academy is made of one Bootcamp, 5+1 specialisations, and 1 capstone. 
 
 ## Bootcamp 
-The bootcamp is the launching event of the Academy, where students have to learn and execute a large 
-number of small learning units, and includes one hackathon. 
-
-## Hackathon 
-A hackathon is a 1 day event where students, in teams, have to execute and present a well-posed 
-project. In order to keep the students motivated, there is a single number value that they are 
-optimising for, and they compete for position on a leaderboard. Teams are assigned at random, as 
-students needs to learn also how to be able to work with different types of people. 
+The bootcamp is the launching event of the Academy, where students attend online classes with Academy instructors.
 
 ## Specialisation 
-A specialization is a set of 3 big learning units and a hackathon, centred on a particular topic 
-(e.g. time series). 
+A specialization is a set of learning units and a hackathon, centred on a particular topic 
+(e.g. time series). The first specialization consists of 14+2 small learning units. The other specializations have 3 big learning units.
+All specializations end with a hackathon.
+
+## Hackathon 
+A hackathon is a 1 day event where students, in teams, solve a data science problem. The students receive a data set and
+have to set up and optimize a model. The teams competes for the best model performance as measured by a single score. 
+Teams are assigned at random, as students also need to learn how to work with different types of people. 
 
 ## Capstone
 The capstone is the final project of the Starters Academy. It requires each student to individually 
@@ -28,8 +27,7 @@ execute a project, which will be graded. See more details under
 [Capstone Project](../05-Capstone-Project).
 
 ## Learning units
-
-A Learning Unit is a concept developed in the Academy. It is composed of the following: 
+A Learning Unit is composed of the following: 
 
 ### 1. Learning Notebooks (Jupyter Notebooks)
 The high granularity teaching should be done in the Learning Notebooks. These should be sufficient 
