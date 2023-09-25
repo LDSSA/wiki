@@ -161,12 +161,12 @@ The overall schedule and most important deadlines for batch 7:
 | Hackathon 2                                                          | 4 Feb 2024            |
 | Specialization 3 submission deadline                                 | 2 Mar 2024 8 pm UTC    |
 | Hackathon 3                                                          | 3 Mar 2024              |
-| Specialization 4 submission deadline                                 | 30 Mar 2024 8 pm UTC       |
-| Hackathon 4                                                          | 31 Mar 2024           |
-| Specialization 6 submission deadline                                 | 27 Apr 2024 8 pm UTC+1   |
-| Hackathon 6                                                          | 28 Apr 2024          |
-| Capstone Kick off                                                    | 29 Apr 2024         |
-| Academy graduates announced                                         | 15 Jul 2024         |
+| Specialization 4 submission deadline                                 | 6 Apr 2024 8 pm UTC+1       |
+| Hackathon 4                                                          | 7 Apr 2024           |
+| Specialization 6 submission deadline                                 | 4 May 2024 8 pm UTC+1   |
+| Hackathon 6                                                          | 5 May 2024          |
+| Capstone Kick off                                                    | 6 May 2024         |
+| Academy graduates announced                                          | 22 Jul 2024         |
 
 The master schedule google calendar is [here](https://calendar.google.com/calendar/u/1?cid=Y19kMDNlNmE1MzAxNWQxYWMxYjBkNjFkMWI4YzQ0NjUyZTY2ODM3ZjQ3ZDI2YmM5NmM1NGFhYTRhZjdiYWFlMzE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
  - you can add this calendar to most calendar apps so that you stay aware of all the important dates. 
