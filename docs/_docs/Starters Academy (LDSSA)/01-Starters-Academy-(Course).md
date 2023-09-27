@@ -5,9 +5,9 @@ order: 1
 ---
 
 Contents:
-- [1. Structure](#structure)
-- [2. Graduation certificate](#final-certificate)
-- [3. Schedule](#schedule)
+- [1. Structure](#1-structure)
+- [2. Graduation certificate](#2-graduation-certificate)
+- [3. Schedule](#3-schedule)
 
 ---
 
