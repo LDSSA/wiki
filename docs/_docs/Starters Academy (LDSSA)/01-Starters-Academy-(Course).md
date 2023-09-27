@@ -11,7 +11,7 @@ Contents:
 
 ---
 
-The Data Science Starters Academy is an introductory course in data science, designed to help people become entry-level data scientists. 
+The **Data Science Starters Academy** is an introductory course in data science, designed to help people become entry-level data scientists. 
 
 As of its seventh edition (2023) it consists of 34 Learning Units, 5 Hackathons and 1 capstone project. It contains 3 units to be done 
 during the admission process, see more about it in the [admission process](../../Applicants/Application-process). This is the fourth edition held remotely.
