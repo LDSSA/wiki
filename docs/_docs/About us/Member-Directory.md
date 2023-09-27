@@ -25,9 +25,7 @@ The executive team consists of one person.
 
 * President: **Minh Hoang**
 
-## All LDSA Staff
-
-### LDSA AORs
+## LDSA AORs
 
 | Area of Responsibility | People |
 |-|-|
@@ -40,7 +38,7 @@ The executive team consists of one person.
 |[QA](../LDSA-Areas-of-Responsibility/#qa)| **Rita Carvalho**|
 
 
-### Teams or Projects
+## Teams or Projects
 
 | Team | People |
 |-|-|
@@ -48,7 +46,7 @@ The executive team consists of one person.
 |Community Planning| **Pratiksha** |
 
 
-### Current Members
+## Current Members
 
 - Minh Hoang
 - Maria Hanulova
@@ -65,7 +63,7 @@ The executive team consists of one person.
 - Carlos Regis
 - Kim Pronk
 
-### Past Members and Instructors
+## Past Members and Instructors
 
 > 🚧 This section is under construction.
 
@@ -118,7 +116,6 @@ The executive team consists of one person.
 - Sofia Cardita
 - Sofia Jerónimo
 - Surabhi
-
 
 ## Graduates
 
