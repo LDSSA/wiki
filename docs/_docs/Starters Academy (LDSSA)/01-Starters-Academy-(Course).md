@@ -54,27 +54,27 @@ classes presented by the Academy instructors, about 4 hours per bootcamp day.
 
 **The participation in the bootcamp is obligatory for graduation.**
 
-### 1.4 Specializations 
-Specializations are sets of _Learning Units_ and _Hackathons_, focusing on specific themes.
+### 1.4 Specialisations 
+Specialisations are sets of _Learning Units_ and _Hackathons_, focusing on specific themes.
 
-The **first** specialization consists of:
+The **first** specialisation consists of:
 - 3 SLUs that are covered during the admissions process (see [here](../../Applicants/Application-process#admission-tests))
 - 14 SLUs that include classes presented during the Bootcamp
 - 2 optional SLUs with extra content
 - Hackathon #1 about Binary Classification - **participation in Hackathon #1 is obligatory for graduation**
 
-Each of the **remaining 4 specializations** consists of:
+Each of the **remaining 4 specialisations** consists of:
 - 3 BLUs
 - 1 hackathon
 
-There is an additional optional specialization that you can study on your own. It does not include a hackathon and there is no allocated time for it in the Academy schedule.
+There is an additional optional specialisation that you can study on your own. It does not include a hackathon and there is no allocated time for it in the Academy schedule.
 
 ### 1.5 Learning Units 
 _Learning Units_ (LUs) are the backbone of the Academy coursework.
 There are two types of LUs: Small Learning Units (SLUs) and Big Learning Units (BLUs).
 
 #### 1.5.1 Small Learning Units (SLUs)
-SLUs are the LUs that we use in Specialization 1. They consist of:
+SLUs are the LUs that we use in Specialisation 1. They consist of:
 1. A virtual class during the bootcamp
 1. A learning notebook which explains the concepts and the coding details and shows how to solve the 
 problems
@@ -83,7 +83,7 @@ problems
 optional extra exercises.
 
 #### 1.5.2 Big Learning Units (SLUs)
-BLUs are longer LUs that are used in specializations 2-6. They consist of:
+BLUs are longer LUs that are used in specialisations 2-6. They consist of:
 
 1. Up to 3 learning notebooks which explain the concepts and the coding details and show how to 
 solve the problems
@@ -93,7 +93,7 @@ optional extra exercises.
 ### 1.6 Hackathons 
 
 In order to participate in a hackathon, the student must complete all the LUs for the given
-specialization with a minimum score of 80%.
+specialisation with a minimum score of 16/20.
 
 _Hackathons_ are longer and less structured team exercises in which the students 
 receive a data set and solve a data science problem. Hackathons require the students to apply the 
@@ -137,8 +137,8 @@ The certificate will list all the Starters Academy's specializations, explain wh
 each specialization, and show the grades that you've achieved in each of them. 
 
 You'll be issued a final certificate if:
-* You delivered all the learning units with the minimal required score
-* You attended the Bootcamp and Hackathon #1
+* You delivered all the learning units with the minimal required score of 16/20
+* You attended the virtual classes in Specialisation #1 and Hackathon #1
 * You missed 0 or 1 of the remaining hackathons
 * You delivered and passed the capstone report
 
