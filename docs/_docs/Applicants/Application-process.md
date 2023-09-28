@@ -73,8 +73,6 @@ or at any time during the course, I will be expelled from the Academy.
 
 ## Application steps and important dates
 
-You can check the official calendar for Batch 7 [here](https://calendar.google.com/calendar/u/1?cid=Y19kMDNlNmE1MzAxNWQxYWMxYjBkNjFkMWI4YzQ0NjUyZTY2ODM3ZjQ3ZDI2YmM5NmM1NGFhYTRhZjdiYWFlMzE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
-
 | Activity                          | Date/Deadline                                    |
 |-----------------------------------|--------------------------------------------------|
 | Sign-up in the Admission Portal   | 09-10-2023 00h00 UTC+1 to 11-10-2023 23h59 UTC+1 |
@@ -123,8 +121,6 @@ The candidates who are selected will confirm their application by paying the adm
 not paid on time, we'll reject the candidate and give their seat to the next candidate in line.
 
 ### Fees
-
-This year, we are going back to the fees from before the Covid-19 crisis.
 
 For the 2023/2024 Starters Academy, the fees will be:
 
