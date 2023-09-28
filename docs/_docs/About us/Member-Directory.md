@@ -43,7 +43,7 @@ The executive team consists of one person.
 | Team | People |
 |-|-|
 |Admissions|**Fábio Cruz**|
-|Community Planning| **Pratiksha** |
+|Community Planning| **Pratiksha Jain** |
 
 
 ## Current Members
