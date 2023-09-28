@@ -49,7 +49,7 @@ The executive team consists of one person.
 ## Current Members
 
 - Minh Hoang
-- Maria Hanulova
+- Mária Hanulová
 - Pedro Ved
 - José Rebelo
 - Vasco Mano
