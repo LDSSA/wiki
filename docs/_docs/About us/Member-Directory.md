@@ -29,7 +29,7 @@ The executive team consists of one person.
 
 | Area of Responsibility | People |
 |-|-|
-|[Teaching](../LDSA-Areas-of-Responsibility/#teaching)| **Maria Hanulova** |
+|[Teaching](../LDSA-Areas-of-Responsibility/#teaching)| **Mária Hanulová** |
 |[Marketing and Communications](../LDSA-Areas-of-Responsibility/#marketing-and-communications)|**Pedro Ved**|
 |[Partnerships](../LDSA-Areas-of-Responsibility/#partnerships)| **Vasco Mano**|
 |[Dev-Ops](../LDSA-Areas-of-Responsibility/#dev-ops)| **Gustavo Fonseca** |
