@@ -1,5 +1,5 @@
 ---
-title: Bootcamp Structure and Rules
+title: Specialisation 1 Structure and Rules
 category: Starters Academy (LDSSA)
 order: 4
 ---
@@ -7,12 +7,13 @@ order: 4
 
 ## Structure 
 
-The bootcamp is an intensive set of days where you will learn the basics of data 
-science, ranging from useful pandas functions to some common problems like 
-regression and classification, and models used to tackle them. It is composed
-by 16 units, 14 mandatory, presented in the 2 days that compose the bootcamp, and 2
-optional. Together with the first 3 units you should have completed in the admission
-process, they compose the set of units of specialization #1. 
+In **Specialisation 1 - Bootcamp and Binary Classification** you learn the basics of data science, 
+ranging from useful pandas functions to procedures like data cleaning and common problems 
+like regression and classification and the models used to tackle them.
+This first specialisation has a different structure than other specialisations. 
+It is composed of 3 learning units completed during the admissions and additional 14 mandatory 
+and 2 optional learning units which you have to complete in the first three weeks of the Academy`.
+The learning units are accompanied by virtual classes presented during 2 days. Participation in the virtual classes is mandatory.
 
 | SLU   | Name                                     |  Presented at   | Mandatory |
 |-------|------------------------------------------|-----------------|-----------|
@@ -36,48 +37,57 @@ process, they compose the set of units of specialization #1.
 | SLU18 | Support Vector Machines (SVM)            | Not presented   |  No       |
 | SLU19 | k-Nearest Neighbors (kNN)                | Not presented   |  No       |
 
-During the days of the bootcamp, each presented unit will follow the following schedule:
+The virtual classes will be presented on Sundays 26 Nov 2023 and 3 Dec 2023. Each class lasts about 60 min. The topics presented during each class are the following:
 
-- 15 min presentation
-- 5 min questions
-- 40 min of working time on the unit
+Bootcamp part 1, Sunday morning 26 Nov 2023
+- Class 1:
+   - Introduction to data science
+   - SLU04 - Basic Stats with Pandas
+   - SLU05 - Covariance and Correlation
+   - SLU06 - Dealing with Data Problems
+- Class 2:
+   - SLU07 - Regression with Linear Regression
+   - SLU08 - Metrics for Regression
+- Class 3: 
+   - SLU09 - Classification with Logistic Regression
+   - SLU10 - Metrics for Classification
 
-However, it is not expected that in the 40 min of working time you complete all of the content, 
-it is just a first contact with the content. The bootcamp days are followed by 3 weeks where
-you are expected to review the materials and complete all units by yourself.
-
-
+Bootcamp part 2, Sunday morning 3 Dec 2023
+- Class 4:
+   - SLU11 - Tree-Based Models
+   - SLU12 - Feature Engineering
+Class 5:
+   - SLU13 - Bias-Variance tradeoff & Model Selection
+   - SLU14 - Model complexity and Overfitting
+   - SLU15 - Hyperparameter Tuning
+Class 6: 
+   - SLU16 - Workflow
+   - SLU17 - Ethics and Fairness
 
 ### Time commitment
 
-Aside from the bootcamp weekend, you should be prepared to spend a recommended *10 hours per week* 
+Aside from the virtual classes, you should be prepared to spend a recommended *10 hours per week* 
 on the bootcamp units throughout the course of the 3 weeks given to complete them.
 
+### Specialisation 1 Evaluation Rules
 
-### Bootcamp Evaluation Rules
+In order to pass Specialisation 1
 
-In order to pass the bootcamp:
-
-* The student must have been present in the bootcamp days
-* All mandatory units should have been submitted and score at least 16/20 until the deadline (see the calendar section below)
-
+* The student must take part in the virtual classes
+* The student must score at least 16/20 on the mandatory learning units until the deadline (see the calendar section below)
 
 ### Optional units
 
-There are a few optional units that we recommend the students look at, but that are not mandatory to 
-pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. As other
-units a passing grade is considered for submissions that score at least 16/20 until the deadlines 
-(see the calendar section below).
-
-We advise you to only tackle these after you have completed all mandatory content, since the bootcamp
-is essential to proceed with the academy. 
-
+There are a two optional units teaching additional classification models that we recommend the students look at, 
+but that are not mandatory to pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. 
+As in other learning units, a passing grade is a score of at least 16/20 submitted until the deadline.
+(see the calendar section below). We advise you to only tackle these two units after you have completed all mandatory content, 
+since the completing Specialisation 1 is essential to proceed with the academy. 
 
 ### Calendar
 
 | Description |  Date | 
 |-------------|-------------|
-| Bootcamp day 1 |  1st October 2022, from 8h30 AM to 7h00 PM UTC | 
-| Bootcamp day 2 |  2nd October 2022, from 8h30 AM to 7h00 PM UTC |
-| Deadline for bootcamp units |  22nd October 2022, 23h59 UTC |
-| Deadline for optional units (for curriculum consideration) |  22nd October 2022, 23h59 UTC | 
+| Bootcamp day 1 |  26 Nov 2023 in the morning | 
+| Bootcamp day 2 |  3 Dec 2023 in the morning |
+| Deadline for Specialisation 1 |  16 Dec 2023, 8pm UTC |
