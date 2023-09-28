@@ -59,7 +59,7 @@ The executive team consists of one person.
 - João Gomes
 - Rita Carvalho
 - Fábio Cruz
-- Pratiksha
+- Pratiksha Jain
 - Carlos Regis
 - Kim Pronk
 
