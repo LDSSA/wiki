@@ -1,5 +1,5 @@
 ---
-title: Specialisation 1 Structure and Rules
+title: Specialization 1 Structure and Rules
 category: Starters Academy (LDSSA)
 order: 4
 ---
@@ -7,10 +7,10 @@ order: 4
 
 ## Structure 
 
-In **Specialisation 1 - Bootcamp and Binary Classification** you learn the basics of data science, 
+In **Specialization 1 - Bootcamp and Binary Classification** you learn the basics of data science, 
 ranging from useful pandas functions to procedures like data cleaning and common problems 
 like regression and classification and the models used to tackle them.
-This first specialisation has a different structure than other specialisations. 
+This first Specialization has a different structure than other Specializations. 
 It is composed of 3 learning units completed during the admissions and additional 14 mandatory 
 and 2 optional learning units which you have to complete in the first three weeks of the Academy`.
 The learning units are accompanied by virtual classes presented during 2 days. Participation in the virtual classes is mandatory.
@@ -69,9 +69,9 @@ Class 6:
 Aside from the virtual classes, you should be prepared to spend a recommended *10 hours per week* 
 on the bootcamp units throughout the course of the 3 weeks given to complete them.
 
-### Specialisation 1 Evaluation Rules
+### Specialization 1 Evaluation Rules
 
-In order to pass Specialisation 1
+In order to pass Specialization 1
 
 * The student must take part in the virtual classes
 * The student must score at least 16/20 on the mandatory learning units until the deadline (see the calendar section below)
@@ -82,7 +82,7 @@ There are a two optional units teaching additional classification models that we
 but that are not mandatory to pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. 
 As in other learning units, a passing grade is a score of at least 16/20 submitted until the deadline.
 (see the calendar section below). We advise you to only tackle these two units after you have completed all mandatory content, 
-since completing Specialisation 1 is essential to proceed with the academy. 
+since completing Specialization 1 is essential to proceed with the academy. 
 
 ### Calendar
 
@@ -90,4 +90,4 @@ since completing Specialisation 1 is essential to proceed with the academy.
 |-------------|-------------|
 | Bootcamp day 1 |  26 Nov 2023 in the morning | 
 | Bootcamp day 2 |  3 Dec 2023 in the morning |
-| Deadline for Specialisation 1 |  16 Dec 2023, 8pm UTC |
+| Deadline for Specialization 1 |  16 Dec 2023, 8pm UTC |
