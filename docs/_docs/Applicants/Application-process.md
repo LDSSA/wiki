@@ -47,7 +47,7 @@ All the candidates of the Starters Academy are expected to read, acknowledge and
 
 This is one of the first steps in the admissions process.
 
-In terms of time commitment, the weekly workload of the Academy is about 10h/week. In particular, the specialization 1 and the capstone project are expected to be the more demanding periods, where the workload is expected to be much higher than the 10h/week average! The exact workload will vary from person to person.
+In terms of time commitment, the weekly workload of the Academy is about 10h/week. In particular, the the first specialization  and the capstone project are expected to be the more demanding periods, where the workload is expected to be much higher than the 10h/week average! The exact workload will vary from person to person.
 If you're not able to put in this much time for the majority of the duration of the Academy,
 you should think twice before applying: if you join the Academy and drop before the end,
 you'll be wasting a seat that could be better used by someone else!
@@ -61,7 +61,7 @@ We assume integrity in all of our students so we won't expend any resources atte
 
 - I am willing to dedicate a minimum of 5 hours per week to the academy.
 - I understand that to get the most out of the experience, I should spend  an average of 10 hours per week on
-the Academy, and likely more during specialization 1 and the capstone project.
+the Academy, and likely more during the first specialization and the capstone project.
 - I understand that I have to be online during the Academy events, even if, because of timezone differences,
 this means being online at 4am in the morning.
 - I acknowledge that by cheating or being dishonest on the admission tests, or at any time during the course,
@@ -90,9 +90,9 @@ You have 3 hours to complete the coding test. You can start the test at any time
 05-11-2023, but once you start, you have to complete it within 3 hours. It is NOT possible to pause the test and finish it later. So
 make sure that you block 3 hours of your time to work on the test.
 
-The Learning Units about pandas have two parts: the learning part and the exercises. In the learning part, you will learn
+The Learning Units about Pandas have two parts: the learning part and the exercises. In the learning part, you will learn
 new concepts. In the exercises, we will evaluate if you understood these new concepts. Only the exercises need to
-be submitted and will be graded. You can complete the Learning units at any
+be submitted and will be graded. You can complete the Learning Units at any
 time between 23-10-2023 and 05-11-2023 and you can make pauses while working on them.
 
 The dates of the submission of the coding test and of the Learning Units don't have any influence on the selection
@@ -115,7 +115,7 @@ This is the content that will be taught and evaluated in the Learning Units:
 ### Candidates selection
 
 After the admission test period, we will select the Academy students by taking a random sample over all the candidates
-who passed the tests. We'll make sure that the [entrance restrictions](#entrance-type-restrictions) are respected.
+who passed SLUs 1-3 and the coding test. We'll make sure that the [entrance restrictions](#entrance-type-restrictions) are respected.
 
 The candidates who are selected will confirm their application by paying the admission fee. If this fee is
 not paid on time, we'll reject the candidate and give their seat to the next candidate in line.
