@@ -75,12 +75,12 @@ or at any time during the course, I will be expelled from the Academy.
 
 | Activity                          | Date/Deadline                                    |
 |-----------------------------------|--------------------------------------------------|
-| Sign-up in the Admission Portal   | 09-10-2023 00h00 UTC+1 to 11-10-2023 23h59 UTC+1 |
-| Scholarship applications          | 09-10-2023 00h00 UTC+1 to 22-10-2023 23h59 UTC+1 |
-| Test & SLUs                       | 23-10-2023 00h00 UTC+1 to 05-11-2023 23h59 UTC |
-| Candidate Selection               | 06-11-2023                                       |
-| Payments & scholarship interviews | 07-11-2023 00h00 UTC to 11-11-2023 23h59 UTC|
-| Admissions closed                 | 12-11-2023 23h59 UTC                           |
+| Sign-up in the Admission Portal   | 09 Oct 2023 00h00 UTC+1 to 22 Oct 2023 23h59 UTC+1 |
+| Scholarship applications          | 09 Oct 2023 00h00 UTC+1 to 22 Oct 2023 23h59 UTC+1 |
+| Test & SLUs                       | 23 Oct 2023 00h00 UTC+1 to 05 Nov 2023 23h59 UTC |
+| Candidate Selection               | 06 Nov 2023                                       |
+| Payments & scholarship interviews | 07 Nov 2023 00h00 UTC to 11 Nov 2023 23h59 UTC|
+| Admissions closed                 | 12 Nov 2023 23h59 UTC                           |
 
 If you complete the signup in the portal and confirm your email address, you will always receive an email with the outcome of your application. This email should be sent between 6 and 12 November 2023.
 
