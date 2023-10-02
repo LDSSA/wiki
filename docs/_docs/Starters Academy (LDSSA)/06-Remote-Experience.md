@@ -67,9 +67,9 @@ friend or two will make the next 9 months so much better.
 The source of truth for the schedule is [the batch 7 google calendar](https://calendar.google.com/calendar/u/1?cid=Y19kMDNlNmE1MzAxNWQxYWMxYjBkNjFkMWI4YzQ0NjUyZTY2ODM3ZjQ3ZDI2YmM5NmM1NGFhYTRhZjdiYWFlMzE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). 
 You can use the link itself directly or you can add it to your favorite calendar app. 
 
-### Google meet (or google hangouts, same thing)
+### Google Meet
 
-We will use google meet for all virtual meetings.
+We will use Google Meet for all virtual meetings.
 
 ### The auditorium room
 
@@ -97,14 +97,13 @@ a slido code, which will be shared in all virtual meetings.
 
 ### Slack
 
-Slack in our communication tool during all the Academy. All important announcements will be made via Slack.
+Slack is our communication tool during all the Academy. All important announcements will be made via Slack.
 This is where you can have written conversations and ask questions that don't require an immediate 
 response. Please note that there are channels created for each of the SLUs, BLUs, and hackathons. Be sure to post your question 
 in the right place!
 
-Note that we have not paid for a full slack subscription. This is on purpose. Slack is not a place 
+Note that we have not paid for a full Slack subscription. This is on purpose. Slack is not a place 
 that should generate a source of truth for anything at all. Slack messages disappear after 90 days.
-Anything else needs to go into something official like a github issue 
-or the wiki if you want it preserved.
+Anything else needs to go into something official like a GitHub issue if you want it preserved.
 
 
