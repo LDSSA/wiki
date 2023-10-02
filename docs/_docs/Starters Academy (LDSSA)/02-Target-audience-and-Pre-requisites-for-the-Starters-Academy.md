@@ -55,9 +55,9 @@ Are you still here, reading this without some help from your browser's auto-tran
 
 
 ### Application Process and Acceptance Criteria
-We wish to ensure that the students that participate take full advantage of the course. In order to do this, we must filter students to ensure that they (1) have enough skills that they will be able to keep up with the coursework and (2) do not already have deep knowledge in all subject matter. 
+We wish to ensure that the students take full advantage of the course. In order to do this, we must filter students to ensure that they (1) have enough skills to keep up with the coursework and (2) do not already have deep knowledge in all subject matter. 
 
-Students will be required to provide proof of minimum proficiency in Python. A simple website will be provided to accept submissions (including the coding exercise to prove minimum proficiency in python). Students with either (1) insufficient Python skills or (2) who are obviously experts in all subjects to be presented will be rejected. Cheaters will be caught and feathered. 
+Students have to pass a coding test in Python and solve three learning units. Cheaters will be caught and feathered. 
 
 #### Who should apply
 
@@ -67,15 +67,15 @@ Students will be required to provide proof of minimum proficiency in Python. A s
 
 #### Who should **not** apply
 
-* People who do not have a comfortable working knowledge of Python. You'll be frustrated, bored, and we won't be able to help you with basic code questions. If you aren't familiar with Python we suggest doing the wonderful [Codecademy Python Course](https://www.codecademy.com/learn/learn-python). If you can  
+* People who do not have a comfortable working knowledge of Python. You'll be frustrated, bored, and we won't be able to help you with basic code questions. If you aren't familiar with Python we suggest doing the wonderful [Codecademy Python Course](https://www.codecademy.com/learn/learn-python) or our [Python Prep Course](../../Data-Science-Prep-Course/).
 
 ### Cost to students  
 
-While not a profit-making organization, the Academy is not free, to ensure that it is sustainable in the long-term, and that the students are committed to the learning experience. The fees are much lower than for-profit initiatives, as the teaching staff is volunteer based. All revenues are re-invested into future editions of the Academy, or donated to Python-based Open Source initiatives. 
+While not a profit-making organization, the Academy is not free - to pay for the infrastructure cost, to ensure that it is sustainable in the long-term, and that the students are committed to the learning experience. The fees are much lower than with for-profit initiatives, as the teaching staff are volunteers. All revenues are re-invested into future editions of the Academy, or donated to Python-based open source initiatives. 
 
 ### Code of Conduct  
 
-The Academy operates under a strict [Code of Conduct](../../About us/Code-of-Conduct), based on documents by Coursera and Pydata. Please read the Code of Conduct in full before applying. 
+The Academy operates under a strict [Code of Conduct](../../About us/Code-of-Conduct), based on documents by Coursera and Pydata. Please read the Code of Conduct in full before applying.
 
 ## Volunteering
 
