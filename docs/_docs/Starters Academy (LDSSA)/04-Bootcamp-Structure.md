@@ -82,7 +82,7 @@ There are a two optional units teaching additional classification models that we
 but that are not mandatory to pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. 
 As in other learning units, a passing grade is a score of at least 16/20 submitted until the deadline.
 (see the calendar section below). We advise you to only tackle these two units after you have completed all mandatory content, 
-since the completing Specialisation 1 is essential to proceed with the academy. 
+since completing Specialisation 1 is essential to proceed with the academy. 
 
 ### Calendar
 
