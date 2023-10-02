@@ -88,7 +88,7 @@ and go into the side room. Easy-peasy.
 We have all been in that work meeting or class where that one person forgets to mute themselves, 
 making a huge mess of the meeting. Managing so many people in a meeting and making sure everyone 
 gets a turn is a big challenge. To avoid confusion and give everyone a chance to clarify the 
-presentation content or just ask more about a topic, the Q&A will make use of slido 
+presentation content or just ask more about a topic, the Q&A will make use of Slido 
 (https://www.sli.do/).
 
 This is a platform where you can write your own questions or vote for other people’s questions 
