@@ -120,34 +120,34 @@ The executive team consists of one person.
 ## Graduates
 
 #### Batch 6 (2022/23)
-António Dias
-Daryna Piontkivska
-Dio Videira
-Ekaterina Samorodova
-Fabien Guegan
-Francisco Oliveira
-Johannes Steger
-José Ricardo Ribeiro
-Luís Silva
-Marta Marquez
-Nuno Soares
-Pedro Ramalho
-Pedro Oliveira
-Rúben Belchior
-Sebastião Caldas
-Beatriz Guerner
-Duarte Correia
-João Paulo von Gilsa Lopes
-João Sá
-Sofia Alvim
-Tomás Jordão
-Carlos Regis
-Martim Quintas e Sousa
-José Coutinho
-Mafalda Ferreira
-Mo2men ahmed
-Mohamed Gaber
-Ahmed Emad
+António Dias  
+Daryna Piontkivska  
+Dio Videira  
+Ekaterina Samorodova  
+Fabien Guegan  
+Francisco Oliveira  
+Johannes Steger  
+José Ricardo Ribeiro  
+Luís Silva  
+Marta Marquez  
+Nuno Soares  
+Pedro Ramalho  
+Pedro Oliveira  
+Rúben Belchior  
+Sebastião Caldas  
+Beatriz Guerner  
+Duarte Correia  
+João Paulo von Gilsa Lopes  
+João Sá  
+Sofia Alvim  
+Tomás Jordão  
+Carlos Regis  
+Martim Quintas e Sousa  
+José Coutinho  
+Mafalda Ferreira  
+Mo2men ahmed  
+Mohamed Gaber  
+Ahmed Emad  
 
 #### Batch 5 (2021/22)
 Ana Milas   
