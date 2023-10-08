@@ -12,32 +12,22 @@ Contents:
 
 ---
 
-This page provides an overview of our teaching process and methodology. It is aimed at all volunteers
-that are involved or are thinking of getting involved in the process of building and maintaining our materials. 
-We start by describing lightly the structure and format of our materials; then we 
-describe how the different areas of responsibility interact, and which roles they play in 
-this process; finally, we provide an example timeline for the process.
+This page provides an overview of our teaching process and methodology. It describes
+the structure and format of our materials, the roles of different areas of responsibility
+in the material creation and maintenance,and an example timeline for the process.
 
 # Academy materials
 
-The product of our teaching process are the materials we hand out to the students.
-We follow the following format for those materials:
+The teaching material has the form of Jupyter notebooks. 
+This provides an interactive way of learning, as students can run code while reading the explanations. 
+We use learning notebooks to explain the new material and exercise notebooks where the students have to solve graded exercises.
+We use the [nbgrader](https://nbgrader.readthedocs.io/en/stable/) package to evaluate the exercises. See [Using nbgrader](../03-Using-nbgrader-for-Exercise-Notebooks/) for usage examples.
 
-* Jupyter notebooks: almost all content is delivered through jupyter notebooks. 
-This provides an interactive way of learning, as students can run code while reading
-through the explanations. 
-* Nbgrader: In the context of jupyter notebooks, we also perform evaluation through
-graded notebooks. For this purpose we use `nbgrader` (an overview of how to use it
-can be found in [Using nbgrader](../03-Using-nbgrader-for-Exercise-Notebooks/)).
-
-All materials are planned, built and reviewed through github. In particular all repositories
-are found under the [Academy GitHub](https://github.com/LDSSA/). These are the main
-repositories to check and use:
+All materials are planned, built and reviewed through github. The repositories
+are in the [Academy GitHub](https://github.com/LDSSA/). These are three relevant repositories:
 * [curriculum-development](https://github.com/LDSSA/curriculum-development) (public): Our curriculum is reviewed and updated in this repository 
-* `batchX-instructors` (private - last edition can be found [here](https://github.com/LDSSA/batch5-instructors)): To prepare the materials beforehand, instructors work in this
-private repository. It's in this repo that all review and discussion around specific materials 
-happens - for this purpose all feedback and suggestions should be posted as issues.
-* `batchX-students` (public - last edition can be found [here](https://github.com/LDSSA/batch5-students))  Close to the deadline of the unit, we trigger a process that releases the content of 
+* `batchX-instructors` (X = current batch number): Repo for the material development where instruct
+* `batchX-students (X = current batch number)` (public - last edition can be found [here](https://github.com/LDSSA/batch5-students))  Close to the deadline of the unit, we trigger a process that releases the content of 
  the instructors repository into this public repository; this is the repository students will access.
 
 
