@@ -8,7 +8,6 @@ Contents:
 - [Material structure](#academy-materials)
 - [Areas of responsibility](#areas-of-responsibility)
 - [Timeline](#timeline)
-- [Key takeaways](#key-takeaways)
 
 ---
 
