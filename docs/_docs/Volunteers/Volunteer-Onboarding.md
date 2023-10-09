@@ -20,39 +20,43 @@ What's in this page:
 
 ## Onboarding checklist
 
+### Stage 1
 
-Make sure you check all items on the checklist below before anything else. If you need help, ask anyone from the Executive Team or the Documentation AOR ([member directory](../../About us/Member-Directory)).
+When members join the Academy, they usually have a lot of questions. This is why we organise Onboarding Sessions to welcome new members and answer their questions. This is also a great opportunity to meet the team and get to know each other. Although the Onboarding is not mandatory, we strongly recommend that you attend it. Contact the [Community AOR](../../About us/LDSA-Areas-of-Responsibility/#community) for more information on this.
+
+To finish the first stage of the onboarding process, you need to complete the following steps:
+
+   1. ⬜️ Complete one task with the Academy (e.g. help with an SLU, help contacting partners, etc.)
+
+   2. ⬜️ Participate in one sync meeting with the Academy (e.g. Weekly sync meeting, AOR meeting, etc.)
+
+At the end of this stage, the candidate should already have enough information to know if they want to join the Academy or not. If they do, they should move on to the next stage. With the checklist complete, please inform the [Community AOR](../../About us/LDSA-Areas-of-Responsibility/#community) that you're ready to move on to the next stage.
+
+### Stage 2
+
+This is when you will be officially onboarded as a volunteer. Make sure you check all items on the checklist below before anything else. If you need help, ask anyone of the existing [member directory](../../About us/Member-Directory).
 
    1. ⬜️ Read and agree to our [code of conduct](../../About us/Code-of-Conduct)
 
-   2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Batch 5)
+   2. ⬜️ Have access to the _Leaders of LDSAcademy_ Slack workspace **and** other relevant workspaces (e.g. Community, Teaching, etc.)
     
-   3. ⬜️ Have a staff Google Account (`@lisbondatascience.org`) with full access to Google Drive, Gmail and Calendar
+   3. ⬜️ Have a staff Google Account (`@lisbondatascience.org`)
+
+   4. ⬜️ Have access to the shared LDSA Google Drive with all the relevant folders
 
    4. ⬜️ Fill up the [Volunteer Onboarding Form](https://forms.gle/mMBSTb1Noc6aH8FE7)
 
-   5. ⬜️ Subscribe to these Google calendars (after logging in with your new staff account):
-   
-      **Internal calendars (only visible for volunteers)**
-        - ⬜️ [LDSSA Instructors Calendar](https://calendar.google.com/calendar/embed?src=c_oqhjbe9r3cv5kqkotkes373dog%40group.calendar.google.com&ctz=Europe%2FLisbon): this private calendar is not visible to students; it is where you will be invited or invite other volunteers for internal events that are staff-only, as well as add internal deadlines. This calendar is not edition nor batch-specific. It is an internal, persistent calendar for the volunteers;
-      - **(optional)** [LDSSA Birthday Calendar](https://calendar.google.com/calendar/embed?src=c_ki195gmib0aln8b8ipk6cg925c%40group.calendar.google.com&ctz=Europe%2FLisbon): also an internal calendar for volunteers, for birthdays only (optional);
-      - ⬜️ [DS Prep Course 2022 - Staff](https://calendar.google.com/calendar/u/0?cid=Y181ZjIxY2wzdXF1aDRwbzFxbG1ia3RsYWFib0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t): private calendar for internal events and deadlines of volunteers fom the Prep Course 2022. You only need to add this calendar if you're contributing as a volunteer in the Prep Course.
+   5. ⬜️ Subscribe to Google calendars (after logging in with your new staff account, ask a member of the community team for the links)
 
-      **Public calendars (students+volunteers)**
-      - ⬜️ [LDSSA Batch #6](https://calendar.google.com/calendar/embed?src=c_jm13ojnma9kcfc3ehr22qvkq9c%40group.calendar.google.com&ctz=Europe%2FLisbon) -- general deadlines and events visible both to students and instructors. This is generally a public link calendar so anyone with the link will be able to access it and see our events. Each batch has its own calendar, usually named `LDSSA Batch #<batch_number>`;
-      - ⬜️ [DS Prep Course 2022](https://calendar.google.com/calendar/u/0?cid=Y19xdGhhZ2lmbmF0Z251cjc5bWxlbmw4cGtmb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -- public calendar for events for students and volunteers of the Prep Course 2022. This is where you would create, e.g., a social hour with the students of the Prep Course 2022.
+      **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links and click the button <img src="../../images/add_calendar_icon.png" width="12%"/> at the right-bottom of each calendar's webpage.
 
-      **Note**: To add the calendars, (1) make sure you're logged in to your `@lisbondatascience.org` account on Google, (2) click on each of the calendar links above and click the button <img src="../../images/add_calendar_icon.png" width="12%"/> at the right-bottom of each calendar's webpage.
+   6. ⬜️ Ask a member of the dev-ops team to add your GitHub handle (username) to the organization's GitHub (if not added yet)
 
-   6. ⬜️ Ask a member of the dev-ops team to add your GitHub handle (username) to the organization's GitHub
-
-   7. ⬜️ Introduce yourself on Slack! 😀
+   7. ⬜️ Go to #introductions in Slack and Introduce yourself! 😀
 
 **If** you are going to be an AOR Primary Enabler (the lead of an AOR) you also need to sign the [LDSA Primary Enabler Agreement](../LDSA-Primary-Enabler-Agreement).
 
 You're now official part of the team!
-
-
 
 ## Finding stuff
 
@@ -88,9 +92,7 @@ There are two main ways that you can find stuff in the google drive Index folder
 
 ### GitHub
 
-For any general question, feedback, etc.,  **open an issue** on the LDSSA/wiki, for anything related with notebook solutions and any other sensitive information that cannot be revealed to the students, please use the LDSSA/batch-5-instructors repo.
-1. [Wiki](https://github.com/LDSSA/wiki)
-2. [batch5-instructors](https://github.com/LDSSA/batch5-instructors)
+For any general question, feedback, etc.,  **open an issue** on the LDSSA/wiki, for anything related with notebook solutions and any other sensitive information that cannot be revealed to the students, please use the LDSSA/batch-instructors repo.
 
 There are also repos specific to certain AORs, such as the [Curriculum Development](https://github.com/LDSSA/curriculum-development). If you're working in QA, for example, you'll be given access to specific repos where you should open work-related issues.
 
