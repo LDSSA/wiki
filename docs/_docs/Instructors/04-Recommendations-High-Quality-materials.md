@@ -100,3 +100,8 @@ If you have any questions about Learning Units please ask them in the `#teaching
 1. Use a reasonable amount of gifs. Too many gifs make it difficult to read the text - imagine reading a text while having a moving gif in your field of view.
 
 1. Make sure that the exercise instructions are clear and complete.
+
+1. Follow the structure of SLU00. Important structural points:
+   - Table of contents with links to the sections.
+   - Create sections and subsections with different header sizes.
+   - Number sections and subsections - it makes the notebook more readable and easier to find things.
