@@ -124,7 +124,7 @@ not paid on time, we'll reject the candidate and give their seat to the next can
 
 For the 2023/2024 Starters Academy, the fees will be:
 
-- Student: 100€ (You'll need to present a valid student card at payment time)
+- Student: 250€ (You'll need to present a valid student card at payment time)
 - Regular: 500€
 - Company: 1500€
 
