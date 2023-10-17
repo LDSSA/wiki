@@ -80,26 +80,16 @@ If you have any questions about Learning Units please ask them in the `#teaching
 ## Other tips
 
 1. If you are adding new material, take time to let it mature. If you are a busy person, you can work in small chunks of time. Once you start creating, your brain will comtinue thinking in the background even when you are not actively working on the material.
-
-1. Explain concepts in whichever ways you think is best: remember when you were a student and found things that were unclear or could be made better? This is your chance, bring your ideas to life! Don't be afraid to modify things someone else has written, this year you are in charge. There might be some widely accepted ways of explaining things, but maybe they are not enough intuitive. You might be able to come up with a better approach and you have our complete trust.
-
-1. Don't assume that everything is correct just because it was like this last year. Check everything you don't understand - ask your QA, another instructor, google.
-
-1. Avoid technical jargon or cultural references that not all students might understand.
-
-1. Follow Python naming conventions. Let's do things properly to set the example. Simple things such as constants should be capitalized, or class names should normally use the CapWords convention. For further details, check out the [Python style guide](https://www.python.org/dev/peps/pep-0008/).
-
-1. All the material is written in markdown. If you need, you can find many tutorials online.
-
-1. Use gender neutral language: use 'they' instead of 'he'/'she' or at least don't use 'he' automatically if the gender of the character in question is not clear. This really matters (especially if you are not a 'he' because if the world is all happening in "he" you are automatically excluded).
-
-1. Use cells that are not too long and fit approximately on a laptop screen. If there is a large image, such as a terminal screenshot, use an extra cell for it. This will help readability.
-
-1. Use a reasonable figure size. Adjust the image size so that it fits on a laptop screen. When using figures with text, make sure it's readable.
-
-1. Use a reasonable amount of gifs. Too many gifs make it difficult to read the text - imagine reading a text while having a moving gif in your field of view.
-
-1. Make sure that the exercise instructions are clear and complete.
+2. Explain concepts in whichever ways you think is best: remember when you were a student and found things that were unclear or could be made better? This is your chance, bring your ideas to life! Don't be afraid to modify things someone else has written, this year you are in charge. There might be some widely accepted ways of explaining things, but maybe they are not enough intuitive. You might be able to come up with a better approach and you have our complete trust.
+3. Don't assume that everything is correct just because it was like this last year. Check everything you don't understand - ask your QA, another instructor, google.
+4. Avoid technical jargon or cultural references that not all students might understand.
+5. Follow Python naming conventions. Let's do things properly to set the example. Simple things such as constants should be capitalized, or class names should normally use the CapWords convention. For further details, check out the [Python style guide](https://www.python.org/dev/peps/pep-0008/).
+6. All the material is written in markdown. If you need, you can find many tutorials online.
+7. Use gender neutral language: use 'they' instead of 'he'/'she' or at least don't use 'he' automatically if the gender of the character in question is not clear. This really matters (especially if you are not a 'he' because if the world is all happening in "he" you are automatically excluded).
+8. Use cells that are not too long and fit approximately on a laptop screen. If there is a large image, such as a terminal screenshot, use an extra cell for it. This will help readability.
+9. Use a reasonable figure size. Adjust the image size so that it fits on a laptop screen. When using figures with text, make sure it's readable.
+10. Use a reasonable amount of gifs. Too many gifs make it difficult to read the text - imagine reading a text while having a moving gif in your field of view.
+11. Make sure that the exercise instructions are clear and complete.
 
 1. Follow the structure of SLU00. Important structural points:
    - Table of contents with links to the sections.
