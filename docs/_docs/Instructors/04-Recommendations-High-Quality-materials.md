@@ -31,7 +31,7 @@ We are trying to create intuitions that the students can take in and remember. T
 * Saying "Correlation", when to be precise it should be "Pearson Correlation".
 * Saying that "generally using a Random Forest is a good place to start", instead of trying to qualify that _"except when the calibration of the tails of the probability distribution are more important than the rank ... [more advanced stuff which gets lost on the beginner student]"_ 
 
-You can alsways come back later with a simple _"remember when I said correlation? Well, technically I should have said Pearson correlation, because here's a new concept called Spearman"_ when it becomes relevant.
+You can always come back later with a simple _"remember when I said correlation? Well, technically I should have said Pearson correlation, because here's a new concept called Spearman"_ when it becomes relevant.
 
 As an example of intuitive vs. precise, compare these two ways to explain covariance: 
 * [Highly precise answer, but useless if you don't have a strong math background](http://mathworld.wolfram.com/Covariance.html)  
