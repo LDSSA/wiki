@@ -195,14 +195,14 @@ In short, this is the process:
 
 Recommended execution order whe adding hackathons:
 1. Open a tracking issue and an associated PR to indicate the hackathon is being and developed
-1. Define the category of problem that you think could be interesting to explore  
-1. Search for available datasets online or in your organization that fit your purpose
-1. Explore the datasets and pick one that is an interesting challenge
-1. Define the  target variable 
-1. Split the data into training and test dataset
-1. Create the google doc with the problem description 
-1. Link the document in the README, add the dataset and push to the PR
-1. Create a set of notebooks that compose the instructor baseline. You can have different notebooks for each
+2. Define the category of problem that you think could be interesting to explore  
+3. Search for available datasets online or in your organization that fit your purpose
+4. Explore the datasets and pick one that is an interesting challenge
+5. Define the  target variable 
+6. Split the data into training and test dataset
+7. Create the google doc with the problem description 
+8. Link the document in the README, add the dataset and push to the PR
+9. Create a set of notebooks that compose the instructor baseline. You can have different notebooks for each
 stage of the process (exploration, cleaning, model). Explain why
 your baseline is valid - it doesn't need to be the best solution, but it should be a reasonable solution 
 that uses the techniques taught in the unit.
