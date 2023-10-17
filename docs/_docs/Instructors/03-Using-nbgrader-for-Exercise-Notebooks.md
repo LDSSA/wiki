@@ -70,9 +70,9 @@ Great, now to evaluate that the student's implementation actually works.
 
 A few things to notice here:   
 1. The cell is now `Autograder tests`.
-1. The cell has points. If it raises errors, the student does not get those points. Make your entire Exercise Notebook's points sum 20, so that the grading system is coherent.   
-1. In this case, some tests were hidden, and others weren't. Do not use hidden tests. If you need to hide a simple answer, use hashes.
-1. Using `math.isclose` may be better than using `isequal` or `==`. For instance, in that last example, the correct answer was `-15.999999999999996`, so we compared it to `-16`, with a tolerance of `abs_tol=0.001`
+2. The cell has points. If it raises errors, the student does not get those points. Make your entire Exercise Notebook's points sum 20, so that the grading system is coherent.   
+3. In this case, some tests were hidden, and others weren't. Do not use hidden tests. If you need to hide a simple answer, use hashes.
+4. Using `math.isclose` may be better than using `isequal` or `==`. For instance, in that last example, the correct answer was `-15.999999999999996`, so we compared it to `-16`, with a tolerance of `abs_tol=0.001`
 
 #### Using the `inspect` module for better asserts 
 There are a few common errors that students make, such as forgetting to return, or using globals accidentally. We can use the `inspect` module to check the function as if it were text. Again, this is more useful in the Python prep course and not really necessary in the Academy.
