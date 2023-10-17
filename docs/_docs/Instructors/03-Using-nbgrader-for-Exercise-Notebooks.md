@@ -75,7 +75,7 @@ A few things to notice here:
 4. Using `math.isclose` may be better than using `isequal` or `==`. For instance, in that last example, the correct answer was `-15.999999999999996`, so we compared it to `-16`, with a tolerance of `abs_tol=0.001`
 
 #### Using the `inspect` module for better asserts 
-There are a few common errors that students make, such as forgetting to return, or using globals accidentally. We can use the `inspect` module to check the function as if it were text. Again, this is more useful in the Python prep course and not really necessary in the Academy.
+There are a few common errors that students make, such as forgetting to return, or using globals accidentally. We can use the `inspect` module to check the function as if it were text. Again, this is more useful in the Python prep course and not really necessary in the Starters Academy.
 
 Here is an example of a messed up student answer: 
 ```
