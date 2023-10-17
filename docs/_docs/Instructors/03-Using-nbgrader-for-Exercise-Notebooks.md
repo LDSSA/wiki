@@ -60,7 +60,7 @@ In our example, this is what the student sees:
 ### Expected output
 This is useful in the Python prep course where students are beginning with Python. In the Academy, we assume a working level of Python and better debugging skills, so it is not necessary.
   
-The epected output can be added as normal cells. You can take some output your expect, and paste it in markdown in a cell. This allows students to check their logic, without having to submit the notebook or reverse engineer the actual tests. See an example of a test cell and an expected output cell:
+The expected output can be added as normal cells. You can take some output your expect, and paste it in markdown in a cell. This allows students to check their logic, without having to submit the notebook or reverse engineer the actual tests. See an example of a test cell and an expected output cell:
 
 <img src="https://image.ibb.co/hDdHzx/Screen_Shot_2018_04_08_at_9_11_41_PM.png" width="900" />  
 
