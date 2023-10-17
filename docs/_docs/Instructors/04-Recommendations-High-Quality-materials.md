@@ -47,7 +47,7 @@ There is a delicate trade-off between making sure the students know why they are
 
 As an example, having an intuition of Gradient Descent helps understand why a Logistic Regression needs to be normalized, and is therefore worth including. On the other hand being able to derive the Cross Entropy error function is mostly fun-for-nerds, and does not particularly enhance our ability to use it in practice. 
 
-Ensure that everything we teach is there to make the students able to use the concepts, while avoiding teaching only "how to do stuff". Never teach something just because you had to suffer through it yourself, or because you happen to find it cool, as remember that you have years of experience, and a completely different base. Whenever in doubt, ask the Curriculum lead. 
+Ensure that everything we teach is there to make the students able to use the concepts, while avoiding teaching only "how to do stuff". Never teach something just because you had to suffer through it yourself, or because you happen to find it cool, as remember that you have years of experience, and a completely different base. Whenever in doubt, ask the Teaching lead. 
 
 ## Add an optional section at the end 
 At the end of your Learning Notebook, make a section entitled _"To learn more (Optional)"_, where you put links to further sources. Two rules here: 
