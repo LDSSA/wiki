@@ -69,7 +69,7 @@ extra examples or applications of the content shown in the learning notebooks.
 
 The exercise notebook is a series of exercises with auto-grading (see **[how to use nbgrader](https://ldssa.github.io/wiki/Instructors/03-Using-nbgrader-for-Exercise-Notebooks/)** 
 for details). This is where the students have to apply the new concepts and so consolidate what they learned. 
-The exercises should make the students
+The exercises should make the students:
 
 1. interact with the concepts (often by simply copy-pasting some code from the Learning Notebook)  
 2. understand how to use the common code patterns (which they should have in the Examples Notebook). 
