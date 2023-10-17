@@ -206,5 +206,5 @@ Recommended execution order whe adding hackathons:
 stage of the process (exploration, cleaning, model). Explain why
 your baseline is valid - it doesn't need to be the best solution, but it should be a reasonable solution 
 that uses the techniques taught in the unit.
-1. Create a separate PR and share the baseline solution with QA
-1. Create the evaluation guidelines in a spreadsheet and share with QA in the PR description
+10. Create a separate PR and share the baseline solution with QA
+11. Create the evaluation guidelines in a spreadsheet and share with QA in the PR description
