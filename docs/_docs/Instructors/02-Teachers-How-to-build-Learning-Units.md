@@ -27,7 +27,7 @@ out the information [here](../../Starters Academy (LDSSA)/01-Starters-Academy-(C
 
 # Learning Materials
 
-The Academy id divided into specializations which are divided into learning units. Each specialization ends
+The Academy is divided into specializations, which are divided into learning units. Each specialization ends
 with a hackathon. The learning units are prepared by a teaching instructor in collaboration with a QA instructor.
 A hackathon is usually prepared by a larger team.
 
