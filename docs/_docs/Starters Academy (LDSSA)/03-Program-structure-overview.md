@@ -4,8 +4,10 @@ category: Starters Academy (LDSSA)
 order: 3
 ---
 
-## Structure
+## Curriculum overview
+See the curriculum details [here](https://github.com/LDSSA/curriculum-development/tree/master/curriculum).
 
+## Structure
 The Starters Academy is made of one Bootcamp, 5 mandatory and 1 optional specialisations, and 1 capstone. 
 
 ## Bootcamp 
