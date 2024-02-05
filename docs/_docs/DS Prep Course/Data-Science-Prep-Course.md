@@ -61,7 +61,7 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 
 | Week | Learning Materials |
 |-|-|
-|  <br> 2024-02-26 - 2023-03-10 | Applications opened to students |
+|  <br> 2024-02-12 - 2023-03-10 | Applications opened to students |
 |  <br> 2024-03-11 - 2024-03-17 | Applications results are published |
 | **Week 0** <br> 2024-03-18 - 2024-03-24 | **Setup** <br> **SLU00 - Jupyter Notebook**
 | **Week 1** <br> 2024-03-25 - 2024-04-09 | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
