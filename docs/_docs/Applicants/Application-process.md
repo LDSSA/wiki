@@ -75,28 +75,28 @@ or at any time during the course, I will be expelled from the Academy.
 
 | Activity                          | Date/Deadline                                    |
 |-----------------------------------|--------------------------------------------------|
-| Sign-up in the Admission Portal   | 09 Oct 2023 00h00 UTC+1 to 22 Oct 2023 23h59 UTC+1 |
-| Scholarship applications          | 09 Oct 2023 00h00 UTC+1 to 22 Oct 2023 23h59 UTC+1 |
-| Test & SLUs                       | 23 Oct 2023 00h00 UTC+1 to 05 Nov 2023 23h59 UTC |
-| Candidate Selection               | 06 Nov 2023                                       |
-| Payments & scholarship interviews | 07 Nov 2023 00h00 UTC to 11 Nov 2023 23h59 UTC|
-| Admissions closed                 | 12 Nov 2023 23h59 UTC                           |
+| Sign-up in the Admission Portal   | 17 Jun 2024 00h00 UTC+1 to 30 Jun 2024 23h59 UTC+1 |
+| Scholarship applications          | 17 Jun 2024 00h00 UTC+1 to 30 Jun 2024 23h59 UTC+1 |
+| Test & SLUs                       | 01 Jul 2024 00h00 UTC+1 to 21 Jul 2024 23h59 UTC+1 |
+| Candidate Selection               | 22 Jul 2024                                       |
+| Payments & scholarship interviews | 23 Jul 2024 00h00 UTC+1 to 27 Jul 2024 23h59 UTC+1|
+| Admissions closed                 | 28 Jul 2024 23h59 UTC+1                           |
 
-If you complete the signup in the portal and confirm your email address, you will always receive an email with the outcome of your application. This email should be sent between 6 and 12 November 2023.
+If you complete the signup in the portal and confirm your email address, you will always receive an email with the outcome of your application. This email should be sent between 22 and 28 July 2024.
 
 ### Admission tests
 
-You have 3 hours to complete the coding test. You can start the test at any time between 23-10-2023 and
-05-11-2023, but once you start, you have to complete it within 3 hours. It is NOT possible to pause the test and finish it later. So
+You have 3 hours to complete the coding test. You can start the test at any time between 01-07-2024 and
+21-07-2024, but **once you start, you have to complete it within 3 hours**. It is NOT possible to pause the test and finish it later. So
 make sure that you block 3 hours of your time to work on the test.
 
 The Learning Units about Pandas have two parts: the learning part and the exercises. In the learning part, you will learn
 new concepts. In the exercises, we will evaluate if you understood these new concepts. Only the exercises need to
 be submitted and will be graded. You can complete the Learning Units at any
-time between 23-10-2023 and 05-11-2023 and you can make pauses while working on them.
+time between 01-07-2024 and 21-07-2024 and you can make pauses while working on them.
 
 The dates of the submission of the coding test and of the Learning Units don't have any influence on the selection
-process, as long as it's before 05-11-2023 23h59 UTC. Finishing earlier doesn't give you any advantage.
+process, as long as it's before 21-07-2024 23h59 UTC+1. Finishing earlier doesn't give you any advantage.
 
 These are the main topics that will be evaluated in the coding test:
 - Programming in Python
@@ -122,7 +122,7 @@ not paid on time, we'll reject the candidate and give their seat to the next can
 
 ### Fees
 
-For the 2023/2024 Starters Academy, the fees will be:
+For the 2024/2025 Starters Academy, the fees will be:
 
 - Student: 250€ (You'll need to present a valid student card at payment time)
 - Regular: 500€
@@ -159,7 +159,7 @@ This scheme illustrates the admissions process.
 ***
 
 
-_This is the admission process that will be followed in order to select the students for batch 7 of the Lisbon
+_This is the admission process that will be followed in order to select the students for batch 8 of the Lisbon
 Data Science Starters Academy._
 
 _However, we reserve the right to make changes to this process in case of unforeseen events that harm our
