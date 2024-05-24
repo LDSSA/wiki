@@ -13,7 +13,7 @@ Contents:
 
 The **Data Science Starters Academy** is an introductory course in data science, designed to help people become entry-level data scientists. 
 
-As of its seventh edition (2023) it consists of 34 Learning Units, 5 Hackathons and 1 capstone project. It contains 3 units to be done 
+As of its eighth edition (2024) it consists of 37 Learning Units, 6 Hackathons and 1 capstone project. It contains 3 units to be done 
 during the admission process, see more about it in the [admission process](../../Applicants/Application-process). This is the fourth edition held remotely.
 
 _The **Data Science Starters Academy** should not be mistaken for the 
@@ -22,8 +22,8 @@ is the organization responsible for running the course._
 
 
 ## 1. Structure 
-The Starters Academy lasts 34 weeks of part-time work over the course of 8 months. 
-Of that time, there are 8 days where we request you to be virtually present (usually on Sundays).
+The Starters Academy lasts 34 weeks of part-time work over the course of 10 months. 
+Of that time, there are 8 days where we require you to be virtually present (usually on Sundays).
 The rest is done remotely via GitHub, Slack and the Academy's grading and submission system. 
 *You do not need to quit your primary responsibility to take part in this course.*
 
@@ -60,11 +60,9 @@ The **first** Specialization consists of:
 - 2 optional SLUs with extra content
 - Hackathon #1 about Binary Classification - **participation in Hackathon #1 is obligatory for graduation**
 
-Each of the **remaining 4 Specializations** consists of:
+Each of the **remaining 5 Specializations** consists of:
 - 3 BLUs
 - 1 hackathon
-
-There is an additional optional Specialization that you can study on your own. It does not include a hackathon and there is no allocated time for it in the Academy schedule.
 
 ### 1.5 Learning Units 
 _Learning Units_ (LUs) are the backbone of the Academy coursework.
@@ -103,7 +101,7 @@ top-performing solution, but a good set of baseline steps and techniques that ma
 This instructor solution will be published on the day
 after the hackathon so that students can study it and iterate on it on at their own pace.
 
-There are 5 hackathons in total, held on selected Sundays throughout the academy. To attend
+There are 6 hackathons in total, held on selected Sundays throughout the academy. To attend
 the hackathon of a specialization, you must deliver all the learning units until the specialization deadline.
 
 #### 1.6.1 Example hackathon structure
@@ -143,28 +141,32 @@ Certificates have an expected issuing time of 1 month from the end of the academ
 
 ## 3. Schedule
 
-The overall schedule and most important deadlines for batch 7:
+The overall schedule and most important deadlines for batch 8:
 
 | Activity  | Date/Deadline                  |
 |---------------------------------------------------------------------|--------------------------------|
-| Admissions | Sept - Nov 2023 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
-| Batch 7 kick off                                                     | Nov 2023
-| Introductory session                                                 | Nov 2023
-| Set-up                                                               | 19 Nov - 25 Nov 2023           |
-| Bootcamp                                                             | 26 Nov and 3 Dec 2023           |
-| Specialization 1 submission deadline                                 | 16 Dec 2023 8 pm UTC    |
-| Hackathon 1                                                          | 17 Dec 2023             |
-| Specialization 2 submission deadline                                 | 3 Feb 2024 8 pm UTC |
-| Hackathon 2                                                          | 4 Feb 2024            |
-| Specialization 3 submission deadline                                 | 2 Mar 2024 8 pm UTC    |
-| Hackathon 3                                                          | 3 Mar 2024              |
-| Specialization 4 submission deadline                                 | 6 Apr 2024 8 pm UTC+1       |
-| Hackathon 4                                                          | 7 Apr 2024           |
-| Specialization 6 submission deadline                                 | 4 May 2024 8 pm UTC+1   |
-| Hackathon 6                                                          | 5 May 2024          |
-| Capstone Kick off                                                    | 6 May 2024         |
-| Academy graduates announced                                          | 22 Jul 2024         |
+| Admissions | June - July 2024 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
+| Batch 8 kick off                                                     | Sep 2024
+| Introductory session                                                 | Sep 2024
+| Set-up                                                               | 22 - 28 Sep 2024           |
+| Bootcamp classes                                                     | 29 Sep and 6 Oct 2024           |
+| Specialization 1 submission deadline                                 | 19 Oct 2024 8 pm UTC+1    |
+| Hackathon 1                                                          | 20 Oct 2024             |
+| Specialization 2 submission deadline                                 | 16 Nov 2024 8 pm UTC |
+| Hackathon 2                                                          | 17 Nov 2024            |
+| Specialization 3 submission deadline                                 | 14 Dec 2024 8 pm UTC    |
+| Hackathon 3                                                          | 15 Dec 2024              |
+| Christmas break                                                      | 16 Dec 2024 - 5 Jan 2025    |
+| Specialization 4 submission deadline                                 | 1 Feb 2025 8 pm UTC+1       |
+| Hackathon 4                                                          | 2 Feb 2025           |
+| Specialization 5 submission deadline                                 | 1 Mar 2025 8 pm UTC+1   |
+| Hackathon 5                                                          | 2 Mar 2025          |
+| Specialization 6 submission deadline                                 | 29 Mar 2025 8 pm UTC+1   |
+| Hackathon 6                                                          | 30 Mar 2025          |
+| Spring break                                                         | 31 Mar - 6 Apr 2025          |
+| Capstone                                                             | 7 Apr - 15 Jun 2025         |
+| Academy graduates announced                                          | 16 Jun 2025         |
 
-The master schedule google calendar is [here](https://calendar.google.com/calendar/u/1?cid=Y19kMDNlNmE1MzAxNWQxYWMxYjBkNjFkMWI4YzQ0NjUyZTY2ODM3ZjQ3ZDI2YmM5NmM1NGFhYTRhZjdiYWFlMzE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+The master schedule google calendar is [here](https://calendar.google.com/calendar/u/0?cid=Y182MWRjMzJlZDc5NDVlNGI3OTBkZjFlZGM1YTBiOGExNGRmZTA1YjYzZDhmNWE4MDgwZmY4MzllMjEzNTExMjE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
  - you can add this calendar to most calendar apps so that you stay aware of all the important dates. 
  
