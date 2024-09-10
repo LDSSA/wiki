@@ -148,8 +148,8 @@ The overall schedule and most important deadlines for batch 8:
 | Admissions | June - July 2024 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
 | Batch 8 kick off                                                     | Sep 2024
 | Introductory session                                                 | Sep 2024
-| Set-up                                                               | 22 - 28 Sep 2024           |
-| Bootcamp classes                                                     | 29 Sep and 6 Oct 2024           |
+| Set-up                                                               | 15 - 21 Sep 2024           |
+| Bootcamp classes                                                     | 22 and 29 Sep 2024           |
 | Specialization 1 submission deadline                                 | 19 Oct 2024 8 pm UTC+1    |
 | Hackathon 1                                                          | 20 Oct 2024             |
 | Specialization 2 submission deadline                                 | 16 Nov 2024 8 pm UTC |
