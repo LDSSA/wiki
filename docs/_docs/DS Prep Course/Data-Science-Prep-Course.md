@@ -36,7 +36,7 @@ Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix comman
 All learning units will be released on the [`ds-prep-course-2024`](https://github.com/LDSSA/ds-prep-course-2024) repository and you can go through them at your own pace.
 
 ## When is the Prep Course
-The Prep Course takes place between March 18th, 2024 and June 9th, 2024.
+The Prep Course takes place between March 17th, 2025 and June 8th, 2025.
 
 ## Fees
 The Prep Course is free of charge.
@@ -61,9 +61,9 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 
 | Week | Learning Materials |
 |-|-|
-|  <br> 2025-01-01 - 2025-03-14 | Applications are open |
-|  <br> 2025-03-15 - 2025-03-16 | Applications results are published |
-|  <br> 2025-03-17 | Prep course starts |
+|  2025-01-01 - 2025-03-14 | Applications are open |
+|  2025-03-15 - 2025-03-16 | Applications results are published |
+|  2025-03-17 | Prep course starts |
 | **Week 0** | **Setup** <br> **SLU00 - Jupyter Notebook**
 | **Week 1** | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
 | **Week 2** | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
@@ -76,7 +76,7 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 | **Week 9** | **SLU15** - Debugging & Text Editor <br> **SLU16** - Final Project |
 | **Week 10**| **SLU17** - Exam Prep I |
 | **Week 11**| **SLU18** - Exam Prep II |
-|  <br> 2025-05-08 | Prep course ends |
+|  2025-06-08 | Prep course ends |
 
 # Practicalities
 Here we will explain how our Slack workspace is organized. Essentially, there will be a Slack channel dedicated to each week's materials, e.g. #setup, #week-01, #week-02, #week-03. Questions should be posted to the right channels, e.g. if you have a question about Week 02, you should go to #week-02 channel and post your questions there.
