@@ -60,9 +60,9 @@ Since the [schedule](#schedule) is tight, you should do everything that you can 
 As mentioned previously, this is our suggested schedule to help you keep track of your learning. That being said, feel free to skip certain topics you already know. The other way around, take the time to study the materials that you are not comfortable with.
 |||
 |-|-|
-|  2025-01-01 - 2025-03-14 | Applications are open |
-|  2025-03-15 - 2025-03-16 | Applications results are published |
-|  2025-03-17 | Prep course starts |
+| **2025-01-01 - 2025-03-14** | Applications are open |
+| **2025-03-15 - 2025-03-16** | Applications results are published |
+| **2025-03-17** | Prep course starts |
 | **Week 0** | **Setup** <br> **SLU00 - Jupyter Notebook**
 | **Week 1** | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
 | **Week 2** | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
@@ -75,7 +75,7 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 | **Week 9** | **SLU15** - Debugging & Text Editor <br> **SLU16** - Final Project |
 | **Week 10**| **SLU17** - Exam Prep I |
 | **Week 11**| **SLU18** - Exam Prep II |
-|  2025-06-08 | Prep course ends |
+| **2025-06-08**| Prep course ends |
 
 # Practicalities
 Here we will explain how our Slack workspace is organized. Essentially, there will be a Slack channel dedicated to each week's materials, e.g. #setup, #week-01, #week-02, #week-03. Questions should be posted to the right channels, e.g. if you have a question about Week 02, you should go to #week-02 channel and post your questions there.
