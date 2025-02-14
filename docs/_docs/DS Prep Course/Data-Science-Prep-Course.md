@@ -58,7 +58,7 @@ Since the [schedule](#schedule) is tight, you should do everything that you can 
 
 # Schedule
 As mentioned previously, this is our suggested schedule to help you keep track of your learning. That being said, feel free to skip certain topics you already know. The other way around, take the time to study the materials that you are not comfortable with.
-|||
+
 |-|-|
 |  2025-01-01 - 2025-03-14 | Applications are open |
 |  2025-03-15 - 2025-03-16 | Applications results are published |
