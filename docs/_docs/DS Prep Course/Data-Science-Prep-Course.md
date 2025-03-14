@@ -36,7 +36,7 @@ Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix comman
 All learning units will be released on the [`ds-prep-course-2024`](https://github.com/LDSSA/ds-prep-course-2024) repository and you can go through them at your own pace.
 
 ## When is the Prep Course
-The Prep Course takes place between March 18th, 2024 and June 9th, 2024.
+The Prep Course takes place between March 17th, 2025 and June 8th, 2025.
 
 ## Fees
 The Prep Course is free of charge.
@@ -58,24 +58,24 @@ Since the [schedule](#schedule) is tight, you should do everything that you can 
 
 # Schedule
 As mentioned previously, this is our suggested schedule to help you keep track of your learning. That being said, feel free to skip certain topics you already know. The other way around, take the time to study the materials that you are not comfortable with.
-
-| Week | Learning Materials |
+|||
 |-|-|
-|  <br> 2024-02-12 - 2023-03-10 | Applications opened to students |
-|  <br> 2024-03-11 - 2024-03-17 | Applications results are published |
-| **Week 0** <br> 2024-03-18 - 2024-03-24 | **Setup** <br> **SLU00 - Jupyter Notebook**
-| **Week 1** <br> 2024-03-25 - 2024-04-09 | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
-| **Week 2** <br> 2024-04-01 - 2024-04-16 | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
-| **Week 3** <br> 2024-04-08 - 2024-04-23 | **SLU05** - Flow Control |
-| **Week 4** <br> 2024-04-15 - 2024-04-30 | **SLUO6** - Git Intermediate <br> **SLU07** - Functions: Fundamentals 
-| **Week 5** <br> 2024-04-22 - 2024-05-07 | **SLU08** - Functions: Intermediate <br> **SLU09** - OOP Basics |
-| **Week 6** <br> 2024-04-29 - 2024-05-14 | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
-| **Week 7** <br> 2024-05-06 - 2024-05-21 | **SLU12** - Linear Algebra & NumPy, Part 1 |
-| **Week 8** <br> 2024-05-13 - 2024-05-28 | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
-| **Week 9** <br> 2024-05-20 - 2024-06-04 | **SLU15** - Debugging & Text Editor <br> **SLU16** - Final Project |
-| **Week 10** <br> 2024-05-27 - 2024-06-11 | **SLU17** - Exam Prep I |
-| **Week 11** <br> 2024-06-03 - 2024-06-09 | **SLU18** - Exam Prep II |
-
+| **2025-01-01 - 2025-03-14** | Applications are open |
+| **2025-03-15 - 2025-03-16** | Applications results are published |
+| **2025-03-17** | Prep course starts |
+| **Week 0** | **Setup** <br> **SLU00 - Jupyter Notebook**
+| **Week 1** | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
+| **Week 2** | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
+| **Week 3** | **SLU05** - Flow Control |
+| **Week 4** | **SLUO6** - Git Intermediate <br> **SLU07** - Functions: Fundamentals 
+| **Week 5** | **SLU08** - Functions: Intermediate <br> **SLU09** - OOP Basics |
+| **Week 6** | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
+| **Week 7** | **SLU12** - Linear Algebra & NumPy, Part 1 |
+| **Week 8** | **SLU13** - Linear Algebra & NumPy, Part 2 <br> **SLU14** - Modules & Packages |
+| **Week 9** | **SLU15** - Debugging & Text Editor <br> **SLU16** - Final Project |
+| **Week 10**| **SLU17** - Exam Prep I |
+| **Week 11**| **SLU18** - Exam Prep II |
+| **2025-06-08**| Prep course ends |
 
 # Practicalities
 Here we will explain how our Slack workspace is organized. Essentially, there will be a Slack channel dedicated to each week's materials, e.g. #setup, #week-01, #week-02, #week-03. Questions should be posted to the right channels, e.g. if you have a question about Week 02, you should go to #week-02 channel and post your questions there.
