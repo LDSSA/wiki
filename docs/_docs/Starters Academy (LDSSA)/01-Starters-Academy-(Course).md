@@ -141,32 +141,31 @@ Certificates have an expected issuing time of 1 month from the end of the academ
 
 ## 3. Schedule
 
-The overall schedule and most important deadlines for batch 8:
+The overall schedule and most important deadlines for batch 9. Submission deadline for each specialization material is always at 8 pm PT time of the last day. See full calendar [here](https://calendar.google.com/calendar/u/0?cid=Y183NDk2MWIwZjYzMTRiODVlMzY1NjNlYjI0MzQ5MDkxZWQ3ODM3Nzk5ZDEzOTQxNGE5YjZjODBjYTNjOTQ2NzEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 | Activity  | Date/Deadline                  |
 |---------------------------------------------------------------------|--------------------------------|
-| Admissions | June - July 2024 (see full calendar [here](https://ldssa.github.io/wiki/Applicants/Application-process/)) |
-| Batch 8 kick off                                                     | Sep 2024
-| Introductory session                                                 | Sep 2024
-| Set-up                                                               | 15 - 21 Sep 2024           |
-| Bootcamp classes                                                     | 22 and 29 Sep 2024           |
-| Specialization 1 submission deadline                                 | 19 Oct 2024 8 pm UTC+1    |
-| Hackathon 1                                                          | 20 Oct 2024             |
-| Specialization 2 submission deadline                                 | 16 Nov 2024 8 pm UTC |
-| Hackathon 2                                                          | 17 Nov 2024            |
-| Specialization 3 submission deadline                                 | 14 Dec 2024 8 pm UTC    |
-| Hackathon 3                                                          | 15 Dec 2024              |
-| Christmas break                                                      | 16 Dec 2024 - 5 Jan 2025    |
-| Specialization 4 submission deadline                                 | 1 Feb 2025 8 pm UTC+1       |
-| Hackathon 4                                                          | 2 Feb 2025           |
-| Specialization 5 submission deadline                                 | 1 Mar 2025 8 pm UTC+1   |
-| Hackathon 5                                                          | 2 Mar 2025          |
-| Specialization 6 submission deadline                                 | 29 Mar 2025 8 pm UTC+1   |
-| Hackathon 6                                                          | 30 Mar 2025          |
-| Spring break                                                         | 31 Mar - 6 Apr 2025          |
-| Capstone                                                             | 7 Apr - 15 Jun 2025         |
-| Academy graduates announced                                          | 16 Jun 2025         |
-
-The master schedule google calendar is [here](https://calendar.google.com/calendar/u/0?cid=Y182MWRjMzJlZDc5NDVlNGI3OTBkZjFlZGM1YTBiOGExNGRmZTA1YjYzZDhmNWE4MDgwZmY4MzllMjEzNTExMjE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
- - you can add this calendar to most calendar apps so that you stay aware of all the important dates. 
+| Registration for admissions | 23 June - 6 July 20245 |
+| Admissions | 7 - 27 July 2025 |
+| Scholarship interviews | 29 July - 2 August 2025 |
+| Scholarship interviews | 29 July - 2 August 2025 |
+| Introductory session                                                 | 20 Sep 2025 |
+| Set-up                                                               | 21 - 27 Sep 2025           |
+| Bootcamp classes                                                     | 28 Sep and 5 Oct 2025           |
+| Specialization 1                                                     | 29 Sep - 25 Oct 2025    |
+| Hackathon 1                                                          | 26 Oct 2025             |
+| Specialization 2                                                     | 27 Oct - 22 Nov 2025 |
+| Hackathon 2                                                          | 23 Nov 2025            |
+| Specialization 3                                                     | 24 Nov -  20 Dec 2025    |
+| Hackathon 3                                                          | 21 Dec 2025              |
+| Christmas break                                                      | 22 Dec 2025 - 4 Jan 2026    |
+| Specialization 4                                                     | 5 - 31 Jan 2026       |
+| Hackathon 4                                                          | 1 Feb 2026           |
+| Specialization 5                                                     | 2 - 28 Feb 2026  |
+| Hackathon 5                                                          | 1 Mar 2026          |
+| Specialization 6                                                     | 2 - 28 Mar 2026   |
+| Hackathon 6                                                          | 29 Mar 2026          |
+| Spring break                                                         | 30 Mar - 5 Apr 2026         |
+| Capstone                                                             | 6 Apr - 28 Jun 2026         |
+| Academy graduates announced                                          | 29 Jun 2026         |
  
