@@ -149,16 +149,16 @@ The overall schedule and most important deadlines for batch 9. Submission deadli
 | Admissions | 7 - 27 July 2025 |
 | Scholarship interviews | 29 July - 2 August 2025 |
 | Scholarship interviews | 29 July - 2 August 2025 |
-| Introductory session                                                 | 20 Sep 2025 |
-| Set-up                                                               | 21 - 27 Sep 2025           |
-| Bootcamp classes                                                     | 28 Sep and 5 Oct 2025           |
-| Specialization 1                                                     | 29 Sep - 25 Oct 2025    |
-| Hackathon 1                                                          | 26 Oct 2025             |
-| Specialization 2                                                     | 27 Oct - 22 Nov 2025 |
-| Hackathon 2                                                          | 23 Nov 2025            |
-| Specialization 3                                                     | 24 Nov -  20 Dec 2025    |
-| Hackathon 3                                                          | 21 Dec 2025              |
-| Christmas break                                                      | 22 Dec 2025 - 4 Jan 2026    |
+| Introductory session                                                 | 14 Sep 2025 |
+| Set-up                                                               | 14 - 20 Sep 2025           |
+| Bootcamp classes                                                     | 21 and 28 Sep 2025           |
+| Specialization 1                                                     | 22 Sep - 18 Oct 2025    |
+| Hackathon 1                                                          | 19 Oct 2025             |
+| Specialization 2                                                     | 20 Oct - 15 Nov 2025 |
+| Hackathon 2                                                          | 16 Nov 2025            |
+| Specialization 3                                                     | 17 Nov -  13 Dec 2025    |
+| Hackathon 3                                                          | 14 Dec 2025              |
+| Christmas break                                                      | 15 Dec 2025 - 4 Jan 2026    |
 | Specialization 4                                                     | 5 - 31 Jan 2026       |
 | Hackathon 4                                                          | 1 Feb 2026           |
 | Specialization 5                                                     | 2 - 28 Feb 2026  |
