@@ -77,10 +77,10 @@ or at any time during the course, I will be expelled from the Academy.
 |-----------------------------------|--------------------------------------------------|
 | Sign-up in the Admission Portal   | 23 Jun 2025 00h00 UTC+1 to 6 Jul 2025 23h59 UTC+1 |
 | Scholarship applications          | 23 Jun 2025 00h00 UTC+1 to 6 Jul 2025 23h59 UTC+1 |
-| Test & SLUs                       | 7 Jul 2025 00h00 UTC+1 to 27 Jul 2025 23h59 UTC+1 |
-| Candidate Selection               | 28 Jul 2025                                       |
-| Payments & scholarship interviews | 29 Jul 2025 00h00 UTC+1 to 2 Aug 2025 23h59 UTC+1|
-| Admissions closed                 | 3 Aug 2025 23h59 UTC+1                           |
+| Test & SLUs                       | 7 Jul 2025 00h00 UTC+1 to 3 Aug 2025 23h59 UTC+1 |
+| Candidate Selection               | 4 Aug 2025                                       |
+| Payments & scholarship interviews | Aug 2025 |
+| Admissions closed                 | 1 Sep 2025 23h59 UTC+1                           |
 
 If you complete the signup in the portal and confirm your email address, you will always receive an email with the outcome of your application. This email should be sent between 28 July and 3rd August 2025.
 
