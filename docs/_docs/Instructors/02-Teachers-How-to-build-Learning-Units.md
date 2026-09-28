@@ -23,7 +23,7 @@ Contents:
 
 This page should serve as the source of truth for how to develop a learning unit for the 
 Academy. If you are not familiar with the main details about the course, start by checking
-out the information [here](../../Starters Academy (LDSSA)/01-Starters-Academy-(Course).md)
+out the information [here](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/)
 
 # Learning Materials
 
@@ -33,7 +33,7 @@ A hackathon is usually prepared by a larger team.
 
 ### Specialization 1 SLUs
 
-The specialization 1 LUs are small learning units. The first three SLU are part of the admission exam. Each SLU consists of:
+The Specialization 1 LUs are Small Learning Units. SLU01–03 are ordinary mandatory Specialization 1 units and follow the same course-unit workflow as the other mandatory SLUs. Each SLU consists of:
 
 * 1 [Learning Notebook](#1-learning-notebook)
 * 1 [Examples Notebook](#2-examples-notebook)

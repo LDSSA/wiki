@@ -4,90 +4,58 @@ category: Starters Academy (LDSSA)
 order: 4
 ---
 
+## Structure
 
-## Structure 
+Specialization 1 — Bootcamp and Binary Classification runs from **25 October to 21 November 2026**. It covers data manipulation and visualization, statistics, data cleaning, regression, classification and model evaluation.
 
-In **Specialization 1 - Bootcamp and Binary Classification** you learn the basics of data science, 
-ranging from useful pandas functions to procedures like data cleaning and common problems 
-like regression and classification and the models used to tackle them.
-This first Specialization has a different structure than other Specializations. 
-It is composed of 3 learning units completed during the admissions and additional 14 mandatory 
-and 2 optional learning units which you have to complete in the first three weeks of the Academy`.
-The learning units are accompanied by virtual classes presented during 2 days. Participation in the virtual classes is mandatory.
+SLU01–17 are mandatory course units. SLU18, SLU19, SLU32 and SLU64 are optional. SLU01–03 are completed during Specialization 1, not during admissions.
 
-| SLU   | Name                                     |  Presented at   | Mandatory |
-|-------|------------------------------------------|-----------------|-----------|
-| SLU01 | Pandas 101                               | Admissions      |  Yes      |
-| SLU02 | Subsetting Data in Pandas                | Admissions      |  Yes      |
-| SLU03 | Visualization with Pandas & Matplotlib   | Admissions      |  Yes      |
-| SLU04 | Basic Stats with Pandas                  | Bootcamp Day 1  |  Yes      |
-| SLU05 | Covariance & Correlation                 | Bootcamp Day 1  |  Yes      |
-| SLU06 | Dealing with Data Problems               | Bootcamp Day 1  |  Yes      |
-| SLU07 | Regression with Linear Regression        | Bootcamp Day 1  |  Yes      |
-| SLU08 | Metrics for Regression                   | Bootcamp Day 1  |  Yes      |
-| SLU09 | Classification with Logistic Regression  | Bootcamp Day 1  |  Yes      |
-| SLU10 | Metrics for Classification               | Bootcamp Day 1  |  Yes      |
-| SLU11 | Tree-Based Models                        | Bootcamp Day 2  |  Yes      |
-| SLU12 | Feature Engineering (aka Real Wold Data) | Bootcamp Day 2  |  Yes      |
-| SLU13 | Bias-Variance tradeoff & Model Selection | Bootcamp Day 2  |  Yes      |
-| SLU14 | Model complexity & Overfitting           | Bootcamp Day 2  |  Yes      |
-| SLU15 | Hyperparameter Tuning                    | Bootcamp Day 2  |  Yes      |
-| SLU16 | Workflow                                 | Bootcamp Day 2  |  Yes      |
-| SLU17 | Ethics & Fairness                        | Bootcamp Day 2  |  Yes      |
-| SLU18 | Support Vector Machines (SVM)            | Not presented   |  No       |
-| SLU19 | k-Nearest Neighbors (kNN)                | Not presented   |  No       |
+| SLU | Name | Presented at | Mandatory |
+| --- | --- | --- | --- |
+| SLU01 | Pandas 101 | Learning materials | Yes |
+| SLU02 | Subsetting Data in Pandas | Learning materials | Yes |
+| SLU03 | Visualization with Pandas & Matplotlib | Learning materials | Yes |
+| SLU04 | Basic Stats with Pandas | Bootcamp Day 1 | Yes |
+| SLU05 | Covariance & Correlation | Bootcamp Day 1 | Yes |
+| SLU06 | Dealing with Data Problems | Bootcamp Day 1 | Yes |
+| SLU07 | Regression with Linear Regression | Bootcamp Day 1 | Yes |
+| SLU08 | Metrics for Regression | Bootcamp Day 1 | Yes |
+| SLU09 | Classification with Logistic Regression | Bootcamp Day 1 | Yes |
+| SLU10 | Metrics for Classification | Bootcamp Day 1 | Yes |
+| SLU11 | Tree-Based Models | Bootcamp Day 2 | Yes |
+| SLU12 | Feature Engineering | Bootcamp Day 2 | Yes |
+| SLU13 | Bias-Variance Tradeoff & Model Selection | Bootcamp Day 2 | Yes |
+| SLU14 | Model Complexity & Overfitting | Bootcamp Day 2 | Yes |
+| SLU15 | Hyperparameter Tuning | Bootcamp Day 2 | Yes |
+| SLU16 | Workflow | Bootcamp Day 2 | Yes |
+| SLU17 | Ethics & Fairness | Bootcamp Day 2 | Yes |
+| SLU18 | Support Vector Machines | Not presented | No |
+| SLU19 | k-Nearest Neighbors | Not presented | No |
+| SLU32 | Training for Hackathon, Part 1 | Not presented | No |
+| SLU64 | Training for Hackathon, Part 2 | Not presented | No |
 
-The virtual classes will be presented on Sundays 26 Nov 2023 and 3 Dec 2023. Each class lasts about 60 min. The topics presented during each class are the following:
+## Bootcamp classes
 
-Bootcamp part 1, Sunday morning 26 Nov 2023
-- Class 1:
-   - Introduction to data science
-   - SLU04 - Basic Stats with Pandas
-   - SLU05 - Covariance and Correlation
-   - SLU06 - Dealing with Data Problems
-- Class 2:
-   - SLU07 - Regression with Linear Regression
-   - SLU08 - Metrics for Regression
-- Class 3: 
-   - SLU09 - Classification with Logistic Regression
-   - SLU10 - Metrics for Classification
+The remote Bootcamp classes take place on:
 
-Bootcamp part 2, Sunday morning 3 Dec 2023
-- Class 4:
-   - SLU11 - Tree-Based Models
-   - SLU12 - Feature Engineering
-Class 5:
-   - SLU13 - Bias-Variance tradeoff & Model Selection
-   - SLU14 - Model complexity and Overfitting
-   - SLU15 - Hyperparameter Tuning
-Class 6: 
-   - SLU16 - Workflow
-   - SLU17 - Ethics and Fairness
+- **Day 1: Sunday, 25 October 2026** — SLU04–10;
+- **Day 2: Sunday, 1 November 2026** — SLU11–17.
 
-### Time commitment
+Participation in both days is required for certificate eligibility.
 
-Aside from the virtual classes, you should be prepared to spend a recommended *10 hours per week* 
-on the bootcamp units throughout the course of the 3 weeks given to complete them.
+## Workload and evaluation
 
-### Specialization 1 Evaluation Rules
+Plan for approximately 10–15 hours per week during the four-week Specialization. Complete the mandatory units before working on optional content.
 
-In order to pass Specialization 1
+To pass Specialization 1 and continue in the Academy, you must score at least **16/20 in every mandatory SLU01–17 by the end of 21 November 2026, Europe/Lisbon time**. Students who do not meet this requirement cannot enter Hackathon 1 or later course activities.
 
-* The student must take part in the virtual classes
-* The student must score at least 16/20 on the mandatory learning units until the deadline (see the calendar section below)
+The four optional units do not affect progression or certificate eligibility.
 
-### Optional units
+## Calendar
 
-There are a two optional units teaching additional classification models that we recommend the students look at, 
-but that are not mandatory to pass the bootcamp. However, they will show up on the final curriculum as either passed/failed. 
-As in other learning units, a passing grade is a score of at least 16/20 submitted until the deadline.
-(see the calendar section below). We advise you to only tackle these two units after you have completed all mandatory content, 
-since completing Specialization 1 is essential to proceed with the academy. 
-
-### Calendar
-
-| Description |  Date | 
-|-------------|-------------|
-| Bootcamp day 1 |  26 Nov 2023 in the morning | 
-| Bootcamp day 2 |  3 Dec 2023 in the morning |
-| Deadline for Specialization 1 |  16 Dec 2023, 8pm UTC |
+| Description | Date |
+| --- | --- |
+| Specialization 1 begins / Bootcamp Day 1 | 25 Oct 2026 |
+| Bootcamp Day 2 | 1 Nov 2026 |
+| Specialization 1 deadline | End of 21 Nov 2026, Europe/Lisbon |
+| Hackathon 1 | 22 Nov 2026 |

@@ -122,8 +122,8 @@ Here is a list of important things that you should definitely read and be famili
 
 1. [Our mission and values](https://docs.google.com/document/d/1EDQF8lFZA0DYKhru57rxLI4d7s3ReiN90BFdjTHtP-Q/edit?usp=sharing);
 1. [Our code of conduct](../../About us/Code-of-Conduct) - If you've been accepted and gone through the checklist you already read and agreed to it;
-1. [The Academy](../../About us/Lisbon-Data-Science-Academy-(Organization)) - Learn about the difference between the LDSA and LDSSA;
-1. [The Starters Academy](../../Starters Academy (LDSSA)/Starters-Academy-(Course)) - Main reference for the format and what will
+1. [The Academy](https://ldssa.github.io/wiki/About%20us/Lisbon-Data-Science-Academy-%28Organization%29/) - Learn about the difference between the LDSA and LDSSA;
+1. [The Starters Academy](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/) - Main reference for the format and what will
    be covered in the Starters Academy;
 1. [The academy AORs](../../About us/LDSA-Areas-of-Responsibility)- We divide responsibilities via things called
    Areas of Responsibility (AORs);
@@ -134,10 +134,10 @@ Here is a list of important things that you should definitely read and be famili
 If you are coming on as an instructor, there's some additional technical documentation that you'll need to be aware of.
 
 1. [The curriculum development repo](https://github.com/LDSSA/curriculum-development) - This is the source of truth for the curriculum that is being taught during the current batch. When you accept development of an LU, this dictates the topics that you must cover.
-1. [`batch4-instructors`](https://github.com/LDSSA/batch4-instructors) - The learning materials developed for **LDSSA (Batch 4)**.
-1. [`ds-prep-course-instructors`](https://github.com/LDSSA/ds-prep-course-instructors) - The learning materials developed for **DS Prep Course (2020)**.
-1. `batch<edition-number>-instructors` (only accessible to LDSA staff - you need to be logged in!) - This is the single source of truth for the learning material that will be deployed to students. You push to this repo, open PRs to start the QA process, and then via some CD will be sent to the students. Example: the repo for Batch 5 is [`batch5-instructors`](https://github.com/LDSSA/batch5-instructors).
-1. `batch<edition-number>-students` (**public**) - This is is the single source of truth for the learning material from the perspective of the students. They are not aware of the existence of the instructors repo. Example: the repo for Batch 5, for students, is [`batch5-students`](https://github.com/LDSSA/batch5-students).
+1. [`batch-instructors`](https://github.com/LDSSA/batch-instructors) (private) - The source of truth where instructors and QA prepare the current batch's materials. Approved material is published from this repository to the student repository.
+1. [`batch-students`](https://github.com/LDSSA/batch-students) (public) - The source of truth for the materials released to students in the current batch.
+1. Older numbered repositories, such as [`batch4-instructors`](https://github.com/LDSSA/batch4-instructors) and [`batch5-students`](https://github.com/LDSSA/batch5-students), are historical examples and are not the current working repositories.
+1. [`ds-prep-course-instructors`](https://github.com/LDSSA/ds-prep-course-instructors) is a historical DS Prep Course instructor repository. Current Prep Course editions use year-specific repositories.
 1. For the Prep Course, you have a similar structure of repos. One will be the `ds-prep-course-instructors-<edition-year>`, the student's will be the `ds-prep-course-<edition-year>`.
 1. Refer to the [Member Directory page](../../About us/Member-Directory) to know who to contact for **Curriculum**, **Teaching** and **QA** AORs for the LDSA, as well as the specific AORs for the Prep Course.
 1. Learning Materials Development - < _To be done._ >

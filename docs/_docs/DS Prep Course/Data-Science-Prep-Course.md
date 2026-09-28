@@ -15,7 +15,7 @@ What's in this page:
     - [What support will I receive during the course](#what-support-will-i-receive-during-the-course)
     - [Time requirements](#time-requirements)
     - [Deadlines](#deadlines)
-- [Schedule](#schedule)
+- [2025 edition schedule](#2025-edition-schedule)
 - [Practicalities](#practicalities)
 - [Late policy](#late-policy)
 - [How to ask for help](#how-to-ask-for-help)
@@ -33,10 +33,11 @@ It is important to keep in mind that we cannot guarantee that by taking the Prep
 
 Python Programming, Python Engineering, `numpy`, Linear Algebra, the *nix command line, Git Basics, Jupyter. You can see the curriculum in more details in this [document](https://docs.google.com/spreadsheets/d/1_WGZA_NFwFNpzl4cnMfN6clHV0Z0OaxCwMTDKCHcEEw/edit#gid=2018895387).
 
-All learning units will be released on the [`ds-prep-course-2024`](https://github.com/LDSSA/ds-prep-course-2024) repository and you can go through them at your own pace.
+The latest published edition is available in the [`ds-prep-course-2025`](https://github.com/LDSSA/ds-prep-course-2025) repository, and you can work through its learning units at your own pace.
 
 ## When is the Prep Course
-The Prep Course takes place between March 17th, 2025 and June 8th, 2025.
+
+The schedule below records the **2025 edition**, which ran from 17 March to 8 June 2025. Dates for a future edition will be published when confirmed. The public materials remain available for independent study.
 
 ## Fees
 The Prep Course is free of charge.
@@ -51,13 +52,14 @@ New learning materials will be released and shared with you every Monday. Ideall
 You have at your availability a group of dedicated instructors who will answer any of your questions in our Slack workspace. On top of that, you will be surrounded by motivated fellow students that can also help you out. Make the most out of the course!
 
 ## Time requirements
-If you have no prior knowledge of any of the subjects, you should be prepared to spend an absolute minimum of 10 hours per week on the course. We understand that this might sound like a lot. However, this course was not designed to give you some brief ideas on Python programming. Instead, we expect that you will fully grasp all the fundamental concepts and practice enough to instinctively solve programming problems. If you already have a certain degree of knowledge of some topics, the time requirements will be less. Finally, keep in mind that this recommendation does not include the preparation time for the admission test for the Starters Academy.
+If you have no prior knowledge of any of the subjects, you should be prepared to spend an absolute minimum of 10 hours per week on the course. We understand that this might sound like a lot. However, this course was not designed to give you only a brief introduction to Python programming. We expect you to understand the fundamentals and practise enough to solve programming problems independently. If you already know some topics, the time required will be lower.
 
 ## Timeline
-Since the [schedule](#schedule) is tight, you should do everything that you can in order to complete all exercises by the end of the week, but if you cannot, that is okay! This timeline is a suggestion to help you keep on track. If you fall a bit behind for whatever reason, do everything you can to get back on track! If you feel somewhat lost, or have difficulty catching up, tell us ASAP and we'll help you out. The ultimate measure of success is whether or not you can pass the exam to get into the Starters Academy.
+The [archived schedule](#2025-edition-schedule) is a suggested pace. Completing the materials should give you the Python, command-line, Git and quantitative foundations needed to begin Specialization 1 of the Starters Academy. The 2026/2027 Starters Academy has no admission exam.
 
-# Schedule
-As mentioned previously, this is our suggested schedule to help you keep track of your learning. That being said, feel free to skip certain topics you already know. The other way around, take the time to study the materials that you are not comfortable with.
+# 2025 edition schedule
+
+This table is an archive of the 2025 Prep Course schedule. Use it as a suggested order for independent study, skipping topics you already know and spending more time on topics you find difficult.
 |||
 |-|-|
 | **2025-01-01 - 2025-03-14** | Applications are open |
@@ -67,7 +69,7 @@ As mentioned previously, this is our suggested schedule to help you keep track o
 | **Week 1** | **SLU01** - Command Line & Basics of Debugging <br> **SLU02** - Programming Basics |
 | **Week 2** | **SLU03** - Git Basics <br> **SLU04** - Data Structures |
 | **Week 3** | **SLU05** - Flow Control |
-| **Week 4** | **SLUO6** - Git Intermediate <br> **SLU07** - Functions: Fundamentals 
+| **Week 4** | **SLU06** - Git Intermediate <br> **SLU07** - Functions: Fundamentals |
 | **Week 5** | **SLU08** - Functions: Intermediate <br> **SLU09** - OOP Basics |
 | **Week 6** | **SLU10** - OOP Inheritance <br> **SLU11** - String & File Handling |
 | **Week 7** | **SLU12** - Linear Algebra & NumPy, Part 1 |
@@ -111,4 +113,4 @@ The Prep course does not occur at any specific time. You will be working on your
 The Prep course's materials are 100% available on Github, and you can always go through it by yourself at any time. However, when the course is already finished, our instructor team will not be available to assist you with every question you might have. So, try your best to follow the Prep course' [schedule](#schedule) and make the most out of it even though we know it might be hard sometimes!
 
 #### 5. **I've missed the registration for the Prep Course, but really wanted to prepare for the Academy ... What should I do?**
-All materials taught in the Prep Course are publicly available [here](https://github.com/LDSSA/ds-prep-course-2024) . We've tried our best to give very detailed instructions so that you could follow it on your own! You can also leave suggestions/feedback by opening an issue [here](https://github.com/LDSSA/ds-prep-course-2024/issues).
+The latest published Prep Course materials are publicly available in the [`ds-prep-course-2025` repository](https://github.com/LDSSA/ds-prep-course-2025). You can follow them independently and leave feedback by [opening an issue](https://github.com/LDSSA/ds-prep-course-2025/issues).

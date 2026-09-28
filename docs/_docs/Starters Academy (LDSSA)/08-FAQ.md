@@ -4,54 +4,52 @@ category: Starters Academy (LDSSA)
 order: 8
 ---
 
-> ⚠️ Some information in this page might be outdated.
+# Frequently Asked Questions
 
+### Can I talk to someone about the Academy?
 
-# Frequently Asked Questions (and some rarely asked ones too)
+Yes. Email [info@lisbondatascience.org](mailto:info@lisbondatascience.org).
 
-### This is all very confusing, can I talk to a human? 
-Yes, you can! All contact details are [here](http://www.lisbondatascience.org/#lp-pom-block-721)
+### Where can I find the dates for Batch 10?
 
-### When is the next Academy? 
-All the main dates can be found [here](https://calendar.google.com/calendar/embed?src=lisbondatascience.org_th6fpmimvqvso12t70cd1gkvq8@group.calendar.google.com&ctz=Europe/Lisbon&pli=1). If applications aren't open and you want be notified when they open, please [leave us your email](http://www.lisbondatascience.org/) 
+See the [2026/2027 course schedule](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/#3-schedule). Dates and deadlines follow Europe/Lisbon time.
 
 ### What is the Starters Academy?
-Please read the [Academy Guide](../Starters-Academy-(Course)) carefully. If there are any questions left please feel free to [raise an issue](https://github.com/LDSSA/wiki/issues) or [contact us directly](http://www.lisbondatascience.org/#lp-pom-block-721).
 
-### How do I apply? What are the prerequisites? 
-Here is the [Application process](../../Applicants/Application-process) and the [Prerequisites section](../Target-audience-and-Pre-requisites-for-the-Starters-Academy).
+Read the [course overview](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/). It explains the structure, workload, progression rules and schedule.
 
-### Is there any financial support if I can't afford the student fees?
-Yes, we are currently trialing a [scholarships program](../../Applicants/Application-process#scholarships)
+### How do I apply?
 
-### What will be the size of the students group?
-In 2020 the class will be around 100 students. The idea is to have a high teacher-student ratio, and to ensure everyone gets enough support, while still being able to teach a reasonable number of students. 
+Read the [Admissions Process](https://ldssa.github.io/wiki/Applicants/Application-process/) and the [prerequisites](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/02-Target-audience-and-Pre-requisites-for-the-Starters-Academy/). Batch 10 has no admission exam.
 
+### Is financial support available?
 
-### Are meals included in the fee?
-This year it is unclear whether we will be serving food due to Covid 19, as the Academy will be mostly (if not entirely) remote. If there are events in person, generally we cover the food. 
+Yes. You can request a scholarship during Portal registration. Scholarship applicants attend an interview and provide evidence of unemployment or low income. See the [scholarship process](https://ldssa.github.io/wiki/Applicants/Application-process/#scholarships).
 
+### How large will the group be?
 
-### Will it be any kind of internship possibility at the end of the school?
-We are currently working on a jobs page, if you want to learn more contact us at jobs[at]lisbondatascience.org 
+The final group size is not fixed on this page. The Academy aims to provide enough instructor support for enrolled students.
 
-### What language will the classes be in?
-English. _(...and Python)_
+### Is the course remote?
 
-### Will you teach python? 
-The starters Academy requires Python, but we do have a [prep course](../../DS Prep Course/Data-Science-Prep-Course) that teaches it!  
+Yes. Batch 10 is remote. No meals are associated with remote activities. If an optional in-person event is organized, its arrangements will be communicated separately.
 
-### I don’t know any data science, will I be able to make the classes? 
-Yes! The classes are directed at people who are giving their first steps in the data science world. 
- 
-### Will laptops be provided? 
-No, you must bring your laptop with you
+### What language is used?
 
-#### When will we install the necessary software? 
-Setup must be done before arrival, we will provide step by step instructions and remote support. 
-[Here is the setup](https://github.com/LDSSA/setup) that we've required in the past.
+All teaching, materials and course communication are in English.
 
-#### How do I know if my python is good enough?
-A good option would be doing our test. However, for an idea of what will be tested, please read the [pre-requisites](../Starters-Academy-(Course)#pre-requisites).
+### Will the Starters Academy teach me Python from scratch?
 
-If you have no prior experience with Python, we recommend doing our [1-month Prep Course](../../DS Prep Course/Data-Science-Prep-Course).
+No. You need practical Python knowledge before the course begins. The free [Data Science Prep Course](https://ldssa.github.io/wiki/DS%20Prep%20Course/Data-Science-Prep-Course/) materials cover the required foundations.
+
+### Will a computer be provided?
+
+No. You need your own suitable computer and internet connection. The setup period is **18–24 October 2026**, with remote support. See the [setup repository](https://github.com/LDSSA/setup).
+
+### How do I know whether my Python is good enough?
+
+Use the [prerequisite checklist](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/02-Target-audience-and-Pre-requisites-for-the-Starters-Academy/) and work through the current public Prep Course materials. There is no admission test in 2026/2027.
+
+### Are internships guaranteed after the course?
+
+No. The Academy does not guarantee employment or an internship. For employment-related questions, email [jobs@lisbondatascience.org](mailto:jobs@lisbondatascience.org).

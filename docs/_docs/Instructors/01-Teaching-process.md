@@ -28,8 +28,8 @@ We use the [nbgrader](https://nbgrader.readthedocs.io/en/stable/) package to eva
 All materials are planned, built and reviewed through github. The repositories
 are in the [Academy GitHub](https://github.com/LDSSA/). These are three relevant repositories:
 * [curriculum-development](https://github.com/LDSSA/curriculum-development) (public): Our curriculum is reviewed and updated in this repository.
-* `batchX-instructors` (X = current batch number): Private repo for the material development where instructors and QA collaborate in creating and maintaing the material.
-* `batchX-students` (X = current batch number): Public repo where students get the material. The developed material is released here from the instructors repo.
+* [`batch-instructors`](https://github.com/LDSSA/batch-instructors): Private repository where instructors and QA develop and maintain the current batch's materials.
+* [`batch-students`](https://github.com/LDSSA/batch-students): Public repository where the approved materials are released to students.
 
 # Areas of responsibility
  
@@ -82,7 +82,9 @@ on the curriculum AOR
 
 The changes are discussed through slack and GitHub issues and finally in a summit. After the decisions are taken, they are documented and we proceed with the preparation of the next batch.
 
-<img src="../../images/batch-start-timeline.png"/>
+The preparation cycle is:
+
+**Review feedback → agree curriculum and structure → assign instructors and QA → develop and review all units, including SLU01–03 → release the current batch materials**
 
 It's at this point that volunteers should be proactive and share where they would like
 to work. All allocation is done through our [wiki](https://github.com/LDSSA/wiki/)
@@ -99,7 +101,7 @@ and check for potential improvements - maybe something isn't fully clear or woul
 benefit from an extra example.
 * Correct errors discovered in the previous batch.
 * Update the code for the current Python and package versions.
-* Revamp the exercises in the admission units SLU01-03.
+* Review and maintain SLU01–03 as mandatory Specialization 1 units.
 * Review the exercise notebook: the exercises don't have to change if they fulfill the learning goals. It is possible to add/replace exercises, keeping in mind that the notebook cannot grow too much.
 
 This process usually takes 1-2 months. It is the responsibility of the instructor and QA to start early and coordinate so that the unit is ready in time bwfore the release date.

@@ -35,7 +35,7 @@ round to send dummy data to your app, so you can:
 
 1. check if it's working
 2. if not, debug why
-3. check it's performance (how many requests you were able to answer, for example)
+3. check its performance (how many requests you were able to answer, for example)
 
 This means that ideally you should have your app ready by then. This is not mandatory, as it 
 is not an evaluation moment, but it is definitely recommended.
@@ -104,8 +104,7 @@ following:
 
 In order to get a passing chance, both reports need to be sent with **all sections completed**. In addition, 
 each section has to pass a minimum threshold of quality, with respect to the requirements presented. 
-You can refer to the [sections and descriptions of batch 4](https://docs.google.com/spreadsheets/u/2/d/1XkBZRkoNWBxOigN3Or_AhiUL1TNKVC9evlFptwGUjcY/edit) 
-to understand better how these may look.
+The current edition's Capstone brief and evaluation rubric will define the required sections and quality thresholds. Follow those documents when they are released.
 
 #### Automatic fails
 
@@ -120,16 +119,4 @@ The capstone will automatically be considered a fail if:
 
 ### Calendar
 
-| Description                                                 | Date                                                             |
-|-------------------------------------------------------------|------------------------------------------------------------------|
-| Kick off                                                    |  2023-04-03                                               |
-| Capstone Clarification email                                       |  2023-04-09       |
-| Trial round of requests                                     |          2023-04-23                               |
-| Deadline Provisory report 1 and app launched                          | 2023-04-30 , 23h59 UTC                                    |
-| First round of requests                                     | 2023-05-01 to 2023-05-07 |
-| Comments to report 1 made by instructors                    | 2023-05-07 23h59 UTC                                     |
-| Deadline report 2 + redeploy + address comments to report 1 |  2023-05-28, 23h59 UTC                                       |
-| Second round of requests                                    |   2023-05-29 to 2023-06-02     |
-| Comments to report 2 made by instructors                    | 2023-06-04 , 23h59 UTC                                       |
-| Deadline address comments to report 2                       | 2023-06-11, 23h59 UTC                                       |
-| Graduates announced                                         | 2023-06-19                                                |
+The Batch 10 Capstone runs from **3 May to 28 June 2027**. Academy graduates will be announced on **29 June 2027**. Detailed report, application, feedback and testing milestones will be provided in the current edition's Capstone brief.
