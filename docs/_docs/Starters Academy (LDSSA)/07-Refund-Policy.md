@@ -6,9 +6,7 @@ order: 7
 
 ## Refund Policy
 
-As students of Lisbon Data Science Starter Academy (LDSSA), you are eligible for a full refund up to 14 days after the [Bootcamp start date](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/01-Starters-Academy-(Course)/#schedule). Now you might be wondering:
-
-Now you might be wondering:
+As a student of the Lisbon Data Science Starters Academy, you are eligible for a full refund up to 14 days after the [Bootcamp start date](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/#3-schedule). For Batch 10, the Bootcamp starts on **25 October 2026**, and the 14-day point is **8 November 2026**.
 
 **Why the deadline of 14 days?**
 
@@ -20,15 +18,14 @@ The refund policy was created for you to evaluate whether LDSSA would be the rig
 
 **What if I get sick?**
 
-In case of sickness, or other unforeseen events, cases will be evaluated on an ad hoc manner. To request your refund please send an email studentsuccess@lisbondatascience.org including your justification, a note for your medical doctor and any other type of supporting information. Within 30 days, you will receive an answer on whether your refund has been accepted or not. 
+In case of sickness or another unforeseen event, requests will be evaluated on an ad hoc basis. To request a refund, email [studentsuccess@lisbondatascience.org](mailto:studentsuccess@lisbondatascience.org) with your justification, a note from your doctor and any other supporting information. You will receive a decision within 30 days.
 
 ## Refund Process
 
-If the refund deadline has not passed, you can ask for a refund by sending an email to studentsuccess@lisbondatascience.org. Within 30 days, you will receive an answer on whether your refund has been accepted or not. 
+If the refund deadline has not passed, request a refund by emailing [studentsuccess@lisbondatascience.org](mailto:studentsuccess@lisbondatascience.org). You will receive a decision within 30 days.
 
 In the email, please make sure that you include the following information:
 * Full Name
 * Proof of payments
 * Recipient IBAN (The refund can only be made via the same IBAN used to make the payment) 
 * Reason for refund (Optional) - Although not required within the 14 days deadline, please let us know why you would like to drop out, if there’s anything we can improve and how we can make it a better learning experience for you.
-

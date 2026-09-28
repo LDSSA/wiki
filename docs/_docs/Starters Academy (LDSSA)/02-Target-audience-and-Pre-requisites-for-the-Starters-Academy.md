@@ -4,79 +4,53 @@ category: Starters Academy (LDSSA)
 order: 2
 ---
 
-
 ## Target audience
 
-- Python programmers 
-- Peeps who want to enter data science as a profession 
+The Starters Academy is for people who want to begin a career in data science. No previous data science knowledge is required, but this course does not teach Python from scratch.
 
-## Participating as a Student 
+It may suit:
 
-### Pre-requisites 
+- technical professionals moving into data science;
+- students in technical fields who want to begin a data science career; and
+- technically minded, independent learners with the required practical skills.
 
-The Lisbon Data Science Starters Academy is for [spoiler alert...] Starters! 
+## Prerequisites
 
-No prior knowledge of Data Science is required, but we do require:
-* Fluency in English (all the classes and materials will be provided in English),
-* Comfort with the Python programming language,
-* Knowing how to use the command line of a Unix based OS, and
-* [super-basic] Git knowledge
+Before applying, you should be comfortable with:
 
-Quantitative skills are highly encouraged: if you have a good basis of university level algebra and statistics that will definitely help. Mostly the Academy requires the kind of skills that results from having an education or working experience in the fields of (but not only) Engineering, Physics, Mathematics, Management, Economics, etc...
+- written and spoken English;
+- Python programming;
+- the command line on a Unix-based operating system;
+- basic Git; and
+- basic quantitative reasoning. University-level algebra and statistics are helpful.
 
-For an idea of whether you have enough skills, consider the following: 
+### Python self-assessment
 
-#### Python
+You should be able to use:
 
-You should be able to do the following: 
+- `if`/`else` statements and loops;
+- arrays, tuples, lists and dictionaries, including slicing and list comprehensions;
+- strings and common data types;
+- functions, lambda functions and `map`;
+- `try`/`except`; and
+- basic object-oriented programming, including classes, instances and methods.
 
-- if and else statements
-- for loops
-- handle arrays and tuples (including slicing)
-- handle lists and dictionaries (including list comprehension)
-- string manipulation
-- data types (like int, float, string and how to convert variables between them)
-- define and use functions
-- lambda functions and map
-- try except statements
-- basics of OOP (like what's a class, how to instantiate one and use methods from the class)
+### Command line and Git self-assessment
 
-#### Unix
+You should be able to navigate directories and inspect files with commands such as `cd`, `ls` and `pwd`. You will regularly use common Git operations such as `pull`, `push`, `add`, `commit` and switching branches.
 
-Can you `cd` around? Do you know how to `ls` and `pwd`? Do you shiver when you see `rm -rf *`? You'll be fine.
+## Readiness for the 2026/2027 edition
 
-#### Git
+There is **no admission exam** in 2026/2027. Applicants are responsible for assessing their readiness against the checklist above. The [Data Science Prep Course](https://ldssa.github.io/wiki/DS%20Prep%20Course/Data-Science-Prep-Course/) and its [2025 public materials](https://github.com/LDSSA/ds-prep-course-2025) can help you build or review the required foundations.
 
-You will be expected to use the most frequent Git commands (`pull`, `push`, `add`, `commit`, `checkout`) quite frequently, but nothing much more sophisticated. If I'm being completely honest, [**this**](https://imgs.xkcd.com/comics/git.png) is all the Git that most data scientists know, and we seem to get along fine.
+If you are not yet comfortable working independently in Python, complete the Prep Course materials before starting the Starters Academy. Specialization 1 begins immediately with data manipulation, visualization, statistics and machine-learning concepts.
 
-#### English
+## Cost and conduct
 
-Are you still here, reading this without some help from your browser's auto-translate? Then you're good to go!
+The Academy charges a fee to cover infrastructure and support its long-term sustainability. Instructors are volunteers, and revenue is reinvested in future editions or donated to Python-based open-source initiatives. See the current prices in the [Admissions Process](https://ldssa.github.io/wiki/Applicants/Application-process/#enrollment-and-payment).
 
-
-### Application Process and Acceptance Criteria
-We wish to ensure that the students take full advantage of the course. In order to do this, we must filter students to ensure that they (1) have enough skills to keep up with the coursework and (2) do not already have deep knowledge in all subject matter. 
-
-Students have to pass a coding test in Python and solve three learning units. Cheaters will be caught and feathered. 
-
-#### Who should apply
-
-* Technical professionals who want to break into the wonderful world of Data Science 
-* Students of technical fields who wish to make data science their first job 
-* Technically minded people with little formal training but who are strong self-learners (we check skills, not CVs)
-
-#### Who should **not** apply
-
-* People who do not have a comfortable working knowledge of Python. You'll be frustrated, bored, and we won't be able to help you with basic code questions. If you aren't familiar with Python we suggest doing the wonderful [Codecademy Python Course](https://www.codecademy.com/learn/learn-python) or our [Python Prep Course](../../Data-Science-Prep-Course/).
-
-### Cost to students  
-
-While not a profit-making organization, the Academy is not free - to pay for the infrastructure cost, to ensure that it is sustainable in the long-term, and that the students are committed to the learning experience. The fees are much lower than with for-profit initiatives, as the teaching staff are volunteers. All revenues are re-invested into future editions of the Academy, or donated to Python-based open source initiatives. 
-
-### Code of Conduct  
-
-The Academy operates under a strict [Code of Conduct](../../About us/Code-of-Conduct), based on documents by Coursera and Pydata. Please read the Code of Conduct in full before applying.
+All participants must follow the [Code of Conduct](https://ldssa.github.io/wiki/About%20us/Code-of-Conduct/).
 
 ## Volunteering
 
-Check out the Membership Types in the [LDSA Charter](../../About us/Lisbon-Data-Science-Academy-(Organization)) doc to see what is available.
+See the membership types in the [LDSA organization page](https://ldssa.github.io/wiki/About%20us/Lisbon-Data-Science-Academy-%28Organization%29/) for volunteering opportunities.

@@ -54,18 +54,16 @@ learning material but you'll spend more time problem solving with other people. 
 with people is how real relationships are built. Having relationships with people in the course 
 are what will carry you through when you're doubting yourself. 
 
-There are going to be technical difficulties. We are a volunteer organization and this is the 
-fourth time we are doing this remotely. When there are problems, make it an opportunity to meet someone 
-and treat it as an ice breaker. In doing this, you'll make a friend or two and that 
-friend or two will make the next 9 months so much better.
+There are going to be technical difficulties. We are a volunteer organization and Batch 10 is the
+sixth remote edition. When there are problems, make them an opportunity to meet someone and treat them
+as an ice breaker. The relationships you build can make the October 2026–June 2027 course much better.
 
 
 ## The tools
 
-### The google calendar 
+### The schedule
 
-The source of truth for the schedule is [the batch 7 google calendar](https://calendar.google.com/calendar/u/1?cid=Y19kMDNlNmE1MzAxNWQxYWMxYjBkNjFkMWI4YzQ0NjUyZTY2ODM3ZjQ3ZDI2YmM5NmM1NGFhYTRhZjdiYWFlMzE5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). 
-You can use the link itself directly or you can add it to your favorite calendar app. 
+Use the [Batch 10 course schedule](https://ldssa.github.io/wiki/Starters%20Academy%20%28LDSSA%29/01-Starters-Academy-%28Course%29/#3-schedule) for the confirmed 2026/2027 dates. If a Batch 10 calendar is published, its link will be shared with students through the official course channels.
 
 ### Google Meet
 
@@ -102,8 +100,4 @@ This is where you can have written conversations and ask questions that don't re
 response. Please note that there are channels created for each of the SLUs, BLUs, and hackathons. Be sure to post your question 
 in the right place!
 
-Note that we have not paid for a full Slack subscription. This is on purpose. Slack is not a place 
-that should generate a source of truth for anything at all. Slack messages disappear after 90 days.
-Anything else needs to go into something official like a GitHub issue if you want it preserved.
-
-
+The Academy uses a free Slack workspace, where only the most recent 90 days of message history is visible. Depending on the workspace's retention setting, older content may be deleted after 90 days or retained for up to one year. Do not use Slack as a permanent source of truth. Put information that must be preserved in the Wiki, course repository or a GitHub issue. See [Slack's free-plan usage limits](https://slack.com/help/articles/115002422943-Usage-limits-for-free-workspaces).

@@ -18,6 +18,8 @@ What's in this page:
 
 # Staff
 
+> The staff and AOR roster below has no recorded verification date and should be treated as historical until the current LDSA leadership confirms it. Do not use it as the sole source for current operational contacts.
+
 
 ## Executive Team
 
@@ -70,7 +72,9 @@ The executive team consists of one person.
 
 André Espírito Santo Pedrosa, André Pedrosa, Angelica Verhulst , Brett-Morgan Nielsen, Bruno António, Catarina Freitas, Catarina Silva, Christine Maroti, Clara Barreto, Daniel Sousa, Filipa Rodrigues, Francisco Caldas, Francisco Delca, Francisco Fonseca, Frederico Nunes, Helena Carvalho, Hugo Ferreira, Hugo Lopes, Inês Mendes, Inês Pessoa, Ivo Bernardo, João Ascensão, João Veiga, José Medeiros, Juliana Rodrigues, Juliane Silva, Luís Andrade, Manuel Garrido, Mariana Fernandes, Miguel Dias, Minh Hoang, Nuno Brás, Nuno Carneiro, Pavel Nikalayeu, Pedro Ascensão, Pedro Fonseca, Ricardo Alberto, Rita Sousa, Rodrigo Verissimo, Rui Figueiredo, Sam Hopkins, Simon Esprit, Sofia Cardita, Sofia Jerónimo, Surabhi, Susan Wang, Telmo Felgueira, Wilson Ramos
 
-## Graduates
+## Graduates — historical records through Batch 6
+
+The records currently available on this page end with Batch 6. Later batches will be added only from an authoritative graduate record.
 
 #### Batch 6 (2022/23)
 
@@ -88,7 +92,9 @@ Ana Cerqueira, Ana Guedes, Andrés Mangas, Bruno Conceição, Carlos Fonseca, Ca
 
 Alba Aparicio Duran, Almut Pohl, Ana Rita Gonçalves Sousa, António Fonseca Coelho, Beatriz Xavier, Bruno Alexandre Zeverino António, Carlos Bernardo Bento Costa, Francisco Miguel Rodrigues Bota, Gonçalo Martins Quinta, Inês Margarida Simões Pessoa, Inês Sampaio dos Reis Almeida, João Nuno Silva Picão Oliveira, João Tiago Neves Penedo, Joao Tiago Sayanda Gafeira, João Rui Alves Andrade Afonso, Juliana Sousa Rodrigues, Marina Fridman, Minh Hoang, Nuno Heli Dantas de Beires Pereira da Costa, Paulo Ricardo Fernandes Araújo Pedro de Almeida, Paulo Sérgio Perames Paraíso, Ricardo Custódio , Ricardo José Neves Alberto, Rui Braga, Sara Rodrigues Mendes, Sebastião Fachada Fonseca, Tiago Alexandre Reis Ramalho Moutinho Freire, Valentyna Koshelnyk, Wilson David Ferreira Ramos  
 
-## Students
+## Students — historical records through Batch 6
+
+The records currently available on this page end with Batch 6. Later batches will be added only from an authoritative student record.
 
 #### Batch 6 (2022)
 
