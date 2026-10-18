@@ -107,12 +107,12 @@ This is the schedule for **Batch 10, 2026/2027**. Deadlines are at the end of th
 | Hackathon 1 | 22 Nov 2026 |
 | Specialization 2 | 23 Nov–19 Dec 2026 |
 | Hackathon 2 | 20 Dec 2026 |
-| Christmas/New Year break | 21 Dec 2026–4 Jan 2027 |
-| Specialization 3 | 5–31 Jan 2027 |
-| Hackathon 3 | 1 Feb 2027 |
-| Specialization 4 | 2–28 Feb 2027 |
-| Hackathon 4 | 1 Mar 2027 |
-| Specialization 5 | 2–27 Mar 2027 |
+| Christmas/New Year break | 21 Dec 2026–3 Jan 2027 |
+| Specialization 3 | 4–30 Jan 2027 |
+| Hackathon 3 | 31 Jan 2027 |
+| Specialization 4 | 1–27 Feb 2027 |
+| Hackathon 4 | 28 Feb 2027 |
+| Specialization 5 | 1–27 Mar 2027 |
 | Hackathon 5 | 28 Mar 2027 |
 | Specialization 6 | 29 Mar–24 Apr 2027 |
 | Hackathon 6 | 25 Apr 2027 |
