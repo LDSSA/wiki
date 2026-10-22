@@ -33,14 +33,14 @@ Applicants who do not request a scholarship proceed directly to payment. Scholar
 
 | Activity | Date/Deadline |
 | --- | --- |
-| Signup and registration completion | 24 Sep–15 Oct 2026 |
-| Scholarship interviews | 12–16 Oct 2026 |
-| Payment-document submission | 12–17 Oct 2026 |
+| Signup and registration completion | 24 Sep–24 Oct 2026 |
+| Scholarship interviews | 12–24 Oct 2026 |
+| Payment-document submission | 12–24 Oct 2026 |
 | Introductory session and academy access | 18 Oct 2026 |
 | Setup period | 18–24 Oct 2026 |
 | Specialization 1 | 25 Oct–21 Nov 2026 |
 
-Dates and deadlines use **Europe/Lisbon** time. Signup closes after 15 October, but applicants who signed up on time may complete the remaining registration steps until the end of 15 October. Payment documents are accepted until the end of 17 October.
+Dates and deadlines use **Europe/Lisbon** time. Signup closes after 24 October, but applicants who signed up on time may complete the remaining registration steps until the end of 24 October. Payment documents are accepted until the end of 24 October.
 
 ## Enrollment and payment
 
@@ -59,7 +59,7 @@ An invoice with a company VAT number (NIF in Portugal) is available only with a 
 
 Scholarships are intended for applicants who are unemployed or living on a low or no income. Requesting a scholarship during registration places your application in the scholarship review path and cannot be changed afterward.
 
-Scholarship interviews take place from 12 to 16 October 2026. Be prepared to provide evidence of unemployment or low income. If approved, your ticket becomes a Scholarship ticket and you receive instructions to pay the €20 fee. Under the current process, a refused scholarship application does not automatically become a Regular application; the admission ends.
+Scholarship interviews take place from 12 to 24 October 2026. Be prepared to provide evidence of unemployment or low income. If approved, your ticket becomes a Scholarship ticket and you receive instructions to pay the €20 fee. Under the current process, a refused scholarship application does not automatically become a Regular application; the admission ends.
 
 ## What happens after enrollment
 
