@@ -97,9 +97,9 @@ This is the schedule for **Batch 10, 2026/2027**. Deadlines are at the end of th
 
 | Activity | Date/Deadline |
 | --- | --- |
-| Signup and registration completion | 24 Sep–15 Oct 2026 |
-| Scholarship interviews | 12–16 Oct 2026 |
-| Payment | 12–17 Oct 2026 |
+| Signup and registration completion | 24 Sep–24 Oct 2026 |
+| Scholarship interviews | 12–24 Oct 2026 |
+| Payment | 12–24 Oct 2026 |
 | Introductory session | 18 Oct 2026 |
 | Setup | 18–24 Oct 2026 |
 | Bootcamp classes | 25 Oct and 1 Nov 2026 |
